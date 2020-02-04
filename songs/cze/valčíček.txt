@@ -1,0 +1,22 @@
+\beginsong{Valčíček}[by={Nedvědi}]
+\beginchorus
+Tuhl\[G]e písničku chtěl bych ti\[D], lásko, dát, ať ti \[D7]každej den připomí\[G]ná,
+toho, \[G7]kdo je tvůj, čí ty jsi \[C]a kdo má \[G]rád ať ti každej den \[D]připomí\[G]ná
+\endchorus
+\beginverse
+Klu\[G]ka jako ty hledám \[D]už spoustu let,
+tako\[D7]vý trošku trhlý mý j\[G]á,
+/: Dej mi \[G7]ruku, pojď, půjdeme \[C]šlapat náš \[G]svět,
+i když obrovskou \[D]práci to \[G]dá :/
+\endverse
+\rf
+\beginverse
+Fakt mi nevadí, že nos jak bambulku máš,
+ani já nejsem žádnej ideál,
+/: Hlavně, co uvnitř nosíš a co skrýváš,
+to je pouto, co vede nás dál :/
+\endverse
+\rf
+
+
+\endsong

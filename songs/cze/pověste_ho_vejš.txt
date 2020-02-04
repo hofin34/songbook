@@ -1,0 +1,44 @@
+\beginsong{Pověste ho vejš}[by={Michal Tučný}]
+\beginverse
+Pověste ho \[Ami]vejš, ať se houpá,
+pověste ho \[C]vejš, ať má \[G]dost.
+Pověste ho \[Dmi]vejš, ať se \[Ami]houpá,
+že tu \[G]byl nezvanej \[Ami]host.
+Pověste ho, že byl jinej,
+že tu s námi dejchal stejnej vzduch.
+\endverse
+\beginverse
+Pověste ho, ze byl línej
+a tak trochu dobrodruh.
+Pověste ho za El Passo,
+za snídani v trávě a lodní zvon.
+Za to že neoplýval krásou,
+že měl \[F]country rád, že se \[E]uměl smát i \[Ami]vám.
+\endverse
+\beginchorus
+R.  Nad hla\[C]vou mi slunce \[G]pálí konec \[Dmi]můj nic neod\[C]dá\[G]lí,
+    do svých \[C]snů se dívám z \[G]dáli.
+    A do \[Dmi]uší mi stále zní tahle \[E]moje píseň poslední
+\endchorus
+\beginverse
+Pověste ho za tu banku,
+v který zruinoval svůj vklad.
+Za to že nikdy nevydržel
+na jednom místě stát.
+ \endverse
+\rf
+\beginverse
+Pověste ho za tu jistou,
+který nesplnil svůj slib.
+že byl zarputilým optimistou
+a tak dělal spoustu chyb.
+Pověste ho, ze se koukal,
+ze hodně jed a hodně pil.
+ze dal přednost jarním loukám
+a pak se usadil a pak se oženil
+a žil.
+\endverse
+\rf
+
+ 
+\endsong

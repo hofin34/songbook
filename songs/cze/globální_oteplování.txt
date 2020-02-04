@@ -1,0 +1,43 @@
+\beginsong{Globální oteplování}[by={Nightwork}]
+\beginverse
+\[A]Když jsem ještě\[Hmi]býval malej\[C#mi]kluk,
+kluci já měl\[Hmi]sen.
+\[A]Sníval jsem ho\[Hmi]každý,\[C#mi]každý všední\[Hmi]den.
+\[C#mi]Jednoho dne \[C#mi]v neděli,
+když naši \[Hmi]za babičkou odjeli.
+\[A]Pátral jsem \[C#mi]v mámině \[C#mi]šatníku,
+\[Hmi]střevíce padly k mému \[D]kotníku.
+Teplý letní \[C#mi]den,
+venku samci \[C#mi]motýlí, řekl jsem si \[Hmi]po chvíli.....\[D]
+\endverse
+\beginchorus
+Já jsem \[A]GAY, jsem\[H]GAY, jsem\[D]TEPLEJ,
+Já jsem GAY, jsem GAY, jsem TEPLEJ,
+buď taky \[A]GAY...
+\endchorus
+\beginverse
+Dnes už jsem si jistý,
+že naše palneta je na oběžné dráze,
+TEPLEJ květ, TEPLEJ je i vesmír,
+však i Antarktida roztaje již za 6 let.
+Slunce svítí každý den,
+tak neváhej a pojď se mnou ven.
+Podívej TEPLÁ žížala, pes i rostlina,
+vždyť fotosyntéza by bez nás nebyla.
+Venku samci motýlí tulipány pylují řekněme si po chvíli...
+\endverse
+\rf
+\beginverse
+\[B]TEPLEJ sysel, \[C]TEPLÁ vydra, \[D]mečoun je GAY taky,
+\[B]v potoce \[C]jsou TEPLÝ ryby,
+\[D]všude vidim TEPLÝ \[E]mraky.
+\endverse
+\beginchorus
+Já jsem \[H]GAY, jsem \[C#]GAY, jsem \[E]TEPLEJ,
+Já jsem GAY, jsem GAY, jsem TEPLEJ,
+Já jsem GAY, jsem GAY, jsem TEPLEJ,
+Já jsem GAY, jsem GAY, jsem TEPLEJ,
+Buď taky \[H]GAY...
+\endchorus
+
+\endsong

@@ -1,0 +1,23 @@
+\beginsong{Pramínek vlasů}[by={Jiří Suchý}]
+\beginverse
+{\nolyrics Předehra: \[C Ami F G]}
+Když měsíc \[C]rozlije \[Ami]světlo své \[F]po kra\[G]ji
+a hvězdy \[C]řeknou, \[Ami]že čas je jít \[F]sp\[G7]át
+pramínek \[C]vla\[Ami]sů jí ustřihnu \[F]po\[G]tají,
+komu no \[C]přece té, \[F]kterou mám \[C]rád.\[G7]
+\endverse
+\beginverse
+Pramínek vlasů jí ustřihnu potají já blázen pod polštář chci si ho dát
+ačkoliv sny se mi zásadně nezdají věřím, že dnes v noci budou se zdát
+\endverse
+\beginchorus
+O sny mě \[B]připraví teprve \[C]svítání zpěv ptáků v \[B]oblacích a modré \[C]nebe
+od vlasů \[F]jichž jsem se dotýkal \[C]ve spaní, nový den \[As7]nůžkama odstřihne \[G]tebe.
+\endchorus
+\beginverse
+A na bílém polštáři do kroužku stočený zbude tu po tobě pramínek vlasů
+já nebudu vstávat - dál chci ležet zasněný je totiž neděle a mám dost času
+\endverse
+\rf
+
+\endsong

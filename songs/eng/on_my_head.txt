@@ -1,0 +1,25 @@
+\beginsong{On my head}[by={Dan Bárta}]
+\beginverse
+\[D]Lead my \[F#mi]heart in my own \[G]place,
+run up to the \[A]stars across the hea\[D]ven.
+Hel\[F#mi]lo, you \[G]say, you will \[A]drive me lazy.
+\[D]Meeting my \[F#mi]heart, leaving the \[G]yard,
+Waiting for the \[A]night’s birds, never say ne\[D]ver
+We \[F#mi]freak, we \[G]burst, blasting \[A]from all angles..
+\endverse
+\beginchorus
+/: \[D]When I am \[F#mi]standing on my \[G]head,
+you are crazy smiling,
+\[D]now we don’t \[F#mi]have it, we are \[G]mad,
+go round this \[A]speedy romancing :/
+\endchorus
+\beginverse
+\[D]You have the \[F#mi]time to take a \[G]break,\[G] \[G]
+\[D]get up to \[F#mi]find your lost con\[G]trol\[G] \[G]
+\[D]Someone \[F#mi]lost your trust, your \[G]soul,
+looking for the \[A]right size and a good mea\[D]sure.
+I am a \[F#mi]tough guy from the \[G]sky,
+my good will \[A]drives me crazy..
+\endverse
+\rf[2]
+\endsong

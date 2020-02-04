@@ -1,0 +1,50 @@
+\beginsong{Jizva na rtu}[by={Jaromír Nohavica}]
+\beginverse
+\[C]Sem příliš starý na to abych věřil v revoluci
+\[G]a svoji velkou hlavu těžko skryji pod kapucí
+\[Ami]a nechutná mi když se \[F]vaří předvařená rýže,
+\[C]v náprsní kapse nosím \[G]Ventinol na potíže.
+\endverse
+\beginverse*
+\[Ami]Jakto tak vidím asi těžko projdu uchem jehly,
+\[F]a lesem, běhám tak, aby \[C]mě vlci nedoběhli.
+\[Dmi]A kdyby se někdo z vás na anděla ptal,
+tak \[C]mám jizvu na rtu, \[G]když při mně \[C]stál \[G]
+\endverse
+\beginverse
+Sako mám od popílku, na kravatě saze,
+mé hrubé prsty neumí uzly na provaze
+a když mi občas tečou slzy, hned je polykám
+a tančím jen tak rychle, jak hraje muzika.
+\endverse
+\beginverse*
+Mé oči mnohé viděli a ruce mnohé měli,
+a srdce stydělo se, když salvy slávy zněli
+a kdyby se někdo z vás na anděla ptal,
+tak mám jizvu na rtu, když při mně stál.
+\endverse
+\beginverse
+Mluvil sem s prezidenty, potkal sem vrahy,
+nahý sem na svět přišel a odejdu nahý,
+v patnácti viděl sem jak kolem jeli ruské tanky
+a v padesáti nechával si věštit od cigánky.\\
+\endverse
+\beginverse*
+A dříve, než mě příjme svatý Petr u komise,
+básníkům české země chtěl bych uklonit se,
+a kdyby se někdo z vás na anděla ptal,
+tak mám jizvu na rtu, když při mně stál.
+\endverse
+\beginverse
+V Paříži četl sem si ruskou verzi Le manité,
+a z bible zatím pochopil jen věty nerozvité,
+v New Yorku chyt sem koutek od plastových lžiček,ale
+nejlepsí káva je v hypernově U Rybiček.\\
+\endverse
+\beginverse*
+Trumfové eso v mariáši hážu do talónu
+a chtěl bych vidět Baník, jak poráží Barcelonu.
+A kdyby se někdo z vás na anděla ptal,
+tak mám jizvu na rtu, když při mně stál.
+\endverse
+\endsong

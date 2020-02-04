@@ -1,0 +1,21 @@
+ \beginsong{Krutý krtek Joy}[by={Kabát}]
+\beginverse
+\[Ami]Když nemám co na práci tak pozoruju \[G] krtky
+jak marně čas utrácí, když dělaj ty svý \[Ami]hrudky
+svařím plnou konvici tou zmařím jejich \[G]píli
+už se těším za chvíli, jak krtkům dojdou \[Ami]síly
+\endverse
+\beginchorus
+\[F]ale oni \[C]plavou
+s \[G] nakloněnou \[Ami]hlavou
+\[F]prsa nebo \[C]znak
+\[G]ano je to \[Ami]tak
+\endchorus
+\beginverse
+Posekej celou zahradu a všechno luční kvítí
+to se potom černej krtek mnohe, lépe chytí
+najdi správnou díru, do který se voda leje
+jestli to nezabere, vim, co se ti tam děje
+\endverse
+\rf
+\endsong

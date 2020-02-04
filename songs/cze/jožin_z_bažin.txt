@@ -1,0 +1,37 @@
+\beginsong{Jožin z bažin}[by={Ivan Mládek a Banjo Band}]
+\beginverse
+\[Ami]Jedu takhle tábořit \[E]Škodou 100 na \[Ami]Oravu,
+spěchám proto, riskuji, pro\[E]jíždím přes Mo\[Ami]ravu.
+\[G7]Řádí tam to stra\[C]šidlo, \[G7]vystupuje z ba\[C]žin\[E],
+\[Ami]žere hlavně Pražáky a \[E]jmenuje se \[Ami]Jožin.\[G7]
+\endverse
+\beginchorus
+\[C]Jožin z bažin močálem se plí\[G7]ží,
+Jožin z bažin k vesnici se blí\[C]ží,
+Jožin z bažin už si zuby brou\[G7]sí,
+Jožin z bažin kouše, saje, rdou\[C]sí.
+Na \[F]Jožina z \[C]bažin, \[G]koho by to napadlo,\[C F]
+platí jen a \[C]pouze práš\[G]kovací letadlo.\[C E]
+\endchorus
+\beginverse
+Projížděl jsem Moravou směrem na Vizovice,
+   přivítal mě předseda, řek' mi u slivovice:
+   "Živého či mrtvého Jožina kdo přivede,
+    tomu já dám za ženu dceru a půl JZD!"
+\endverse
+\rf
+\beginverse
+Říkám:"Dej mi, předsedo, letadlo a prášek,
+   Jožina ti přivedu, nevidím v tom háček."
+   Předseda mi vyhověl, ráno jsem se vznesl,
+   na Jožina z letadla prášek pěkně klesl.
+\endverse
+\beginchorus
+   Jožin z bažin už je celý bílý,
+   Jožin z bažin z močálu ven pílí,
+   Jožin z bažin dostal se na kámen,
+   Jožin z bažin - tady je s ním amen!
+   Jožina jsem dostal, už ho držím, johoho,
+   dobré každé lóve, prodám já ho do ZOO.
+\endchorus
+\endsong

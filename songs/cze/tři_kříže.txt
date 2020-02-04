@@ -1,0 +1,40 @@
+\beginsong{Tři kříže}[by={Hop Trop}]
+\beginverse
+\[Dmi]Dávám sbohem všem \[C]břehům prokla\[Ami]tejm,
+který v \[Dmi]drápech má \[Ami]ďábel \[Dmi]sám,
+bílou přídí \[C]šalupa My \[Ami]Grave
+mířím k \[Dmi]útesům, \[Ami]který \[Dmi]znám.
+\endverse
+\beginchorus
+Jen tři \[F]kříže z bí\[C]lýho kame\[Ami]ní
+někdo \[Dmi]do písku \[Ami]posklá\[Dmi]dal.
+Slzy v \[F]očích měl a v \[C]ruce znave\[Ami]ný,
+lodní \[Dmi]deník, co \[Ami]sám do něj \[Dmi]psal.
+\endchorus
+\beginverse
+První kříž má pod sebou jen hřích,
+samý pití a rvačky jen.
+Chřestot nožů, při kterym přejde smích,
+srdce-kámen a jméno Sten.
+\endverse
+\rf
+\beginverse
+Já, Bob Green, mám tváře zjizvený,
+štěkot psa zněl, když jsem se smál.
+Druhej kříž mám a spím v podzemí,
+že jsem falešný karty hrál.
+\endverse
+\rf
+\beginverse
+Třetí kříž snad vyvolá jen vztek,
+Fatty Rogers těm dvoum život vzal.
+Svědomí měl, vedle nich si klek.
+\textit{
+"Já vím, trestat je lidský, ale odpouštět božský.
+Ať mi tedy bůh odpustí." }
+\endverse
+\rf
+\beginverse*
+...lodní deník, co jsem do něj psal.
+\endverse
+\endsong

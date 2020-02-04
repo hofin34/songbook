@@ -1,0 +1,42 @@
+\documentclass[letterpaper]{article}
+\usepackage[unicode]{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage[lyric]{songs}
+% \includeonlysongs{2}
+\newcommand\rf[1][\relax]{\ifx\relax#1
+        \beginverse* \textbf{Ref.}\\ \endverse
+        \else
+                \beginverse* \textbf{Ref.} \rep{#1}\\ \endverse
+\fi}
+
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{0in}
+\setlength{\topskip}{0in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{9.1in}
+\settowidth{\versenumwidth}{1.\ }
+%\setlength\baselineadj{-\baselineskip}
+%\pagestyle{empty}
+
+\newindex{titleidx}{cbtitle}
+\newindex{entitleidx}{encbtitle}
+\begin{document}
+
+\showindex[3]{Obsah}{titleidx}
+\showindex[3]{Cizojazyčné - obsah}{entitleidx}
+
+\songsection{České písničky}
+\begin{songs}{titleidx}
+\input{songs/merged_cze_songs.sbd}
+\end{songs}
+
+\songsection{Cizojazyčné písničky}
+\begin{songs}{entitleidx}
+	\input{songs/merged_eng_songs.sbd}
+\end{songs}
+
+\end{document}
+

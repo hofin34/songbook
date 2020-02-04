@@ -1,0 +1,40 @@
+ \beginsong{Láďa}[by={Kabát}]
+\beginverse
+\[Dmi]Láďa jede na skejtu
+a umí chodit po laně,
+\[Gmi]když je v dobrý náladě,
+tak \[Dmi]napodobí vorvaně,
+\[Dmi]má veliký BMW,
+nikdo se na něj nechytá,
+\[Gmi]jak sou ňáký problémy,
+Lá\[Dmi]ďa je všechny vychytá.
+\endverse
+\beginverse*
+\[F]Geniální nápady má, mozek obřích rozměrů,
+\[C]vejde se mu do hlavy, \[A]jestlipak víte proč!
+Protože
+\endverse
+\beginchorus
+\[Dmi]Láďa má velkou hlavu,\[B]jak pytel od banánů,
+\[Dmi]Láďa se v davu neztra\[B]tí,
+\[Dmi]když se mu holky smějou,
+\[B]prachy ho v kapse hřejou,
+\[Dmi]jednou si všechny zapla\[B]tí.
+\endchorus
+\beginverse
+On když se vám rozjede,
+dovede práskat vousama
+a k tomu metat kozelce
+a umí psát až do rána.
+Z Pedra foukat bublinu
+velkou jak půl Zimbabwe,
+pa rusky spievať Dólinu,
+bacha, tamhle Láďa de.
+\endverse
+\beginverse*
+Geniální nápady má, mozek obřích rozměrů,
+vejde se mu do hlady, jestlipak víte proč!
+Protože
+\endverse
+\rf[2]
+\endsong

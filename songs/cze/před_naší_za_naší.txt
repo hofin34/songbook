@@ -1,0 +1,30 @@
+\beginsong{Před naší, za naší (prašná cestička)}[by={Karel Gott}]
+\beginverse
+\[D]Ustupte jen \[G]ustup\[D]te
+\[G]nebuď \[D]prašná \[A7]cestič\[D]ko
+\[D]dobrý junák ted' tebou \[F#mi]jde\[Hmi]e
+\[G]chce poz\[D]nat svět \[A7]malič\[D]ko
+\endverse
+\beginchorus
+\[Hmi]Před naší za na\[F#mi]ší cesta \[G]má
+ať neprá\[D]ší hej\[G] \[D] \[A7] \[D]
+\endchorus
+\beginverse
+Když se dívám na sebe
+tak se musím pochválit
+nevypadám já věru zle
+zkrátka chlapec jak má být
+\endverse
+\rf
+
+\beginverse
+Cestičkou půjdu stále vpřed
+nevěstu si vyhledám
+ta musí být jak jarní květ
+jinak budu radši sám
+\endverse
+\rf
+
+
+
+\endsong

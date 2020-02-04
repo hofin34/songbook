@@ -1,0 +1,34 @@
+\beginsong{Radioactive}[by={Imagine Dragons}]
+\gtab{Dmaj7}{X00222}
+\beginverse
+\[Hmi]I'm waking \[D]up to ash and \[A]dust
+I wipe my \[E]brow and I sweat my r\[Hmi]ust
+I'm breathing\[D] in the chemicals\[A] \[E]
+\[Hmi]I'm breaking\[D] in, shaping \[A]up, then checking \[E]out on the prison bus
+\[Hmi]This is it\[D], the apocalypse\[A]
+Who\[E]a
+\endverse
+\beginchorus
+\[E] I'm waking \[Hmi]up, I feel it in\[D] my bones
+\[A]Enough to make my s\[E]ystems grow
+\[Hmi]Welcome to the new age,\[D] to the new age
+\[A]Welcome to the new age,\[E] to the new age
+\[Hmi]Whoa,\[D] whoa,\[A] I'm radioactive,\[E] radioactive
+\[Hmi]Whoa,\[D] whoa,\[A] I'm radioactive,\[E] radioactive
+\endchorus
+\beginverse
+\[Hmi]I raise my fl\[D]ags, don my \[A]clothes
+It's a rev\[E]olution, I suppose \[Hmi]
+We're painted \[D]red to fit right in\[A]
+Who\[E]a
+\[Hmi]I'm breaking\[D] in, shaping \[A]up, then checking \[E]out on the prison bus
+\[Hmi]This is it\[D], the apocalypse\[A]
+\[A]Whoa
+\endverse
+\rf
+\beginverse*
+\[Hmi]All systems \[Dmaj7]go, \[A]sun hasn't \[E]died
+\[Hmi]Deep in my \[Dmaj7]bones, \[A]straight from \[E]inside
+\endverse
+\rf
+\endsong

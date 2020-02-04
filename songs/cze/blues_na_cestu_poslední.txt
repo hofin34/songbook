@@ -1,0 +1,34 @@
+\beginsong{Blues na cestu poslední}[by={Jiří Suchý}]
+\gtab{F#dim}{(234242)}
+\gtab{Fdim}{(123131)}
+\gtab{Edim}{012020}
+\beginverse
+\[D]Černej nebožtíku,\[G7]máš to ale kliku,
+\[D]za chvíli do temný hlíny \[D7]budeš zakopán,
+\[G7]černej nebožtíku, máš to ale kliku,
+\[D]za chvíli do temný hlíny budeš zakopán,
+\[A7]nás jsi nechal v bídě, \[G7]sám se vezeš jako \[D]pán.
+\[F#dim]Vava \[Fdim]dava \[Edim]dava \[D]dá \[D] \[A7]
+\endverse
+\beginverse
+Jen kopyta koní hrany tobě zvoní,
+málo lidí dnes pro tebe slzy polyká,
+jen kopyta koní hrany tobě zvoní,
+málo lidí dnes pro tebe slzy polyká,
+je to smutnej funus, chybí ti tu muzika.
+\endverse
+\beginverse
+Kam ti pozůstalí, kam ti vlastně dali
+věnce, kytky, pentle, svíce, marně se ptám,
+kam ti pozůstalí, kam ti vlastně dali
+věnce, kytky, pentle, svíce, marně se ptám,
+proč je rakev holá, to ty asi nevíš sám.
+\endverse
+\beginverse
+Černej nebožtíku, když nemáš na muziku,
+poslechni mou radu trochu nevšední,
+černej nebožtíku, když nemáš na muziku,
+poslechni mou radu trochu nevšední,
+zazpívej si sám blues na cestu poslední.
+\endverse
+\endsong

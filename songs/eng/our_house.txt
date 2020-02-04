@@ -1,0 +1,41 @@
+\beginsong{Our House (Bauhaus)}[by={Madness}]
+\beginverse
+\[C]Father wears his Sunday \[Gmi]best, \[Dmi]Mother's tired she needs a rest, the
+\[Fm]kids are playing up downstairs
+\[C]Sister's sighing in her \[Gmi]sleep, \[Dmi]Brother's got a date to keep, he
+\[Fm]can't hang around
+\endverse
+\beginchorus
+\[D]Our \[Ami]house, \[Em]in the \[Gmi]middle of our \[D]street
+Our \[Ami]house\[Em], in the \[Gmi]middle of our ...
+\endchorus
+\beginverse
+\[C]Our house it has a \[Gmi]crowd, there's \[Dmi]always something happening and
+it's \[Fm]usually quite loud
+\[C]Our mum she's so house-\[Gmi]proud, \[Dmi]nothing ever slows her down and a
+\[Fm]mess is not allowed
+\endverse
+\rf
+\beginverse
+\[C]Father gets up late for \[Gmi]work, \[Dmi]Mother has to iron his shirt, \[Fm]then
+she sends the kids to school
+\[C]Sees them off with a small \[Gmi]kiss, \[Dmi]she's the one they're going to miss
+\[Fm]in lots of ways
+\endverse
+\rf
+\beginverse
+I remember way back then when everything was true and when
+We would have such a very good time such a fine time
+Such a happy time
+And I remember how we'd play simply waste the day away
+Then we'd say nothing would come between us two dreamers
+\endverse
+\beginchorus
+Our house, was our castle and our keep - Our house, in the middle of our
+street
+Our house, that was where we used to sleep - Our house, in the middle of our
+street
+Our house, in the middle of our street
+\endchorus
+
+\endsong

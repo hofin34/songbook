@@ -1,0 +1,60 @@
+ \beginsong{Burlaci}[by={Kabát}]
+\beginverse
+\[Hmi]Konopný lana, tak ty už něco vydr\[F#mi]ží,
+zkaženej dech a čtyry deci pod ků\[Hmi]ží,
+nebe rudý, břízy brzo pokve\[F#mi]tou
+a chlapi z nudy baví se ruskou rule\[G]tou,
+když svoje lodě proti proudu tá\[Hmi]hnou,
+\endverse
+\beginverse
+\[Hmi]Otroci řeky, prach a špína, tvrdá \[F#mi]zem,
+jediná výhra, je tanec smrti s medvě\[Hmi]dem,
+a tak si žijou, ze dne na den tisíc \[F#mi]let,
+Burlaci pijou ,jak bylo by to napos\[G]led,
+když svoje lodě proti proudu tá\[Hmi]hnou,
+navzdory všem kame\[G]nům
+Proč jenom touhy po čase \[F#]vadnou?
+
+Otoč se a podí\[D]vej.
+\endverse
+\beginchorus
+Nebe je tem\[A]ný a mnohem \[Hmi]níž,
+jen vlků \[G]dávnej chorál z \[D]hor,
+a já tu \[A]marně hledám \[Hmi]skrýš,
+když cesta \[G]rovná se nám ztrá\[D]cí,
+lidi jsou \[A]andělé a nebo \[Hmi]draci,
+a každej \[G]dobrej skutek sílu \[D]vrací,
+no tak jen \[A]otoč se a podí\[Hmi]vej na lodě \[C]za tebou!
+\endchorus
+\beginverse
+Není to lehký, ve světě lží a polopravd,
+Na břehu řeky harmonika začla hrát,
+Tamtoho léta vítr stopy zahladil,
+Jsme jako oni, už nezbejvá nám tolik sil,
+Když svoje lodě proti proudu táhnem,
+Navzdory všem kame\[G]nům,
+Jednou si každej až na dno \[F#]sáhnem.
+
+Otoč se a podí\[D]vej.
+\endverse
+\rf
+\beginverse*
+Tak se mi \[F]zdá…
+\endverse
+\beginchorus
+Nebe je \[C]temný a mnohem \[Dmi]níž,
+jen vlků \[B]dávnej chorál \[F]z hor,
+a já tu \[C]marně hledám \[Dmi]skrýš,
+když cesta \[B]rovná se nám \[F]ztrácí,
+lidi jsou \[C]andělé a nebo \[Dmi]draci
+a každej \[B]dobrej skutek sílu \[F]vrací,
+no tak jen \[C]otoč se a podí\[Dmi]vej,
+na lodě \[B]za tebou.
+
+Tak se mi \[F]zdá…
+\endchorus
+\rf
+\beginverse*
+na lodě \[Es]za tebou.
+\endverse
+\endsong

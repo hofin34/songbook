@@ -1,0 +1,47 @@
+\beginsong{Nebude to ľahké}[by={Richard Müller}]
+\beginverse
+\[Hmi]Vraj zmenila si \[A]číslo
+\[Hmi]A do zámku \[A]nepasuje viac môj \[Hmi]kľúč \[A]
+\[Hmi]Hlavou mi \[A]blyslo
+\[Hmi]Asi chceš \[A]aby som bol už \[G]fuč.
+Óu óuu
+\endverse
+\beginchorus
+\[D]Nebude to \[A]také ľahké \[G]drahá
+\[D]Mňa sa nezba\[A]víš s tým sa \[G]lúč
+\[D]Nebude to \[A]také ľahké \[G]drahá
+\[A]Nemôžeš ma \[G]vymeniť ako \[A]rúž
+Som tvoj \[Hmi]muž
+\endchorus
+\beginverse
+Vraj koketuješ s iným
+Dolámem mu kosti, nos a sny
+Tak dopúšťaš sa viny
+Tak vrav, povedz čo máš s ním. Óu
+óuu
+\endverse
+\rf
+\beginverse
+Vraj trháš moje fotky
+Majetok náš rozdelí až súd
+Ja exujem veľké vodky
+A márne sa snažím zachovať kľud.
+Óu óuu
+\endverse
+\rf
+\beginverse
+Predsa sme si súdený
+Ja nemôžem žiť bez ženy
+Ja nemôžem žiť bez teba to mi ver,
+Oú
+A v kostole pred pánom
+Sľubovala si nám dvom
+Nekonečnú lásku, vernosť, nie, nie,
+nie, Óu óuu
+\endverse
+\rf
+\beginverse*
+Vraj zmenila si číslo a do zámku
+nepasuje viac môj
+\endverse
+\endsong

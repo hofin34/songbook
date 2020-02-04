@@ -1,0 +1,55 @@
+\beginsong{Ježíš}[by={Mucha}]
+\beginverse
+\[D]\[A]není nic \[Hmi]skvělej\[G]šího
+\[D]než \[A]milovat tě, \[Hmi]než \[G]milovat tě
+\[D]věřím a \[A]miluju a \[Hmi]miluju a \[G]věřím
+\[D]a věřím a \[A]onanuju, \[Hmi]kdykoli kdy \[G]sněží
+\[D]a strašně moc tě \[A]potřebuju, \[Hmi]až mi z toho \[G]mrdá
+\endverse
+\beginchorus
+\[D]mrdá mi \[A]v hlavě, \[Hmi]mrdá mi \[G]v hlavě,
+\[D]mrdá mi \[A]v hlavě, \[Hmi]mrdá mi \[G]v hlavě,
+\[D]mrdá mi \[A]v hlavě, \[Hmi]mrdá mi \[G]v hlavě,
+\[D]mrdá mi \[A]v hlavě, \[Hmi]mrdá mi \[G]v hlavě,
+\endchorus
+\beginverse
+jsem totiš zblázněná do tebe Ježíši
+už to nezastavíš, už to nevrátíš
+já jsem tak zblázněná do tebe Ježíši
+víc mě nezajímá, víc mě nezajímá
+přivážu na sebe 5 kilo trhaviny
+nemyslíš na Ježíše, tak myslíš na kraviny
+na smylstvo, debaty vo sexu
+přivážu na sebe 5 kilo semtexu
+\endverse
+\beginverse
+ježíš je nejvíc, ježíš je bůh
+ježíše dýchám, ježíš můj vzduch
+ježíš mě píchá, píchá mě do hlavy
+píchá mě do hlavy, až mi z toho mrdá
+\endverse
+\rf
+\beginverse
+ježíš, co se tak ježíš
+když něco miluješ, tak tomu věříš
+neznáš odpověď, je tu pan ježíš
+neznáš otázku, no tak jsi kretén
+\endverse
+\beginverse*
+Jeziskovi: "K Vanocum, prala bych si, Jeziska".
+"A proooooc?"
+Protože Boží království paří.
+Boží království vaří.
+Protože Boží království se nesnaží.
+To naplno vaří, to smaží.
+To jede dopředu, to jede nahoru.
+To, to strhává zástupy.
+To svolává a dělá zázraky.
+Boží království dává svobodu.
+Dává haleluja. Všechno do pochodu.
+A nic nenechává...
+Protože, mrdá mi v hlavě, mrdá mi v hlavě
+proč mi tak mrdá
+\endverse
+\rf
+\endsong

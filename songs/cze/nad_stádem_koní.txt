@@ -1,0 +1,56 @@
+\beginsong{Nad stádem koní}[by={Buty}]
+\beginverse
+\[D]Nad stádem \[A]koní
+\[Emi]podkovy \[G]zvoní, zvoní\[D]
+černý vůz \[A]vlečou \[Emi]
+a slzy \[G]tečou
+a já vo\[D]lám:
+\endverse
+\beginverse*
+Tak neplač můj kamaráde
+náhoda je blbec když krade
+
+Je \[D]tuhý jak \[A]veka
+a řeka ho zpla\[Emi]ví
+Máme ho \[G]rádi
+No tak \[C]co
+(no) tak \[G]co
+(no) tak \[A]co
+\endverse
+\beginverse
+Vždycky si přál
+až bude popel
+i s kytarou, hou
+Vodou ať plavou
+jen žádný hotel
+s křížkem nad hlavou
+\endverse
+\beginverse
+až najdeš místo
+kde je ten pramen
+A kámen co praská
+Budeš mít jisto
+Patří  sem popel
+a každá láska
+No tak co
+(no) tak co
+(no) tak co
+\endverse
+\beginverse
+Nad stádem koní
+podkovy zvoní zvoní
+černý vůz vlečou
+a slzy tečou
+a já šeptám
+\endverse
+\beginchorus
+Vysyp ten popel
+kamaráde
+do bílé vody vody
+Vyhasnul kotel
+a Náhoda
+je Štěstí od \[G]podkovy
+\rep{2}
+\endchorus
+
+\endsong

@@ -1,0 +1,48 @@
+\beginsong{21 Guns}[by={Green Day}]
+\beginverse
+\[Am]Do you \[F]know what's \[C]worth fighting \[G]for,
+\[Am]When it's \[F]not worth \[C]dying for?\[G]
+\[Am]Does it \[F]take your \[C]breath a\[G]way
+And you \[F]feel yourself suffo\[G]cating?
+\[Am]Does the \[F]pain weigh \[C]out the \[G]pride?
+\[Am]And you \[F]look for a \[C]place to \[G]hide?
+\[Am]Did someone \[F]break your \[C]heart in\[G]side?
+You're in \[F]ruins
+\endverse
+\beginchorus
+\[C]One, \[G]twenty-one \[Am]guns
+\[G]Lay down your \[F]arms
+\[C]Give up the \[G]fight
+\[C]One, \[G]twenty-one \[Am]guns
+\[G]Throw up your \[F]arms \[C]into the \[G]sky,
+You and \[F]I\[C]\[G]
+\endchorus
+\beginverse
+When you're at the end of the road
+And you lost all sense of control
+And your thoughts have taken their toll
+When your mind breaks the spirit of your soul
+Your faith walks on broken glass
+And the hangover doesn't pass
+Nothing's ever built to last
+You're in ruins
+\endverse
+\rf
+\beginverse
+\[Am]Did you \[F]try to \[C]live on your own\[E]
+\[Am]When you \[F]burned down the \[C]house and \[E]home?
+\[Am]Did you \[F]stand too \[C]close to the \[E]fire?
+Like a \[F]liar looking for for\[G]giveness from a \[C]stone
+{\nolyrics Mezihra: \[C]\[G]\[Am]\[G]\[F]\[C]\[G]
+\[F]\[C]\[E]}
+\endverse
+
+\beginverse
+When it's time to live and let die
+And you can't get another try
+Something inside this heart has died
+You're in ruins
+\endverse
+\rf
+
+\endsong

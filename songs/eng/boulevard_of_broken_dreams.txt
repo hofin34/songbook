@@ -1,0 +1,46 @@
+\beginsong{Boulevard Of Broken Dreams}[by={Green Day}]
+\beginverse
+\[Emi]I walk a \[G]lonely road
+The \[D]only one that \[A]I have ever \[Emi]known
+Don't know where it goes
+But it's home to me, and I walk alone
+\endverse
+\beginverse
+I walk this empty street
+On the boulevard of broken dreams
+Where the city sleeps
+And I'm the only one, and I walk alone
+\endverse
+\beginverse*
+I walk alone, I walk alone
+I walk alone and I walk a
+\endverse
+\beginchorus
+\[C]My sha\[G]dow's the \[D]only one that \[Emi]walks beside me
+\[C]My shall\[G]ow \[D]heart's the only \[Emi]thing that's beating
+Sometimes I wish someone out there will find me
+Till then I \[H7]walk alone
+\endchorus
+\beginverse*
+Ah ah ah ah ah
+Ah ah ah ah ah
+\endverse
+\beginverse
+I'm walking down the line
+That divides me somewhere in my mind
+On the border line of the edge
+And where I walk alone
+\endverse
+\beginverse
+Read between the lines
+What's fucked up and every thing's all right
+Check my vital signs to know I'm still alive
+And I walk alone
+\endverse
+\beginverse*
+I walk alone, I walk alone
+I walk alone and I walk a
+\endverse
+\rf
+
+\endsong

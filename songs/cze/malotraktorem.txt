@@ -1,0 +1,72 @@
+\beginsong{Malotraktorem}[by={Mig 21}]
+\beginverse
+\[D]Cestou necestou
+polem ne polem
+\[G]jedu za tebou
+velkým malotrakto\[D]rem
+\[D]Cestou necestou
+polem ne polem
+\[G]jedu za tebou
+velkým malotrakto\[D]rem
+kabrioletem \[Emi, B]
+\endverse
+\beginverse
+pojď mi naproti
+lesem ne lesem
+pojď si mě vyfotit
+jak tam na traktoru jsem
+pojď mi naproti
+lesem ne lesem
+pojď si mě vyfotit
+jak tam na traktoru jsem
+jak jsem roztřesen
+\endverse
+\beginverse*
+\[D]vrn vrn drndrn drndrn
+Drn drn drndrn drndrn
+Drn drn drndrn drndrn
+Drn \[G]drn drn drn drn drn
+\endverse
+\beginchorus
+\[D]Jen kola zdolaj výmoly
+pálím to lesem po poli
+\[G]lán pole mizí pod koly
+\[B]z kopce to ale vosolím
+\[D]Jen kola zdolaj výmoly
+pálím to lesem po poli
+\[G]lán pole mizí pod koly
+\[B]z kopce to ale vosolím
+\endchorus
+\beginverse
+cestou necestou
+polem ne polem
+jedu za tebou
+létem kabrioletem
+cestou necestou
+polem ne polem
+jedu za tebou
+létem kabrioletem
+malotraktorem
+\endverse
+\beginverse*
+\[D]vrn vrn drndrn drndrn
+Drn drn drndrn drndrn
+Drn drn drndrn drndrn
+Drn \[G]drn drn drn drn drn
+\endverse
+\rf
+\beginverse
+\[D]doufám
+že mě pochopíš
+že mě usly\[Emi]šíš
+že mě potěšíš
+\[B]mít budeš ráda
+\[D]doufám
+že mě pocho\[B]píš
+a budeš \[D]mít \[G]ráda
+a budeš \[D]mít \[G]ráda \[B]
+a budeš \[D]mít \[G]ráda
+a budeš \[D]mít \[G]ráda \[B]
+\[D]
+\endverse
+\endsong

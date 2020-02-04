@@ -1,0 +1,36 @@
+\beginsong{Boty proti lásce}[by={Yvonne Přenosilová}]
+\beginverse
+\[E]Zas mi říkal, že má něco pro mě
+a to něco, to prý láska je.
+\[A]Já však nechci žádnou lásku v domě, je,
+\[E]přináší jen žal a výdaje.
+Mám proti \[G]lásce boty,\[E]
+ty chrání \[G]paní svou,\[E]
+ty boty \[G]vždycky jdou\[E]
+a všechno hezké pošlapou.
+\endverse
+\beginverse
+Žiju sama díky těmto botám,
+žiju sama zásluhou těch bot.
+Často sice kluků hlavy motám,
+botám ale city nejsou vhod.
+V těch botách ráda šlapu,
+zvlášť po lásce nás dvou,
+ty boty vždycky jdou
+a všechno hezké pošlapou.
+\endverse
+\beginverse
+Tyhle boty nosím někde v duši,
+někde v duši, ne však na nohou.
+Jsou tam dole, kde mi srdce buší,
+od bušení mu však pomohou.
+V těch botách ráda šlapu,
+a to se mi prý mstí,
+když v těch botách jdu,
+a tak si šlapu po štěstí.
+\endverse
+\beginverse*
+Pozor, boty! Pochodem vchod!
+\endverse
+
+\endsong

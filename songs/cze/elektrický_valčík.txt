@@ -1,0 +1,46 @@
+\beginsong{Elektrický valčík}[by={Zdeněk Svěrák}]
+\beginverse
+\[Ami]Jednoho letního večera na návsi pod starou \[E7]lípou
+hostinský Antonín Kučera vyvalil soudeček s \[Ami]pípou,
+neby\[F]lo to posvícení, neby\[Ami]la to neděle,
+v naší \[F]obci mezi kopci plnily\[E7] se korbele.
+\endverse
+\beginchorus
+\[A]Byl to ten slavný den, kdy k nám byl zaveden \[E7]elektri\[Edim]cký p\[E7]roud,
+byl to ten slavný den, kdy k nám byl zaveden \[A]elektri\[Adim]cký p\[A]roud,
+st\[A7]řídavý\[D], st\[E]řída\[C#mi]vý,  \[F#mi]silný \[Hmi]elekt\[E7]rický \[A]proud,
+st\[A7]řídavý\[D], \[E]střída\[C#mi]vý, zk\[F#mi]rátka \[Hmi]elekt\[E7]rický \[A]proud.
+\endchorus
+\beginverse
+A nyní, kdo tu všechno byl:
+okresní a krajský inspektor, hasičský a recitační sbor,
+poblíže obecní váhy, tříčlenná delegace z Prahy,
+zástupci nedaleké posádky pod vedením poručíka Vosátky,
+početná družina montérů, jeden z nich pomýšlel na dceru
+sedláka Krušiny, dále krojované družiny,
+alegorické vozy, italský zmrzlinář Antonio Cosi
+na motocyklu Indián, a svatý Jan, z kamene vytesán.
+\endverse
+\rf
+\beginverse
+Na stránkách obecní kroniky ozdobným písmem je psáno:
+tento den pro zdejší rolníky znamenal po noci ráno,
+budeme žít jako v Praze, všude samé vedení,
+jedna fáze, druhá fáze, třetí pěkně vedle ní.
+\endverse
+\rf
+
+\beginverse
+Z projevu inženýra Maliny, zástupce Elektrických podniků:
+vážení občané, vzácní hosté, s elektřinou je to prosté:
+od pantáty vedou dráty do žárovky nade vraty,
+odtud proud se přelévá do stodoly, do chléva,
+při krátkém spojení dvou drátů dochází k takzvanému zkratu,
+kdo má pojistky námi předepsané, tomu se při zkratu nic nestane,
+kdo si tam nastrká hřebíky, vyhoří a začne od píky.
+Do každé rodiny elektrické hodiny!
+\endverse
+\rf
+
+
+\endsong

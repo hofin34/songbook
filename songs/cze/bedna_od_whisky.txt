@@ -1,0 +1,35 @@
+\beginsong{Bedna od whisky}[by={-}]
+\beginverse
+\[Ami]Dneska už mě \[C]fóry ňák \[Ami]nejdou přes \[E]pysky,
+\[Ami]stojím s dlouhou \[C]kravatou na \[Ami]bedně \[E]vod whis\[Ami]ky.
+\[Ami]Stojím s dlouhým \[C]vobojkem jak \[Ami]stájovej \[E]pinč,
+\[Ami]tu kravatu \[C]co nosím mi \[Ami]navlík \[E]soudce \[Ami]Linč. \[A]
+\endverse
+\beginchorus
+\[A]Tak kopni do tý \[D]bedny, ať \[E]panstvo neče\[A]ká,
+\[A]jsou dlouhý schody do \[D]nebe a \[E]štreka dale\[A]ká.
+\[A]Do nebeskýho \[D]báru já \[E]sucho v krku \[A]mám,
+\[A]tak kopni do tý \[D]bedny ať \[E]na cestu se \[A]dám. \[Ami]
+\endchorus
+\beginverse
+\[Ami]Mít tak všechny \[C]bedny od \[Ami]whisky vypi\[E]tý,
+\[Ami]postavil bych \[C]malej dům na \[Ami]louce \[E]ukry\[Ami]tý.
+\[Ami]Postavil bych \[C]malej dům a z \[Ami]okna koukal \[E]ven,
+\[Ami]a chlastal bych tam s \[C]Billem a \[Ami]chlastal \[E]by tam \[Ami]Ben. \[A]
+\endverse
+\rf
+\beginverse
+\[Ami]Kdyby si se \[C]hochu, jen \[Ami]pořád nechtěl \[E]rvát,
+\[Ami]nemusel jsi \[C]dneska na \[Ami]týhle \[E]bedně \[Ami]stát.
+\[Ami]Moh' si někde v \[C]suchu tu \[Ami]svoji whisku \[E]pít,
+\[Ami]nemusel si \[C]dneska na \[Ami]krku \[E]laso \[Ami]mít. \[A]
+\endverse
+\rf
+\beginverse
+\[Ami]Až kopneš do tý \[C]bedny, jak \[Ami]se to dělá\[E]vá,
+\[Ami]na krku mi \[C]zůstane jen \[Ami]dírka \[E]mrňa\[Ami]vá.
+\[Ami]Jenom dírka \[C]mrňavá a k \[Ami]smrti jenom \[E]krok,
+\[Ami]má to smutnej \[C]konec a \[Ami]whisky \[E]ani \[Ami]lok. \[A]
+\endverse
+\rf
+\endsong

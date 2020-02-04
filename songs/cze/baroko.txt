@@ -1,0 +1,55 @@
+\beginsong{Baroko}[by={Richard Müller}]
+\beginverse
+{\nolyrics Intro: \[Dmi C Dmi C]}
+
+\[Dmi]Schoulené holky \[C]spí nahé
+\[Dmi]u hrobu Tycha\[C]de Brahe
+\[B]z kamene oživlá \[C]světice
+\[Dmi]pozvedá monstranci \[C]měsíce
+\endverse
+\beginchorus
+ \[F]Taková \[C]zář je jen \[Dmi]jedna \[B]
+\[F]odtud až \[C]do nedoh\[Dmi]ledna \[B]
+\[F]no a z něj \[C]daleko \[Dmi]široko \[B]
+\[F]proudem se \[C]rozlévá \[Dmi]baroko \[B]
+\endchorus
+\beginverse
+Andělé odhalte tváře
+pro slepé harmonikáře
+Které jsem čekal a nepropás
+Důverně známý je každý z vás
+\endverse
+\beginchorus
+Jste-li tak důverný známý
+Pojďte a zpívejte s námi
+My dole vy zase vysoko
+O tom jak mocné je baroko
+\endchorus
+\beginverse
+Sedlejme koně a vzhůru
+Zaplašme zlou denní můru
+Která nám sežrala století
+Zpěnění hřebci se rozletí
+\endverse
+\beginchorus
+V tuto noc lámání kostí
+Chytrácké malověrnosti
+Sražme tu bestii hluboko
+Tak jak to umí jen baroko
+\endchorus
+\beginverse*
+\[B]Dnes je dnes – ale co \[C]zítra
+\[B]Zbyde tu zázračná \[C]mitra ?
+\[B]Komu dá svou hlavu \[C]do klína
+\[B]ryzáček svatého \[C]Martina
+\endverse
+\beginchorus
+Zem která nemá své nebe
+Ztratila všechno i sebe
+Zarůstla pastvou jen pro oko
+Proč si tak vzdálené baroko ?
+\endchorus
+\beginchorus 
+nanaana …
+\endchorus
+\endsong

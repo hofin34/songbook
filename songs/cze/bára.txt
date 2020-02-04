@@ -1,0 +1,34 @@
+ \beginsong{Bára}[by={Kabát}]
+\beginverse
+Jenom se \[C#mi]ptej
+Kolem \[E]plameny tančí
+Tak \[H]proč je tady divnej \[A]chlad
+Nepospíchej
+Kdo tě zavede zpátky
+A kdo při tobě bude stát
+\endverse
+\beginchorus
+Víš já \[E]mám spoustu \[G#mi]známejch v pod\[C#mi]zemí
+A divá Bá\[A]ra se mnou spí
+Když je \[E]noc všechno krás\[G#mi]ný zdá se \[C#mi]mi
+To sme my \[A]dávno prokle\[G#mi]tý
+\endchorus
+\beginverse
+Ještě je čas
+Jak tě nestvůra kouše
+Tak schovej nohy do peřin
+Okolo nás
+Je toho tolik co zkoušet
+Na jedno zdraví nevěřím
+\endverse
+\rf
+\beginverse
+Kdopak tě zval
+Vem si do dlaně růži
+Sevři ji a krve pij
+Tak pojď jenom dál
+Obleč si moji kůži
+Vysaj mě a použij
+\endverse
+\rf
+\endsong

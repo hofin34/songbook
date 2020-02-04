@@ -1,0 +1,20 @@
+\beginsong{Bon soir mademoiselle Paris}[by={Olympic}]
+\beginverse
+\[Emi]Mám \[H7]v kapse jeden \[Emi]frank,
+jsem \[D7]nejbohatší \[G]z bank nad \[H7]Seinou,
+\[Emi]mám \[H7]víc než krupi\[Emi]ér
+a \[D7]stíny Sacre-\[G]Coeur nade \[H7]mnou.
+\endverse
+\beginchorus
+\[C]Láska je \[D]úděl \[G]tvůj, \[Ami] pánbůh tě \[H7]opa\[Emi]truj,
+bonso\[C]ir, mademoi\[D]selle Pa\[Emi]ris,
+bonso\[C]ir, mademoi\[D]selle Pa\[Emi]ris.
+\endchorus
+\beginverse
+\[Emi]Znám \[H7]bulvár Saint Mi\[Emi]chelle,
+\[D7]tam jsem včera \[G]šel s Marie-\[H7]Claire,
+\[Emi]vím, jak \[H7]zní z úst krásných \[Emi]žen
+\[D7]slůvka car je \[G]taime oh mon \[H7]cher.
+\endverse
+\rf
+\endsong

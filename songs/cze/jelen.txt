@@ -1,0 +1,47 @@
+\beginsong{Jelen}[by={Jelen}]
+\beginverse
+\[Dmi]Na jaře se vrací,
+\[C]Od podzima li\[Dmi]stí.
+Mraky místo ptáků
+\[C]krouží nad závi\[Dmi]stí.
+Kdyby jsi se někdy
+\[C]ke mně chtěla vrá\[Dmi]tit,
+nesměla bys, lásko,
+\[C]moje srdce ztra\[G]tit.
+\endverse
+\beginchorus
+\[Dmi]Zabil jsem v lese \[C]jele\[F]na.
+Bez nenávisti, \[C]bez jmé\[Dmi]na.
+Když přišel dolů k \[C]řece \[F]pít,
+krev teče do vody, \[C]v srdci \[Dmi]klid.
+\[Dmi, C, F, C, Dmi, C, F, C, Dmi]
+\endchorus
+\beginverse
+Voda teče k moři,
+po kamenech skáče,
+jednou hráze boří.
+Jindy tiše pláče.
+Někdy mám ten pocit,
+I když roky plynou.
+Že vidím tvůj odraz,
+dole pod hladinou.
+\endverse
+\rf
+\beginverse
+Na jaře se vrací,
+listí od podzima.
+Čas se někam ztrácí,
+brzo bude zima.
+Svět přikryje ticho,
+tečka za příběhem.
+Kdo pozná, čí kosti,
+zapadaly sněhem.
+\endverse
+\rf
+\beginverse*
+HEJ!
+\endverse
+
+\rf
+
+\endsong

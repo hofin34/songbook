@@ -1,0 +1,51 @@
+\beginsong{Včelín}[by={Čechomor}]
+\beginverse
+\[Dmi]Sousedovic Věra má
+Jako žádná jiná
+Viděl jsem ji včera máchat
+\[C]Dole u vče\[Dmi]lína
+\[Dmi]Sousedovic Věra má
+Jako žádná jiná
+Viděl jsem ji včera máchat
+\[C]Dole u vče\[Dmi]lína
+\endverse
+\beginchorus
+/:
+\[Dmi]Dole dole dole dole
+\[F]Dole dole dole
+\[C]Hej dole dole dole
+\[Dmi]Dole u včelína
+:/
+\endchorus
+
+\beginverse
+Líčka jako růže máš
+Já tě musím dostat
+Nic nepomůže spát
+Skočím třeba do sna
+Líčka jako růže máš
+Já tě musím dostat
+Nic nepomůže spát
+Skočím třeba do sna
+\endverse
+\rf
+\beginverse
+
+Líčka jako růže máš
+Řeknu panu králi
+Ať přikázat vašim dá
+Aby mi tě dali
+Líčka jako růže máš
+Řeknu panu králi
+Ať přikázat vašim dá
+Aby mi tě dali
+\endverse
+\rf
+\beginverse
+Když v poledne radost má
+Slunko hezky hřeje
+Když se na mě podívá
+Dám jí co si přeje
+\endverse
+\rf
+\endsong

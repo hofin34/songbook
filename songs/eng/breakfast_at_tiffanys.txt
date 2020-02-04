@@ -1,0 +1,33 @@
+
+\beginsong{Breakfast at Tiffany's}[by={Deep Blue Something}]
+\beginverse
+{\nolyrics INTRO: \[D] \[G] \[A] 2x}
+
+You \[D]say that we've \[G]got no\[A]thing in \[D]common
+No \[G]common \[A]ground to \[D]start from
+\[G]And we're fal\[A]ling \[D]apart \[G] \[A]
+\endverse
+\beginverse
+You'll say the world has come between us
+Our lives have come between us
+But I know you just don't care
+\endverse
+\beginchorus
+And \[D]I said what about "\[A]Breakfast at \[G]Tiffany's?
+\[D]She said, I think I re\[A]member the \[G]film,
+And as \[D]I recall, I think, we \[A]both kinda \[G]liked it.
+And \[D]I said, Well, that's the \[A]one thing we've \[G]got.
+\endchorus
+\beginverse
+I see you - the only one who knew me
+And now your eyes see through me
+I guess I was wrong
+\endverse
+\beginverse
+So what now? It's plain to see we're over,
+And I hate when things are over -
+When so much is left undone
+\endverse
+\rf[2]
+\endsong
+

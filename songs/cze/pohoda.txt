@@ -1,0 +1,40 @@
+\beginsong{Pohoda}[by={Kabát}]
+\beginverse
+{\nolyrics Předehra: \[F C G Dmi]}
+\[Ami] Vezmu tě má milá rovnou \[Emi] k nám,
+\[Ami] kolem louky lesy \[Emi] hejna vran,
+\[Ami] všude samá \[G] kráva samej vůl,\[D]
+\[Ami] máme kino, máme \[Emi] hospodu,
+\[Ami] v obci všeobecnou \[Emi] pohodu,
+\[Ami] máme hujer, \[G] žito, chléb i sůl,\[D]
+\endverse
+\beginchorus
+\[F] Když se u nás chlapi \[C] poperou,
+\[G] tak jenom nožem, a nebo \[Dmi] sekerou,
+\[F] V zimě tam dlouhý noci \[C] jsou,
+a tuhej \[Dmi]mráz
+\[F] Jak jsou naše cesty \[C] zavátý,
+tak vezmem \[G] vidle, a nebo \[Dmi] lopaty,
+když něco \[F] nejde, co na tom \[C] sejde,
+my máme \[Dmi]čas
+\endchorus
+\beginverse
+\[Ami] Chlapi někdy trochu \[Emi] prudký jsou,
+\[Ami]holky s motykama \[Emi] tancujou,
+\[Ami] s ranní rosou \[G] táhnou do polí, \[D]
+\[Ami] nikdo se tam nikam \[Emi] nežene,
+\[Ami] máme traktory a \[Emi]né že né,
+\[Ami] až to spatříš \[G] ledy povolí \[D]
+\endverse
+\rf
+\beginverse
+Hoří les a hoří rodnej dům,
+hoří velkostatek sousedům,
+to je smůla, drahá podívej,
+hasiči to stejně přejedou,
+oni si moc dobře nevedou,
+schovej sirky ať je neviděj.
+\endverse
+\rf
+
+\endsong

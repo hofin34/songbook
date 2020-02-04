@@ -1,0 +1,53 @@
+ \beginsong{Malá dáma}[by={Kabát}]
+\beginverse
+\[Ami]Utrhla trávu a začla \[Dmi]hrát 
+   ta malá dáma z předměs\[F]tí 
+   co umí \[E]lidem z dlaní \[Ami]číst 
+   \[Ami]Tam kočky z rána mívaj \[Dmi]hlad 
+   po noci plný neřes\[F]tí 
+   je pohla\[E]dí a dá jim \[Ami]jíst 
+      \endverse
+\beginchorus
+\[Dmi]Po tmě se toulá a ve dne \[Ami]spí 
+   a její oči vědí víc než \[Dmi]míň 
+   došly mi slova já stál tam \[F]jen 
+   s touhle \[E]jedinou bych \[Ami]zemřel 
+   S touhle bych \[F]zemřel v jedinej \[C]den 
+   a jestli \[E]vám to nesta\[Ami]čí 
+   kdyby tam \[F]stála stovka \[C]žen 
+   vyzvu ji \[E]k tanci a to netan\[Ami]čím   
+   \endchorus
+\beginverse
+   \[Ami]Tam za tratí svý doupě \[Dmi]má 
+   mince po kašnách posbí\[F]rá 
+   a pak je \[E]skládá na ko\[Ami]lej   
+   \[Ami]Staví si chrám, plechovej \[Dmi]most 
+   už po něm kráčí první \[F]host 
+   tak ať ho \[E]nohy nebo\[Ami]lej   
+\endverse
+\beginchorus
+   \[Dmi]Prošla si peklem a kouzla \[Ami]zná 
+   přejetý mince počí\[Dmi]tá 
+   a kdo ji spatří je zatra\[F]cen 
+   s touhle \[E]jedinou bych z\[Ami]emřel 
+   S touhle bych \[F]zemřel v jedinej \[C]den 
+   a jestli \[E]vám to nesta\[Ami]čí 
+   kdyby tam \[F]stála stovka \[C]žen 
+   vyzvu ji \[E]k tanci a to netan\[Ami]čím   
+\endchorus
+
+\beginverse*
+
+   *: \[Ami]Budu si pamatovat na tu \[C]chvíli 
+   když hrála \[F]znělo to jak \[E]Paganini 
+   \[Ami]a já už věděl, že jsem \[C]ztracenej 
+   zeptal se \[F]za kolik? s pocitem \[E]viny 
+\endverse
+\beginchorus
+   \[Ami]S touhle bych \[F]zemřel v jedinej \[C]den 
+   a jestli \[E]vám to nesta\[Ami]čí 
+   kdyby tam \[F]stála stovka \[C]žen 
+   vyzvu ji \[E]k tanci a to netan\[Ami]čím 
+   \textbf{2x}
+\endchorus
+\endsong

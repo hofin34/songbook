@@ -1,0 +1,39 @@
+ \beginsong{Raci v práci s.r.o.}[by={Kabát}]
+\beginverse
+\[A]Na našem \[C#mi]rybníku, tam v \[A7]ráji řas a vodníků, 
+   já \[D]sleduju to \[E]tiše z povzdá\[A]lí. 
+   
+ Ropuchu s medvědem, od ucha k uchu s úsměvěm, 
+   to vždycky, když to žabák ubalí. 
+   \endverse
+\beginverse
+Už jsou zas v zámoří, sakra slizký úhoři, 
+   ostatním se to zjevně nelíbí. 
+   
+Připlujou, machrujou,kdejakou řečí hovoří, 
+   sebevědomí jim nechybí. 
+\endverse
+           
+\beginchorus
+Jó většina \[A]těch malejch ryb, 
+   če\[D]ká až bude \[A]líp, Ne\[D]chtěj se plácat \[E]v bahně, živo\[A]řit 
+   a na dně \[E]žít. 
+   Hledaj svý \[A]místo na slunci, jak \[D]štiky a sum\[A]ci. 
+   No \[D]prostě si chtěj \[E]holky přile\[A]pšit.  \[E]
+  \endchorus
+
+\beginverse
+Raci v práci rokujou na hřbetech plotic vyplujou, 
+   prej obklíčit a dobít Rakovník. 
+   
+ Škeble se šklebí na žáby, žáby si hrajou na dámy, 
+   neb kolem jde krab starý milovník.    
+\endverse
+\rf
+\beginverse*
+   \[A]Červ se kroutí na háku,ty \[A7]chytrý to maj na háku 
+   jen \[D]jedna malá \[E]ze dna vysko\[A]čí.
+   Ří\[A]tí se střemhlav nahoru, kou\[A7]kněte na tu potvoru,
+   mám \[D]dojem, že to \[E]dobře neskon\[A]čí.
+\endverse
+\endsong

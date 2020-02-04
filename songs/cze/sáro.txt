@@ -1,0 +1,47 @@
+\beginsong{Sáro!}[by={Traband}]
+\beginchorus
+\[Hmi]Sáro,\[F#mi] Sáro, \[G]v noci se mi \[D]zdálo,
+že \[G]tři andělé \[D]Boží k nám \[G]přišli na o\[A]běd.
+\[Hmi]Sáro, \[F#mi]Sáro, \[G]jak moc a nebo \[D]málo
+mi \[G]chybí abych \[D]tvojí duši \[G]mohl rozum\[A]ět.
+\endchorus
+\beginverse
+Sbor kajícných mnichů jde krajinou v tichu
+a pro všechnu lidskou pýchu má jen přezíravý smích
+Z prohraných válek se vojska domů vrací
+ač zbraně stále burácí a bitva zuří v nich.
+\endverse
+\rf
+\beginverse
+Vévoda v zámku čeká na balkóně
+až přivedou mu koně, pak mává na pozdrav
+Srdcová dáma má v každé ruce růže,
+tak snadno pohřbít může sto urozených hlav.
+\endverse
+\rf
+\beginverse
+Královnin šašek s pusou od povidel
+sbírá zbytky jídel a myslí na útěk
+A v podzemí skrytí slepí alchymisté
+už objevili jistě proti povinnosti lék
+\endverse
+\rf
+\beginverse
+Páv pod tvým oknem zpívá sotva procit
+o tajemstvích noci ve tvých zahradách
+A já, potulný kejklíř, co svázali mu ruce,
+teď hraju o tvé srdce a chci mít tě nadosah!
+\endverse
+\beginchorus
+Sáro, Sáro, pomalu a líně
+s hlavou na tvém klíně chci se probouzet
+Sáro, Sáro, Sáro, Sáro rosa padá ráno
+a v poledne už možná bude jiný svět
+\endchorus
+\beginchorus
+Sáro, Sáro, vstávej milá Sáro
+andělé k nám přišli \[A]na \[D]oběd
+\endchorus
+
+
+\endsong

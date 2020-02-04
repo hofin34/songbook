@@ -1,0 +1,43 @@
+\beginsong{Medvídek}[by={Lucie}]
+\gtab{Es}{3:X43(121)}
+\beginverse
+\[G]Dlouhá noc a mě se stýská moc
+pro tebe malý dárek mám.
+Přes hory \[Ami]přes ploty
+medvídek z \[D7]Bogoty už \[G]letí.
+Medvídek plyšový na cestě
+křížový - Bůh ho ochrání.
+Před smečkou \[Ami]římskejch psů
+a jejich \[D7]úřadů
+ti \[C]posílá lásku \[D]co v bříšku má.
+\endverse
+\beginchorus
+\[Es]Medvídek z Bogoty \[G]usnul a sní
+      \[Es]na kříži z Golgo\[G]ty spí.
+      Za třicet \[Ami]stříbrných
+      z medvídka \[D7]padá sníh
+      no a ti \[C]římští psi
+      ho sjíždě\[D]jí na saních o Váno\[G]cích.
+\endchorus
+\beginverse
+Nesvatá hodina medvídka proklíná
+že odhodil korunu bez trnů
+medvídek ospalý pod křížem pokleká
+chce pít.
+Kalichem sladkost medvídka
+napustí do bříška, jak to má rád.
+Koruna plyšová, vánoční cukroví,
+nikdo se nedoví o svatozáři trnový. 
+\endverse
+\rf
+\beginverse
+\[Emi]Medvídku probuď se, prober se vstaň,
+psi se už sbíhají, připrav si dlaň
+\[D]slunce zas vychází cítíš tu zář,
+tlapky dáš v pěst, nebo nastavíš tvář.
+\[Es]Římskejm psům a \[G]jejich úřadům
+\[Es]Maxipes Herodes vánoční \[A]slib dal dnes.
+\endverse
+\rf
+
+\endsong

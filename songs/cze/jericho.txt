@@ -1,0 +1,45 @@
+\beginsong{Jericho}[by={David Stypka}]
+\beginchorus
+Budu se \[D]dívat, jak vstáváš a \[F#mi]jdeš,
+rovnáš si \[E]záda, čistí tě \[Hmi]déšť.
+Za chvíli \[D]na mě zapome\[F#mi]neš, na strachy \[E]taky. 2x
+\endchorus
+\beginverse
+Nenech se \[E]mást, to všechno co vidíš se \[H]zdá.
+Tam někde v dálce je \[F#mi]Jericho, město co \[A]trumpetou \[E]zbořit se \[H]dá.
+
+Tady mě \[E]máš, doktor co strhe ti \[H]fáč,
+no jasně že \[F#mi]bolí to, ale \[A]za chvíli \[E]snést se to \[H]dá.
+\endverse
+
+\rf[2]
+\beginverse*
+Na bo\[Hmi]lest.
+{\nolyrics \[E] \[H] \[F#mi] \[A] \[E] \[H]}
+\endverse
+
+\beginverse
+Můžeš si \[E]lhát, na oko zlatá brá\[H]na,
+ale když vezmeš \[F#mi]za kliku z \[A]brány je \[E]giloti\[H]na.
+
+Jsi Rachab má zlá \[E]zlá, nevěstka uchráně\[H]ná,
+na nejhlubším místě teď \[F#mi]bolí mě tvá \[A]poslední \[E]dobrá rá\[H]na.
+\endverse
+
+\rf[2]
+\beginverse
+\[G]Všichni to říkali \[Hmi]my se jim vysmáli.
+\[A]Z očí strh sem ti \[E]mifáč.
+a \[G]pak tě tam nechal na pospas \[Hmi]bylinám a dekám,
+\[A]od tebe hnala mě \[E]mipryč vina má.
+\endverse
+\beginchorus
+Chtěl jsem se \[D]dívat jak vstáváš a \[F#mi]jdeš,
+rovnáš si \[E]záda, čistí tě \[Hmi]déšť,
+za chvíli \[D]na mě zapome\[F#mi]neš a na strachy \[E]taky.
+
+Chtěl jsem se \[D]dívat jak vstáváš a \[F#mi]jdeš,
+rovnáš si \[E]záda, čistí tě \[Hmi]déšť,
+za chvíli \[D]na mě zapome\[F#mi]neš a na strachy \[E]taky.\[Hmi]
+\endchorus
+\endsong

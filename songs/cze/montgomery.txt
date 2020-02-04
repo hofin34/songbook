@@ -1,0 +1,29 @@
+\beginsong{Montgomery}[by={Petr Spálený}]
+\beginverse
+\[D]Déšť ti holka smáčel\[G]vlasy
+\[A]Z tvých ocí zbyl prázdnej\[D]kruh
+Kde je zbytek tvojí\[G]krásy
+\[A]To ví dneska snad jen\[D]bůh
+\endverse
+\beginchorus
+Z celé jižní eskadr\[G]ony
+\[A]Nezbyl ani jeden\[D]muž
+V Montgomery bijou\[G]zvony
+\[A]Déšť ti smejvá ze rtů\[D]růž
+\endchorus
+\beginverse
+Tam na kopci v prachu\[G]cesty
+\[A]Leží i tvůj gene\[D]rál
+V ruce šátek od nevě\[G]sty
+\[A]Ale ruka leží\[D]dál
+\endverse
+\rf
+\beginverse
+\[D]Tvář má zšedivělou\[G]strachem
+\[A]Zbylo v ní pár těškejch\[D]chvíl
+Proužek krve stéká\[G]prachem
+\[A]Déšť jí slepil vlasy jak\[D]jíl
+\endverse
+\rf
+
+\endsong

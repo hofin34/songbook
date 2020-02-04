@@ -1,0 +1,38 @@
+\beginsong{Zafúkané}[by={Fleret}]
+\gtab{A2}{X02200}
+\beginverse
+\[Ami] Větr sněh \[A2] zanésl z \[Ami] hor do \[A2] polí,
+\[Ami] já idu \[C] přes kopce, \[G] přes údolí \[Ami] ,
+\[C] idu k tvej \[G] dědině zatúla \[C] nej,
+\[F] cestičky sně \[C] hem sú \[E] zafúkané.\[Ami] \[F7maj] \[Ami] \[E4sus]
+\endverse
+\beginchorus
+\[Ami] Zafúkané\[C] , \[G] zafúkané \[C]
+\[F] kolem mňa vše \[C] cko je \[Dmi] zafúkané \[E]
+\[Ami] Zafúkané \[C] , \[G] zafúkané \[C] ,
+\[F] kolem mňa \[C] všecko je \[E] zafúkané \[Ami] \[A2]
+\endchorus
+\beginverse
+Už vašu chalupu z dálky vidím,
+srdce sa ozvalo, bit ho slyším,
+snáď enom pár kroků mi zostává,
+a budu u tvého okénka stát.
+\endverse
+
+\beginchorus
+/: Ale zafúkané, zafúkané,
+okénko k tobě je zafúkané. :/
+\endchorus
+\beginverse
+Od tvého okna sa smutný vracám,
+v závějoch zpátky dom cestu hledám,
+spadl sněh na srdce zatúlané,
+aj na mé stopy - sú zafúkané.
+\endverse
+\beginchorus
+/: Zafúkané, zafúkané,
+mé stopy k tobě sú zafúkané. :/
+\endchorus
+
+
+\endsong

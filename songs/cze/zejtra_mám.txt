@@ -1,0 +1,28 @@
+\beginsong{Zejtra mám}[by={Ready Kirken}]
+\beginverse
+Zejtra \[C]mám zejtra \[Em]mám svůj \[Am]den\[G]
+   zejtra se mi \[F]splní moje tajný \[Em]přání můj \[Dm]sen \[G]
+   dlouho tě \[C]znám dlouho tě \[Em]znám mám tě \[Am]rád \[G]
+   uvidím tě \[F]zas uslyším tvůj \[Em]hlas mož\[Dm]ná \[G]
+\endverse
+\beginverse
+Zejtra \[C]mám zejtra \[Em]mám svůj \[Am]den\[G]
+   asi to tak \[F]bude je to cejtit \[Em]všude je to cejtit \[Dm]všude \[G]
+   všude \[C]tam kam se podí\[Em]vám něco z tebe \[Am]mám \[G]
+   tak se mi \[F]zdá tak se mi \[Am]zdá
+   že už asi \[D]zejtra nebudu \[G]sám
+\endverse
+\beginchorus
+Nebudu \[F]sám nebudu \[E]sám
+   zejtra tě \[Am]máááá\[C]ám,
+   \[Am]máááá\[D]ám, \[Am]máááá\[D]ám,
+   \[E]jééé
+\endchorus
+\beginverse
+ Zejtra mám zejtra mám svůj den
+   zejtra se mi splní moje tajný přání můj sen
+   všude tam kam se podívám něco z tebe mám
+   poslední den jednou vyspím se jen a pak už nikdy nebudu sám
+\endverse
+\rf[2]
+\endsong

@@ -1,0 +1,41 @@
+\beginsong{Hallelujah}[by={Leonard Cohen}]
+\beginverse
+I've \[A]heard there was a \[F#mi]secret chord
+That \[A]David played and it \[F#mi]pleased the Lord
+But \[D]you don't really \[E]care for music, do \[A]you? \[E]
+Well, it \[A]goes like this
+The \[D]fourth, the \[E]fifth, the \[F#mi]minor fall, the \[D]major lift
+The \[E]baffled king com\[C#]posing Halle\[F#mi]lujah
+\endverse
+\beginchorus
+Halle\[D]lujah, Halle\[F#mi]lujah
+Halle\[D]lujah, Halle\[A]luuu\[E]uu\[A]jah
+\endchorus
+\beginverse
+Well, your faith was strong but you needed proof
+You saw her bathing on the roof
+Her beauty and the moonlight overthrew ya
+She tied you to the kitchen chair
+She broke your throne and she cut your hair
+And from your lips, she drew the Hallelujah
+\endverse
+\rf
+\beginverse
+Well baby, I've been here before
+I've seen this room and I've walked this floor
+I used to live alone before I knew ya
+And I've seen your flag on the marble arch
+And love is not a victory march
+It's a cold and it's a broken Hallelujah
+\endverse
+\rf
+\beginverse
+Well, maybe there's a God above
+But all I've ever learned from love
+Was how to shoot somebody who outdrew ya
+And it's not a cry that you hear at night
+It's not somebody who's seen the light
+It's a cold and it's a broken Hallelujah
+\endverse
+\rf
+\endsong

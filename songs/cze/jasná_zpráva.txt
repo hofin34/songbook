@@ -1,0 +1,28 @@
+\beginsong{Jasná zpráva}[by={Olympic}]
+\beginverse
+\[C]Skončili jsme jasná zpráva,
+\[Ami]proč o tebe \[F]zakopávam \[G]dál,
+\[Dmi]projít bytem \[F]já abych se \[C]bál.
+\[C]Dík tobě se vidím zvenčí,
+\[Ami]připadám si \[F]starší menší \[G]sám,
+\[Dmi]kam se kouknu, \[F]kousek tebe \[C]mám.
+\endverse
+\beginchorus
+\[Ami]Pěnu s vůni \[C]jablečnou, \[Ami]vyvanulý \[Emi]sprej,
+\[Ami]telefon, cos \[C]ustřihla mu \[G]šňůru,
+\[Ami]knížku krásně \[C]zbytečnou, \[Ami]co má lživý \[Emi]děj,
+\[Ami]píše se v ní, \[C]jak se lítá \[G]vzhůru,
+lítá \[Dmi]vzhůru, ve dvou \[G]vzhůru.
+\endchorus
+\beginverse
+\[C]Odešla's mi před úsvitem,
+\[Ami]mám snad bloudit \[F]vlastním bytem \[G]sám,
+\[Dmi]kam se kouknu, \[F]kousek tebe \[C]mám.
+\endverse
+\rf
+\beginverse
+\[C]Skončili jsme jasná zpráva,
+\[Ami]není komu z \[F]okna mávat \[G]víc,
+\[Dmi]jasná zpráva, \[F]rub, co nemá \[C]líc.
+\endverse
+\endsong

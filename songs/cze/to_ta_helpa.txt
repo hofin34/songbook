@@ -1,0 +1,24 @@
+\beginsong{To ta Heľpa}[by={lidová}]
+\beginverse
+\[Ami]To ta \[Dmi]Heľpa \[Ami]to ta \[Dmi]Heľpa
+\[Ami]to je \[E]pekné \[Ami]me\[E]st\[Ami]o
+\endverse
+\beginverse
+A v tej Heľpe a v tej Heľpe
+švárnych chlapcov je sto
+\endverse
+\beginchorus
+\[F]Koho je sto \[C]koho je sto
+\[G]nie po mojej \[C]vôli\[E]
+\[Ami]len za \[Dmi]jedným \[Ami]len za \[Dmi]jedným
+\[Ami]srdiečko \[E]ma \[Ami]bo\[E]lí\[Ami]
+\endchorus
+\beginverse
+Za Janíčkom za Palíčkom krok by nespravila
+za Ďuríčkom za Mišíčkom Dunaj preskočila
+\endverse
+\beginchorus
+Dunaj Dunaj Dunaj Dunaj aj to širé pole
+ľen za jedným ľen za jedným počešenie moje.
+\endchorus
+\endsong

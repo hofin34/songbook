@@ -1,0 +1,35 @@
+\beginsong{Plakala}[by={Divokej Bill}]
+\beginverse
+\[Ami]toužila kroužila kryla mi záda
+souložila kouřila mě měla mě ráda
+poháněná chtíčem vrněla jak káča
+moje milá \[C]plakala\[G]
+\endverse
+\beginverse
+\[Ami]utíkala pryč nevěděla kaaam
+pletla na mě bič já byl na to sám
+poháněná chtíčem vrněla jak káča
+moje milá \[C]plakala\[G]
+\endverse
+\beginverse
+\[Ami]modlila se hlásila se o svý práva
+motala se na mý trase byla to tráva
+poháněná chtíčem vrněla jak káča
+moje milá \[C]plakala\[G]
+\endverse
+\beginchorus
+\[Ami]moje milá \[C]plakala\[G]
+\[Ami]moje milá \[C]plakala\[G]
+\[Ami]moje milá \[C]plakala\[G]
+\[Ami]moje milá \[C]plakala\[G]
+\endchorus
+\beginverse
+/:
+\[Ami]pozdravuj \[C]pocestný \[G]svět
+je malej \[Ami]dokonalej\[G]
+\[Ami]pozdravuj \[C]pocestný \[G]svět
+je zlej co když se \[Ami]nevrátí
+\[G]co když se \[Ami]nevrá\[C]tí\[G] (zároveň s "moje milá plakala") 4x
+:/ (2x)
+\endverse
+\endsong

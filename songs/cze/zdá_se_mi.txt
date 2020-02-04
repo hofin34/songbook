@@ -1,0 +1,44 @@
+\beginsong{Zdá se mi}[by={Brutus}]
+\beginverse
+{\nolyrics Intro: \[A]\[D]\[A]\[D]}
+\[A]Často se mi všechno kolem \[D]motá
+\[A]divně to pod nohama \[D]klouže
+\[A]i když nejsou zamrznutý \[D]louže
+\[A]ani rozvázaná \[D]bota
+\[Hmi]Rád ty chvíle \[D]mám
+\[A]u baru s bludičkou \[D]zdejší
+\[A]zůstanu okamžik \[D]delší
+rád ty chvíle \[A]mám
+\endverse
+\beginchorus
+\[D]Zdá se mi \[E]zdá se mi
+\[A]že lítat \[H]nad zemí
+\[D]je celkem \[E]jednoduchý \[A]zdá se mi
+\[D]Zdá se mi \[E]zdá se mi
+\[A]tady mám \[H]zázemí
+\[D]zdá se mi \[E]zdá se \[A]mi
+\endchorus
+\beginverse
+Škodlivinu jsem do sebe nalil
+s kouřením vypadá to stejně
+v tomhle bigbítovým mlejně
+asi zase někdo slavil
+Rád ty chvíle mám
+u baru s bludičkou zdejší
+zůstanu okamžik delší
+rád ty chvíle mám
+\endverse
+\rf
+\beginverse
+Ráno její vlasy voní sírou
+doufám že s čertem jsem snad nepil
+zas abych z woken střepy lepil
+v mozku s vyleptanou dírou.
+Rád ty chvíle mám
+u baru s bludičkou zdejší
+zůstanu okamžik delší
+rád ty chvíle mám
+\endverse
+\rf
+
+\endsong

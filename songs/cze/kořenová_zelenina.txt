@@ -1,0 +1,32 @@
+\beginsong{Kořenová zelenina}[by={Krausberry}]
+\beginverse
+\[C]Paní prodavačko \[E7]dobrý den
+\[F]neviděla jsem vás \[G#]nejmíň
+přes týd\[C]en, máte dneska pěknou
+\[E7]kořenovou \[Ami]zeleninu.
+\endverse
+\beginverse
+Starej už mi zase churaví
+snad ho vitamíny, snad ho uzdraví
+přes rok klempíruje
+a potřebuje medicínu
+\endverse
+\beginchorus
+N\[C]ějaký pěk\[G#]ný baná\[C]ny tak pár
+tyhle jsou ale m\[G#]álo \[Ami]zralý
+\[Ami]potom kil\[D7]o jablek, \[G]ne jak lák
+vod vokurek kyselých.
+\endchorus
+\beginverse
+Starej už je zas ve špitále,
+byl včera přes hodinu a půl na sále,
+vzal ho žlučník
+a má chycenou ledvinu.
+\endverse
+\rf
+\beginverse
+Starej už je zas ve špitále,
+byl včera přes hodinu a půl na sále,
+máte dneska pěknou kořenovou zeleninu.
+\endverse
+\endsong

@@ -1,0 +1,45 @@
+\beginsong{Holubí dům}[by={Jiří Schelinger}]
+\beginverse
+ \[Emi]Zpí \[D]vám  \[C]ptákům a  \[Hmi]zvlášť holubům \[Emi]stá \[D]val v  \[C]údolí  \[Hmi]mém starý  \[Emi]dům
+
+ \[G]ptá \[D]ků  \[G]houf zalétal \[D] ke krovům \[G]  \[Emi]měl  \[D]jsem  \[C]rád holubích \[Hmi] křídel šum \[Emi]
+\endverse
+\beginverse
+Vlídná dívka jim házela hrach
+
+mávání perutí víří prach
+
+ptácí krouží a neznají strach
+
+měl jsem rád starý dům jeho práh
+\endverse
+\beginchorus
+Hledám \[C]dům holubí \[D]
+
+kdopak \[G]z vás cestu  \[Emi]ví
+
+míval  \[Ami]stáj roube \[D]nou bílý štít \[G]
+
+kde je  \[C]dům holubí  \[D]a ta  \[G]dívka kde  \[Emi]spí
+
+vždyť to  \[Ami]ví že jsem  \[Hmi]chtěl pro ni  \[Emi]žít
+\endchorus
+\beginverse
+
+
+Sdílný déšť vypráví okapům, bláhový kdo
+
+hledá tenhle dům, odrůstáš chlapeckým
+
+střevícům, neslyšíš holubích křídel šum
+
+\endverse
+\beginverse
+
+Nabízej úplatou cokoli nepojíš cukrových
+
+homolí, můžeš mít třeba zrak sokolí
+
+nespatříš ztracené údolí
+\endverse
+\endsong

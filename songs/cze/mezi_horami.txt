@@ -1,0 +1,49 @@
+\beginsong{Mezi Horami}[by={Čechomor}]
+\beginverse
+\[Ami]/:Mezi \[G]horami\[Ami]
+
+\[C]lipka \[G]zelená\[C]:/
+\endverse
+\beginchorus
+\[C]/:Zabili Janka
+
+\[G]Janíčka,\[Ami]Janka
+
+\[Ami]miesto\ [Emi]jele\[Ami]ňa:/
+\endchorus
+\beginverse
+Keď ho zabili
+
+zamordovali
+
+Na jeho hrobě
+
+Na jeho hrobě
+
+Kříž postavili
+\endverse
+\beginverse
+Ej, křížu, křížu
+
+ukřižovaný
+
+Zde leží Janík
+
+Janíček, Janík
+
+Zamordovaný
+\endverse
+
+\beginverse
+Tu šla Anička
+
+Plakat Janíčka
+
+Hneď na hrob padla
+
+A viac nevstala
+
+Dobrá Anička
+\endverse
+
+\endsong

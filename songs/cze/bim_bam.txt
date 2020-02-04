@@ -1,0 +1,41 @@
+\beginsong{Bim bam - hvězda zářila}[by={Spirituál kvintet}]
+\beginverse
+\[D]Hvězda zářila a \[A]vzduch se chvěl
+\[A]hvězda zářila a \[D]vzduch se chvěl
+\[D7]hvězda zářila a \[G]vzduch se chvěl
+Jasná \[D]noc nad \[A]Betlémem \[D]stála
+\endverse
+\beginchorus
+\[D]Tichounce tam \[G]hráAli
+\[D]na zvonky si \[G]zvonili \[A]bim, \[D]bam
+Přišli lidé \[G]z dá\[A]li, \[D]povídali a \[G]chodili \[A]sem \[D]tam.
+\[G]Ó, jak se \[D] máte? \[G]Ó, proč se \[D] ptáte?
+\[D] Tichounce tam \[G]hrá\[A]li, \[D]na zvonky si \[G]zvonili \[A]bim, \[D]bam
+\endchorus
+\beginverse
+V chlévě dítě jako z růže květ
+v chlévě dítě jako z růže květ
+v chlévě dítě jako z růže květ
+Králové vzdávají mu díky.
+\endverse
+\beginverse
+Látky, šperky, radost pohledět
+Látky ,šperky, radost pohledět
+Látky, šperky, radost pohledět
+k tomu datle a čerstvé fíky.
+\endverse
+\rf
+\beginverse
+K ránu všichni tiše usnuli
+k ránu všichni tiše usnuli
+k ránu všichni tiše usnuli
+k jejich štěstí či jejich smůle.
+\endverse
+\beginverse
+Hvězda zářila a vzduch se chvěl
+Hvězda zářila a vzduch se chvěl
+Hvězda zářila a vzduch se chvěl
+pokoj všem lidem dobré vůle.
+\endverse
+\rf
+\endsong

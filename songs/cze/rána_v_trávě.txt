@@ -1,0 +1,32 @@
+\beginsong{Rána v trávě}[by={Žalman a spol.}]
+\beginchorus
+ \[Hmi]Každý ráno boty \[A]zouval, \[Hmi]orosil si nohy v \[A]trávě,
+   \[Hmi]že se lidi mají rádi \[A]doufal \[Hmi]a pro\[F#mi]citli \[Hmi]právě.
+   \[Hmi]Každy ráno dlouze \[A]zíval, \[Hmi]utřel čelo do ru\[A]kávu,
+   \[Hmi]a při chůzi tělem semtam \[A]kýval, \[Hmi]před se\[F#mi]bou sta \[Hmi]sáhů.
+\endchorus
+\beginverse
+    \[D]Poznal \[A]Mora\[G]věnku \[D]krásnou
+      \[Hmi]a ví\[A]nečko \[D]ze zlata,
+      v Čechách \[A]slávu \[G]muzi\[D]kantů
+      \[Hmi]uma\[F#mi]zanou \[Hmi]od bláta.
+\endverse
+\rf
+\beginverse
+ \[D]Toužil \[A]najít \[G]studá\[D]nečku
+   \[Hmi]a do \[A]ní se \[D]podívat,
+   by mu \[A]řekla: \[G]proč, ho\[D]lečku,
+   \[Hmi]musíš \[F#mi]světem \[Hmi]chodívat.
+\endverse
+\rf
+\beginverse
+Studánečka promluvila:
+   to ses' musel nachodit,
+   abych já ti pravdu řekla,
+   měl ses' jindy narodit.
+\endverse
+\rf
+\beginverse*
+  + /: před sebou sta sáhů :/
+\endverse
+\endsong

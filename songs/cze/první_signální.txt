@@ -1,0 +1,25 @@
+\beginsong{První signální}[by={Chinaski}]
+\gtab{As}{4:X(33211)}
+\beginverse
+Až si \[F]zejtra ráno \[B]řeknu zase
+\[Dmi]jednou provždy dost
+\[F]právem se mi \[B]budeš tiše \[Dmi]smát
+jak omluvit si svoji slabost, nenávist a zlost
+když za všechno si můžu vlastně sám.
+\endverse
+\beginchorus
+\[Gmi]Za spoustu dní možná za \[B]spoustu let
+až se mi \[F]rozední budu ti \[C]vyprávět
+na 1.\[Gmi]signální jak jsem \[B]vobletěl svět
+jak tě to \[F]vomámí a \[C]nepustí zpět.
+Jaký si to \[Es]uděláš \[As]takový to \[Cmi]máš.
+Jaký si to \[Es]uděláš \[As]takový to \[Cmi]máš.
+\endchorus
+\beginverse
+Až se dneska večer budu tvářit zas jak Karel Gott,
+budu zpívat vampamtydapam
+všechna sláva polní tráva ale peníz přijde vhod
+jak jsem si to uďál tak to mám.
+\endverse
+\rf
+\endsong

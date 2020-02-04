@@ -1,0 +1,115 @@
+\beginsong{Hero Of War}[by={Rise Against}]
+\beginverse
+He said, \[G]“Son,
+Have you see the \[Hmi]world?
+Well, what would you\[C]say
+If I said that you\[G] could?
+Just carry this \[C]gun and you’ll even get\[G]paid.”
+I said, “That sounds pretty \[D]good.”
+\endverse
+\beginverse
+Black leather \[G]boots
+Spit-shined so \[Hmi]bright
+They cut off my \[C]hair but it looked \[G]alright
+We marched and we \[C]sang
+We all became \[G]friends
+As we learned \[D]how to fight
+\endverse
+\beginchorus
+
+A hero of \[Em]war
+
+Yeah that’s what I’ll \[C]be
+
+And when I come \[G]home
+
+They’ll be damn proud of \[D]me
+
+I’ll carry this \[Em]flag
+
+To the grave if I \[C]must
+
+Because it’s flag that I \[G]love
+
+And a flag that I \[D]trust
+\endchorus
+\beginverse
+
+I kicked in the \[G]door
+
+I yelled my \[Hmi]commands
+
+The children, they \[C]cried
+
+But I got my \[G]man
+
+We took him \[C]away
+
+A bag over his \[G]face
+
+From his family and his \[D]friends
+\endverse
+\beginverse
+They took off his \[G]clothes
+
+They pissed in his \[Hmi]hands
+
+I told them to \[C]stop
+
+But then I joi\[G]ned in
+
+We beat him with g\[C]uns
+
+And batons not just on\[G]ce
+
+But again and ag\[D]ain
+\endverse
+\rf
+\beginverse
+
+She wal\[G]ked through bullets and h\[Hmi]aze
+
+I asked her to s\[C]top
+
+I begged her to s\[G]tay
+
+But she pressed \[C] on
+
+So I lifted my \[G]gun
+
+And I fired a\[D]way
+\endverse
+\beginverse
+And the sh\[G]ells jumped through the\[Hmi] smoke
+
+And into the sa\[C]nd
+
+That the blood now had s\[G]oaked
+A
+She collapsed with a flag in her \[G]hand
+
+A flag white as\[D] snow
+\endverse
+\beginchorus
+A hero of w\[Em]ar
+
+Is that what they \[C]see
+
+Just medals and sca\[G]rs
+
+So damn proud of\[D] me
+
+And I brought home that flag
+
+Now it gathers du\[C]st
+
+But it’s a flag that I \[G]love
+
+It’s the only flag I t\[D]rust
+\endchorus
+\beginverse*
+\[G]He said, Son, have you seen the \[Hmi]world?
+
+Well what would you \[C]say, if I said that you \[G]could?
+\endverse
+\endsong

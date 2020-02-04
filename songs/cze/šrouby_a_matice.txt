@@ -1,0 +1,53 @@
+\beginsong{Šrouby a matice}[by={Mandrage}]
+\beginverse
+Mezi zemí a \[D] nebem
+A širým \[A] světem
+Je jeden \[Emi] náš
+Tak dobře ho \[G] znáš \[A]
+Mezi nebem a \[D] zemí
+Jsou věci \[A] který
+Moje milá \[Emi]
+Můžu jen \[G] já \[A]
+\endverse
+\beginchorus
+Tahat tě \[D] za vlasy, dýchat ti \[A] do tváře,
+Dělat si \[Emi] nároky na tvoje \[G] polštáře
+Sahat ti \[D] pod sukni, kousat tě \[A] na ruce
+Dělat ti \[Emi] snídani, říkat ti \[G] opice.
+\endchorus
+\beginverse
+Mezi světlem a nocí
+Houpu tě v bocích
+Na tisíckrát, dělám to rád
+Mezi nocí a světlem
+Zimou i létem
+Je spousta rán,
+kdy můžu jen sám
+\endverse
+\beginchorus
+Tahat tě za vlasy, dýchat ti do tváře,
+Dělat si nároky na tvoje polštáře
+Sahat ti pod sukni, kousat tě na ruce
+Dělat ti snídani, říkat ti opice.
+Platit ti výdaje, prdět si vě vaně
+Kvůli tvé pověsti porvat se v hospodě
+nosit ti lekníny, vrtat ti police.
+Jsme časem kalený šrouby a matice
+\endchorus
+\beginverse* 2x \endverse
+\beginverse
+Vysoko \[D] nad zemí,
+životem \[A] kalený,
+navěky \[Emi] spojení.
+Šrouby a \[G] matice
+
+Šrouby a \[D]matice
+
+Šrouby a matice
+
+Šrouby a matice
+
+Šrouby a matice
+\endverse
+
+\endsong

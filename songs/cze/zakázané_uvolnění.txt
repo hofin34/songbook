@@ -1,0 +1,39 @@
+\beginsong{Zakázané uvolnění}[by={Michal Hrůza}]
+\beginverse*
+e-----------------------------------------------
+H--7--5-7-----7--5-7-----7--5-7--8--------5--7--
+G----------6----------7-------------4--7--------
+\endverse
+
+\beginverse
+\[D]Někdy je to \[F#]tak a nezmůžeš s tím \[Hmi]nic,
+můžeš se jen \[G]smát ze svých plných \[D]plic.
+Chceš to přivolat a chceš to čím dál víc,
+stačí poslouchat, co se snažím říct.
+Můžeš tady stát, všemu vzdorovat,
+udělat to pak,tak jak to máš rád.
+Nebudem se prát, nemusíš mít strach,
+chce to akorát realizo\[Hmi]vat.
+\endverse
+\beginverse*
+\[Hmi] Na chvíli \[G]zavřít \[Emi]oči,\[Hmi] vesmír se \[G]poo\[Emi]točí,
+\[Hmi]taky můžeš \[G]mí\[Emi]t,\[F#] co si budeš přát a co budeš chtít!
+\endverse
+\beginchorus
+\[D]Nad hla\[F#]vou je můj \[Hmi]svět, prosím \[G]vás, odpusťte \[D]mi.
+Teď zůstat ležet na zádech, dejchat vzduch pod hvězdami.
+Moje aura a můj bůh ve mně hoří, zdá se mi.
+Je to pravda, bludnej kruh, zakázané uvolnění.
+\endchorus
+\beginverse
+Někdy je to tak a nezmůžeš s tím nic,
+můžeš se jen smát ze svých plných plic.
+Chceš to přivolat a chceš to čím dál víc,
+stačí poslouchat, co se snažím říct.
+\endverse
+\beginverse*
+Na chvíli zavřít oči, vesmír se pootočí,
+taky můžeš mít, co si budeš přát a co budeš chtít!
+\endverse
+\rf[2]
+\endsong

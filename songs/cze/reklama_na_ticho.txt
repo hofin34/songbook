@@ -1,0 +1,34 @@
+\beginsong{Reklama na ticho}[by={Team}]
+\beginverse
+\[Ami]Reklamu na \[Emi]ticho dnes v\[Ami] telke dáva\[Emi]jú
+\[Ami]každý z nás \[Emi]spozornie, \[F]len čo zbadá\[G]ju.
+\[Ami]Reklamu na \[Emi]ticho, \[Ami]ten súčasný \[Emi]hit
+\[Ami]krásnym tichom z\[Emi]dovozu \[F]naplňte svo\[G]j byt
+\endverse
+\beginchorus
+\[F]Môžete \[G]ho zohnať \[C]len pod rukou,
+\[F]nááááádher\[G]né ticho hôr\[C]
+\[F]Výberové \[G]ticho \[C]so zárukou
+\[F]Získa ho \[G]kto príde \[Ami]skôô\[G]ôôô\[Ami]r \[G]
+\endchorus
+\beginverse
+Pred Tuzákom stojí rad dlhý, pomalý,
+v tlačenici musíš stáť – ticho dostali
+v konzervách a plechovkách od Coca Coly
+Také čerstvé ticho, ach, až to zabolí.
+\endverse
+\rf
+\beginverse
+Reklama na ticho zo všetkých strán znie
+vo farbe a s hudbou – je to úžasné
+decibely hluku to ticho znásobí
+minulo sa ticho, nie sú zásoby
+\endverse
+\beginverse
+Pred tuzákom rad dlhý, pomalý,
+v tlačenici musíš stáť – ticho dostali
+v konzervách a plechovkách od Coca Coly
+Také čerstvé ticho až to zabolí.
+\endverse
+\rf[2]
+\endsong

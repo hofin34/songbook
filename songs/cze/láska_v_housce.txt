@@ -1,0 +1,69 @@
+\beginsong{Láska v housce}[by={Xindl X}]
+\beginverse*
+Um um um a á
+\[Hmi]Ná na naj,\[A]nanana ná naj
+\[Hmi]Ná na naj,\[A]nanana ná naj
+\[Hmi]Nananaj,\[A]nanana ná naj
+\[G]nana naj nana naj\[A] nana naj
+Um um um a á
+\endverse
+\beginverse
+\[A]Jsi ta nejhezčí ze všech rajd,v kentucky \[Hmi]fried
+\[A]A nabízíš mi dnešní výhodný menu \[Hmi]za polovinu ceny.
+S reklamním \[A]úsměvem zkoušíš mi vnutit výhodný \[Hmi]menu jen s polovinou chutí.
+Menu jen s \[A]polovinou ingrediencí co \[Hmi]doopravdy chci.
+Menu kde \[A]půlka chodů je jenom do počtu.
+A to je hlavní důvod proč tu ,u okýnka váhám zda tišit hlad \[G]něčím co nemám \[A]rád
+\endverse
+\beginchorus
+Vždyť \[Hmi]víš co chci.
+Já \[Emi]vím, ale \[G]nejde o to \[A]kdo co chce.
+Vždyť víš co chci.
+Já vím, ale já mám svoje instrukce.
+Vždyť víš co chci.
+Já vím, ale nabídka určuje poptávku.
+\[G]Přesto snažně vyslyš \[F#]mou objednávku.
+Ná na ná, nanana ná naj
+Ná na ná, nanana ná naj
+Nananaj nananaj
+\endchorus
+\beginverse
+Ke všemu co bych objednat si lies.
+Musím si vzít i něco co se mi hnusí a k tomu super size.
+Copak jsem mohl nadít se, že co chci bylo jen v sezónní nabídce.
+Ruku svírám v pěst a v ní bezednej hrnek hořkosti jen za třicetšest.
+Kam jsem to došel je to má mekka či, jsem opět jenom v mekáči.
+A moje paní je vítězskou klání Miss Kompromis.
+\endverse
+\rf
+\beginverse*
+Um um um a á
+\endverse
+\beginverse
+\[G]Došel jsi až ke mně tak bys \[A]měl si něco \[Hmi]dát.
+\[G]Všechno se dá strávit když je \[F#]hlad.
+Frontu jsem si vystál najednou není oč stát.
+Láska v housce, instantní cit prefabrikát.
+\endverse
+\beginchorus
+Já vím co chceš,
+To jo, ale nejdo o to kdo co chce.
+Já vím co chceš.
+To jo, ale ty máš ty svý instrukce.
+Já vím co cheš.
+To jo, ale nabídka určuej poptávku.
+Tak už pochop že nepřijmu tvou objednávku
+\endchorus
+\beginchorus
+Vždyť víš co chci.
+Já vím, ale nejde o to kdo co chce.
+Vždyť víš co chci.
+Já vím, ale já mám svoje instrukce.
+Vždyť víš co chci.
+Já vím, ale nabídka určuje poptávku.
+Přesto snažně vyslyš mou
+Tak už pochop že nepřijmu (mou/tvou)
+objednávku
+\endchorus
+
+\endsong

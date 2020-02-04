@@ -1,0 +1,34 @@
+\beginsong{Castle Of Glass}[by={Linkin Park}]
+\beginverse
+\[Hmi]Take me down to the river bend,
+\[Hmi]Take me down to the fighting end,
+\[A]Wash the poison from off my skin
+\[Hmi]Show me how to be whole again
+\endverse
+\beginverse
+\[Hmi]Fly me up on a silver wing
+\[Hmi]Past the black where the sirens sing
+\[A]Warm me up in a nova's glow
+\[Hmi]\[A]nd drop me down to the dream below
+\endverse
+\beginchorus
+Cause I'm \[G]only a \[D]crack in this \[A]castle of \[Hmi]glass
+Hardly \[G]anything \[D]there for you to \[A]see.
+For you to \[Hmi]see...
+\endchorus
+\beginverse
+\[Hmi]Bring me home in a blinding dream
+\[Hmi]Through the secrets that I have seen
+\[A]Wash the sorrow from off my skin
+\[Hmi]And show me how to be whole again
+\endverse
+\rf
+\beginchorus
+Cause I'm \[G]only a \[D]crack in this \[A]castle of \[Hmi]glass
+Hardly \[G]anything \[D]else I need to \[A]bee\[Hmi]eee
+
+Cause I'm \[G]only a \[D]crack in this \[A]castle of \[Hmi]glass
+Hardly \[G]anything \[D]there for you to \[A]see.
+For you to \[Hmi]see...
+\endchorus
+\endsong

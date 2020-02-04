@@ -1,0 +1,43 @@
+ \beginsong{Silný refrén}[by={Horkýže Slíže}]
+\beginverse*
+\textbf{Capo }
+\endverse
+\beginverse
+\[A]Máme blbý štart, to neva\[D]dí, 
+   to vôbec neva\[A]dí, to vôbec neva\[D]dí   
+   \[A]na refrén sa čakať opla\[D]tí, 
+   čakať sa opla\[A]tí, čakať sa opla\[D]tí. 
+\endverse
+\beginverse
+\[A]Ak je refrén zlý, tak treba \[D]si,
+   ho pustiť päť ra\[A]zy, ho pustiť päť ra\[D]zy, 
+   \[A]ja som si ho stokrát už a\[D]si,
+   tak stokrát už a\[A]si,tak stokrát už a\[D]si. 
+    \endverse
+
+\beginchorus
+
+   /: My máme \[F]silný refrén jak \[Ami]hovädo, 
+      každý ho \[D]hmmká celý deň od rána, 
+      a potom \[F]všetci zblbnutí \[Ami]rad radom, 
+      do kola \[D]naj, naj, na na naj, na na na na na :/
+  \endchorus
+\beginverse
+Máme slávu, máme vavríny, 
+   hlavne tie vavríny, hlavne tie vavríny, 
+   lebo hráme sladké kraviny, 
+   totálne kraviny, totálne kraviny. 
+\endverse
+\beginverse
+Máme hity, máme predaje
+   a dobré predaje, a dobré predaje, 
+   a ja sa vlastne pýtam, čím to je,
+   sa pýtam čím, to je, sa pýtam čím, to je (preto, lebo) 
+    \endverse
+\rf
+\beginverse
+{\nolyrics Mezihra:    \[F  Ami  D] 2x}
+/: \[F]uuuuuuuuuu\[Ami]a ou \[D]jeeee :/
+\endverse
+\rf
+\endsong

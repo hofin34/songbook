@@ -1,0 +1,54 @@
+\beginsong{Room Of Ghosts}[by={ElevenHill}]
+\beginverse*
+e|-------0----------------|
+
+B|-------1----------------|
+
+G|-2--2--2--2--2--2--2--2-|
+
+D|-2--2--2--2--2--2--2--2-|
+
+A|-0--0-----0--3--0--X--0-|
+
+E|-X--X-----X--X--X--3--X-|
+\endverse
+\beginverse
+\[Ami]Mom used to \[C]ask,
+
+\[G]Where are you \[F]going,
+
+will you \[Ami]come?
+\[Ami]Remembering the \[C]days \[G]when I was \[F]young,
+
+so it's \[Ami]gone.
+\endverse
+\beginchorus
+\[F]Look at my face, \[Ami]in the room of ghosts,
+
+\[G]is this the way that we \[F]live today?
+
+\[F]Look at my face, \[Ami]in the room of ghosts,
+
+\[G]like a stranger‘s so \[F]far away,
+
+in the room of \[Ami]ghosts.
+\endchorus
+\beginverse
+Where are the days, I spent with friends?
+stay apart.
+Those special times falling in love
+being relieved
+\endverse
+\rf
+\beginverse
+How can I break?
+What is unbreakable?
+Where are those songs,
+I'm singing in my head?
+Now gone...
+\endverse
+\rf
+\beginverse*
+/: In the room of ghosts :/ 5x
+\endverse
+\endsong

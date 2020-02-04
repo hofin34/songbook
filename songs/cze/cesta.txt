@@ -1,0 +1,42 @@
+\beginsong{Cesta}[by={Kryštof}]
+\beginverse
+Tou \[C] cestou
+Tím směrem prý bych se \[G] dávno měl dát
+Když \[Ami] sněží, jde to stěží, ale sněhy pak tají
+Kus \[F] něhy ti za nehty \[G] slíbí a dají
+\endverse
+\beginverse
+Víc \[C] síly
+Se prát
+Na dně víc \[G] dávat
+Než brát.
+A \[Dmi] i když se vleče a je schůdná jen v kleče
+Donutí \[F] přestat se zbytečně \[G] ptát
+\endverse
+\beginchorus
+Jestli se \[C] blížím k cíli
+Kolik \[G] zbývá víry
+Kam \[Ami] zvou
+Svodidla, co po tmě mi \[F] lžou? \[G]
+Snad \[C] couvám zpátky
+A \[G] plýtvám řádky
+Co \[Ami] řvou
+Že už mi doma neotev\[F]řou \[G]
+\endchorus
+\beginverse
+Nebo jít s \[C] proudem
+Na lusknutí prstu se \[G] začít hned smát,
+Mít \[Dmi] svůj chodník slávy a před sebou davy
+A přes \[F] zkroucená záda být \[G] součástí stáda
+\endverse
+\beginverse
+Ale \[C] zpívat
+A hrát
+Kotníky \[G] líbat
+A stát
+Na \[Ami] křídlech všech slavíků
+A vlastně už ze zvyku
+\[F] Přestat se zbytečně \[G] ptát
+\endverse
+\rf[2]
+\endsong

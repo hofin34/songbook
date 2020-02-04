@@ -1,0 +1,27 @@
+\beginsong{Jarní tání}[by={Brontosauři}]
+\beginverse
+Když první \[Ami]tání \[Dmi]cestu sněhu \[C]zkříží
+a \[G]nad le\[Dmi]dem se \[E]voda obje\[Ami]ví.
+Voňavá zem se \[Dmi]sněhem tiše \[C]plíží
+\[G]tak nějak \[Dmi]líp si \[E]balím, proč bůh\[Ami]ví.
+\endverse
+\beginchorus
+Přišel čas \[G]slunce, zrození a \[C]tratí
+na kterejch \[G]potkáš kluky ze všech \[C]stran
+/:Hubenej \[Ami]Joe, Čára, Ušoun se ti \[Dmi]vrátí
+oživne \[G]kemp, \[E]jaro vítej k \[Ami]nám.:/
+\endchorus
+\beginverse
+Kdo ví jak voní země, když se budí
+pocit má vždy jak zrodil by se sám.
+Jaro je lék na řeči, co nás nudí
+na lidi, co chtěj zkazit život nám.
+\endverse
+\rf
+\beginverse
+Zmrznout by měla, kéž by se tak stalo
+srdce těch pánů, co je jim vše fuk.
+Pak bych měl naději, že i příští jaro
+bude má země zdravá jako buk.
+\endverse
+\endsong
