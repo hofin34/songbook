@@ -2,15 +2,15 @@
 \beginverse
 \[Dmi]Láďa jede na skejtu
 a umí chodit po laně,
-\[Gmi]když je v dobrý náladě,
+\[C7]když je v dobrý náladě,
 tak \[Dmi]napodobí vorvaně,
 \[Dmi]má veliký BMW,
 nikdo se na něj nechytá,
-\[Gmi]jak sou ňáký problémy,
+\[C7]jak sou ňáký problémy,
 Lá\[Dmi]ďa je všechny vychytá.
 \endverse
 \beginverse*
-\[F]Geniální nápady má, mozek obřích rozměrů,
+\[B]Geniální nápady má, mozek obřích rozměrů,
 \[C]vejde se mu do hlavy, \[A]jestlipak víte proč!
 Protože
 \endverse

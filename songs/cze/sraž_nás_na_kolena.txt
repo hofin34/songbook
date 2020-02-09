@@ -1,4 +1,4 @@
-\beginsong{Sraž nás na kolena}[by={Škwor}]
+\beginsong{Sraž nás na kolena (Shout)}[by={Škwor}]
 \beginchorus
 \[Hmi]Sraž nás na kolena \[D]výhružka snáma nic neudělá
 tak \[E]dál konec svejch dnů hle\[Hmi]dám

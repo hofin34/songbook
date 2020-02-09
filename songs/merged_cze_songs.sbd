@@ -35,6 +35,29 @@ Pro jedno kvítí se slunce nerozsvítí
 \endverse
 \rf[2]
 \endsong
+\beginsong{Andělé}[by={Wanastowi Vjecy}]
+\beginverse
+\[H]Co tě to \[F#]hned po rámu na\[E]padá \[H]nohy ruce \[F#]komu je chceš \[E]dát.
+Je to v krvi co tvou hlavu přepadá, chtělas padnout do hrobu a spát.
+\endverse
+\beginchorus
+\[D]Poraněni \[A]andělé jdou do \[G]polí, \[D]stěhovaví \[A]lidi ulí\[G]taj
+panenku bodni, ji to nebolí, svět je, mami, prapodivnej kraj.
+\endchorus
+\beginverse
+Po ránu princezna je ospalá, na nebi nemusí se bát
+v ulicích doba zlá ji spoutala, polykač nálezů a ztrát
+\endverse
+\rf
+\beginverse
+Co tě to zas po ránu napadá, za zrcadlem nezkoušej si lhát
+miluju tě, chci tě - to ti přísahám, na kolenou lásce pomož vstát 
+\endverse
+\rf
+\beginverse*
++ svět je mami dokonalej kraj, svět je, mami, dokonalej kraj...
+\endverse
+\endsong
 \beginsong{Anděl}[by={Karel Kryl}]
 %\beginverse*
 %{\nolyrics \[C] \[C] \[C] \[G7]}
@@ -1091,6 +1114,45 @@ Buď taky \[H]GAY...
 \endchorus
 
 \endsong
+\beginsong{Gorale}[by={Čechomor}]
+\beginverse
+{\nolyrics Intro: \[(D G A D)3x D G D A D]}
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/:ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]dwa warkocze
+\[A]podzielita \[D]sie:/
+\endchorus
+\beginverse
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/:ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]dwoje oczu
+\[A]podzielita \[D]sie:/
+\endchorus
+\beginverse
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/:ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]wielke serce
+\[A]podzielita \[D]sie:/
+\endchorus
+\beginverse
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/:ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]z przodu z tylu
+\[A]podzielita \[D]sie:/
+\endchorus
+\endsong
 \beginsong{Hlídač krav}[by={Jaromír Nohavica}]
 \beginverse
 \[C]Když jsem byl malý, říkali mi naši:
@@ -2017,15 +2079,15 @@ jestli to nezabere, vim, co se ti tam děje
 \beginverse
 \[Dmi]Láďa jede na skejtu
 a umí chodit po laně,
-\[Gmi]když je v dobrý náladě,
+\[C7]když je v dobrý náladě,
 tak \[Dmi]napodobí vorvaně,
 \[Dmi]má veliký BMW,
 nikdo se na něj nechytá,
-\[Gmi]jak sou ňáký problémy,
+\[C7]jak sou ňáký problémy,
 Lá\[Dmi]ďa je všechny vychytá.
 \endverse
 \beginverse*
-\[F]Geniální nápady má, mozek obřích rozměrů,
+\[B]Geniální nápady má, mozek obřích rozměrů,
 \[C]vejde se mu do hlavy, \[A]jestlipak víte proč!
 Protože
 \endverse
@@ -2296,6 +2358,40 @@ a budeš \[D]mít \[G]ráda \[B]
 \[D]
 \endverse
 \endsong
+\beginsong{Maruška}[by={Malomocnost Prázdnoty}]
+\beginverse
+\[C]Na malém plácku \[G]děti si hrají
+\[Ami]hrají si na válku \[E]všechno už mají
+Stejnokroj z tepláků větší než na míru
+dřevěný pistole, čepice z papíru
+A bitva za bitvou, tak to jde dokola
+až potom najednou něčí hlas zavolá:
+\endverse
+\beginchorus
+\[C]Zastavte válku
+\[G]Maruška brečí
+\[Ami]dostala kamenem
+\[E]při naší zteči
+Co jste to za vojsko
+když místo střílení
+do svých nepřátel
+házíte kamení
+Na to my nehrajem
+vy nám to kazíte
+nedbáte pravidel
+a pak se divíte...
+\endchorus
+\beginverse
+
+Na velkém plácků hrají si dospělí
+jen místo dřevěných hračky maj z oceli
+ocel se zarývá do kůry stromů
+desítky jizviček a blesky hromů
+Některým na duši, některým do těla
+pálí znamení, proč nikdo nevolá?
+\endverse
+\rf
+\endsong
 \beginsong{Matfyzák na discu}[by={Pokáč}]
 \gtab{Bm7b5}{XX0201}
 \beginverse
@@ -2464,29 +2560,29 @@ Dobrá Anička
 \endsong
 \beginsong{Montgomery}[by={Petr Spálený}]
 \beginverse
-\[D]Déšť ti holka smáčel\[G]vlasy
-\[A]Z tvých ocí zbyl prázdnej\[D]kruh
-Kde je zbytek tvojí\[G]krásy
-\[A]To ví dneska snad jen\[D]bůh
+\[D]Déšť ti holka smáčel \[G]vlasy \[Em]
+\[A7]Z tvých očí zbyl prázdnej \[D]kruh \[A7]
+\[D]Kde je zbytek tvojí \[G]krásy \[Em]
+\[A7]To ví dneska snad jen \[D]bůh \[A7]
 \endverse
 \beginchorus
-Z celé jižní eskadr\[G]ony
-\[A]Nezbyl ani jeden\[D]muž
-V Montgomery bijou\[G]zvony
-\[A]Déšť ti smejvá ze rtů\[D]růž
+\[D]Z celé jižní eskadr\[G]ony \[Em]
+\[A7]Nezbyl ani jeden \[D]muž \[A7]
+\[D]V Montgomery bijou \[G]zvony \[Em]
+\[A7]Déšť ti smejvá ze rtů \[D]růž \[A7]
 \endchorus
 \beginverse
-Tam na kopci v prachu\[G]cesty
-\[A]Leží i tvůj gene\[D]rál
-V ruce šátek od nevě\[G]sty
-\[A]Ale ruka leží\[D]dál
+\[D]Tam na kopci v prachu \[G]cesty \[Em]
+\[A7]Leží i tvůj gene\[D]rál \[A7]
+\[D]V ruce šátek od nevě\[G]sty \[Em]
+\[A7]Ale ruka leží \[D]dál \[A7]
 \endverse
 \rf
 \beginverse
-\[D]Tvář má zšedivělou\[G]strachem
-\[A]Zbylo v ní pár těškejch\[D]chvíl
-Proužek krve stéká\[G]prachem
-\[A]Déšť jí slepil vlasy jak\[D]jíl
+\[D]Tvář má zšedivělou \[G]strachem \[Em]
+\[A7]Zbylo v ní pár těškejch \[D]chvíl \[A7]
+\[D]Proužek krve stéká \[G]prachem \[Em]
+\[A7]Déšť jí slepil vlas jak \[D]jíl \[A7]
 \endverse
 \rf
 
@@ -2680,9 +2776,9 @@ Tak jsem to zkusil s novou motorkou
 Jen \[Emi]sám, jen \[C]sám, jen \[D] sám
 \endverse
 \beginchorus
-\[G] Na ptáky jsme krá \[E]tký
+\[G] Na ptáky jsme krá \[D]tký
 \[Emi] Na ptáky jsme \[C]malý páky
-\[G] Je to tak to \[E]my si dáme na zobák\[G]
+\[G] Je to tak to \[D]my si dáme na zobák\[G]
 \endchorus
 \beginverse
 První metr piv k tomu velkej rum
@@ -3328,13 +3424,13 @@ Nad hrobem polární zář
 \beginsong{Síla starejch vín}[by={Škwor}]
 \beginverse
 \[C] Podle nepsanejch \[Ami]zákonů hledáme \[F] něco, co nám nejspíš \[G] schází
-\[C] Podle prastarejch\[Ami]pudů, který nás \[F]nutěj furt za něčim \[G] jít
+\[C] Podle prastarejch \[Ami]pudů, který nás \[F]nutěj furt za něčim \[G] jít
 \[C] Do stejný řeky nikdy \[Ami]nevstoupíš, proč klacky \[F]sám sobě pod nohy \[G] házíš
 \[C] Cos chtěl, máš, stejně \[Ami]dojdeš k poznání \[G]
 \endverse
 \beginchorus
 Že věci\[C] některý jsou \[G] neměnný, jak \[Ami] síla starejch \[F] vín
-A někdy je \[Ami]tma kolem\[F]nás
+A někdy je \[Ami]tma kolem \[F]nás
 To když \[Ami]zrovna nejsme stálí \[G]
 Najednou \[C] blízký jsou si \[G] vzdálený
 To z \[Ami]vočí kouká \[F] nám
@@ -3343,7 +3439,7 @@ No a \[Ami]přiznej, taky jsme se \[G] báli, co bude \[C] dál
 \endchorus
 \beginverse
 \[C] Každej ctí asi \[Ami]jinej zákon a kdo \[F]ví, co nám odvahu \[G] dává
-\[C] Každej má asi\[Ami]jinej kód a ty sám \[F] zřejmě všechno víš \[G] líp
+\[C] Každej má asi \[Ami]jinej kód a ty sám \[F] zřejmě všechno víš \[G] líp
 \[C] Jak když přesadíš \[Ami]starej strom, \[F]taky to nebude velká \[G] sláva
 \[C] Cos chtěl máš, stejně\[Ami] dojdeš k poznání \[G]
 \endverse
@@ -3351,7 +3447,7 @@ No a \[Ami]přiznej, taky jsme se \[G] báli, co bude \[C] dál
 \endsong
  \beginsong{Silný refrén}[by={Horkýže Slíže}]
 \beginverse*
-\textbf{Capo }
+\textbf{Capo 3}
 \endverse
 \beginverse
 \[A]Máme blbý štart, to neva\[D]dí, 
@@ -3448,7 +3544,7 @@ Být jak pták, vznést k oblakům dát nový lak oprýskaným snům
 \rf
 
 \endsong
-\beginsong{Sraž nás na kolena}[by={Škwor}]
+\beginsong{Sraž nás na kolena (Shout)}[by={Škwor}]
 \beginchorus
 \[Hmi]Sraž nás na kolena \[D]výhružka snáma nic neudělá
 tak \[E]dál konec svejch dnů hle\[Hmi]dám
@@ -3807,7 +3903,7 @@ nafotíme riadny book,
 len našpúľ pery do \[A]óó.\[D] :/
 /: A tak ťa \[C]prosím ešte poď,
 \[G]krásny úsmev na mňa hoď
-a \[D]ukáž tú tvoju \[E]ZOO. :/
+a \[D]ukáž tú tvoju \[Emi]ZOO. :/
 \endchorus
 \beginverse
 \[E]Top model \[A]Anna H. sa \[C]foti\[D]la \[E]nahá.
@@ -4066,6 +4162,79 @@ V mírném klima našeho podnebí
 \[E]a dělat věci jen tak pro radost!
 \endverse
 \rf[2]
+\endsong
+\beginsong{Virtuóz}[by={Kabát}]
+\beginverse
+2x {Intro}
+
+     A
+
+e |--------------------|----------------|
+
+h |-----------2-----2--|--3--3--2-------|
+
+g |--2--4--2-----2-----|-----------4----|
+
+d |--------------------|----------------|
+
+a |--------------------|----------------|
+
+e |--------------------|----------------|
+
+ 
+
+\endverse
+\beginverse
+\[A]Řeknu vám, já na to mám,
+můžu zahrát \[E]klidně blues,
+mám \[D]rychlost, rytmus, \[A]techniku
+\[E]styl a vytří\[H]benej vkus.
+\endverse
+\beginverse
+Mě \[A]nástroj v rukách sluší moc,
+Hendrix by mu \[E]záviděl
+a \[D]nabídek mám \[A]plnej stůl,
+já \[F]umim hrát tos neviděls.
+\endverse
+\beginchorus
+Tam kde \[C]byl. Všude \[G]zahrál.
+Po něm \[F]zbyl jenom randál.
+Já jsem \[C]tou ozdobou \[G]léta.
+Na co \[F]sáhne to mu vzkvétá.
+\endchorus
+\beginverse*
+2x intro 
+\endverse
+\beginverse
+Jsem virtuóz a hudba má
+je dokonalá a soudobá,
+hraje vleže vestoje,
+umim rockový postoje.
+\endverse
+\beginverse
+Je virtuóz a techniku má,
+to se vás chlapci netýká.
+Jsem krásnej, vtipnej, štíhlej
+a má bílej digitál dýlej.
+\endverse
+\rf
+
+
+\beginverse*
+\textit{
+U\[D]mim na tenor saxofón
+a \[A]jak mi sluší makrofón.
+\[C]První, druhý, třetí, housle \[G]dávám.
+} \endverse
+\beginverse*
+\textit{
+Až \[D]moje sláva pomine,
+tak \[A]z hudby už moc nezbyde.
+\[G]Pardon, milá paní,
+ale už jde na mě spaní.
+} \endverse
+
+\rf[4]
 \endsong
 \beginsong{Vyprávěj (Evo...)}[by={Michal Hrůza}]
 \gtab{Amadd9-}{X02310}

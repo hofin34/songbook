@@ -1,6 +1,6 @@
  \beginsong{Silný refrén}[by={Horkýže Slíže}]
 \beginverse*
-\textbf{Capo }
+\textbf{Capo 3}
 \endverse
 \beginverse
 \[A]Máme blbý štart, to neva\[D]dí, 

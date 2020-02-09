@@ -16,9 +16,9 @@ Tak jsem to zkusil s novou motorkou
 Jen \[Emi]sám, jen \[C]sám, jen \[D] sám
 \endverse
 \beginchorus
-\[G] Na ptáky jsme krá \[E]tký
+\[G] Na ptáky jsme krá \[D]tký
 \[Emi] Na ptáky jsme \[C]malý páky
-\[G] Je to tak to \[E]my si dáme na zobák\[G]
+\[G] Je to tak to \[D]my si dáme na zobák\[G]
 \endchorus
 \beginverse
 První metr piv k tomu velkej rum

@@ -1,28 +1,28 @@
 \beginsong{Montgomery}[by={Petr Spálený}]
 \beginverse
-\[D]Déšť ti holka smáčel\[G]vlasy
-\[A]Z tvých ocí zbyl prázdnej\[D]kruh
-Kde je zbytek tvojí\[G]krásy
-\[A]To ví dneska snad jen\[D]bůh
+\[D]Déšť ti holka smáčel \[G]vlasy \[Em]
+\[A7]Z tvých očí zbyl prázdnej \[D]kruh \[A7]
+\[D]Kde je zbytek tvojí \[G]krásy \[Em]
+\[A7]To ví dneska snad jen \[D]bůh \[A7]
 \endverse
 \beginchorus
-Z celé jižní eskadr\[G]ony
-\[A]Nezbyl ani jeden\[D]muž
-V Montgomery bijou\[G]zvony
-\[A]Déšť ti smejvá ze rtů\[D]růž
+\[D]Z celé jižní eskadr\[G]ony \[Em]
+\[A7]Nezbyl ani jeden \[D]muž \[A7]
+\[D]V Montgomery bijou \[G]zvony \[Em]
+\[A7]Déšť ti smejvá ze rtů \[D]růž \[A7]
 \endchorus
 \beginverse
-Tam na kopci v prachu\[G]cesty
-\[A]Leží i tvůj gene\[D]rál
-V ruce šátek od nevě\[G]sty
-\[A]Ale ruka leží\[D]dál
+\[D]Tam na kopci v prachu \[G]cesty \[Em]
+\[A7]Leží i tvůj gene\[D]rál \[A7]
+\[D]V ruce šátek od nevě\[G]sty \[Em]
+\[A7]Ale ruka leží \[D]dál \[A7]
 \endverse
 \rf
 \beginverse
-\[D]Tvář má zšedivělou\[G]strachem
-\[A]Zbylo v ní pár těškejch\[D]chvíl
-Proužek krve stéká\[G]prachem
-\[A]Déšť jí slepil vlasy jak\[D]jíl
+\[D]Tvář má zšedivělou \[G]strachem \[Em]
+\[A7]Zbylo v ní pár těškejch \[D]chvíl \[A7]
+\[D]Proužek krve stéká \[G]prachem \[Em]
+\[A7]Déšť jí slepil vlas jak \[D]jíl \[A7]
 \endverse
 \rf
 
