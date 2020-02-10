@@ -3,11 +3,11 @@
 \[A]Když jsem ještě\[Hmi]býval malej\[C#mi]kluk,
 kluci já měl\[Hmi]sen.
 \[A]Sníval jsem ho\[Hmi]každý,\[C#mi]každý všední\[Hmi]den.
-\[C#mi]Jednoho dne \[C#mi]v neděli,
+\[F#mi]Jednoho dne \[C#mi]v neděli,
 když naši \[Hmi]za babičkou odjeli.
-\[A]Pátral jsem \[C#mi]v mámině \[C#mi]šatníku,
+\[A]Pátral jsem \[F#mi]v mámině \[C#mi]šatníku,
 \[Hmi]střevíce padly k mému \[D]kotníku.
-Teplý letní \[C#mi]den,
+Teplý letní \[F#mi]den,
 venku samci \[C#mi]motýlí, řekl jsem si \[Hmi]po chvíli.....\[D]
 \endverse
 \beginchorus

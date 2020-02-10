@@ -1,12 +1,12 @@
 \beginsong{Blátivá cesta}[by={Pacifik}]
 \beginchorus
-\[C]Blátivou blativou,blátiv\[Emi]ou blátivou.Cestou \[F]dál nechceš \[C]jít kde jen \[F]máš touhu blaz\[C]niv\[Emi]ou kde jen \[Dmi]máš,co chtel jsi \[C]mit!
+\[D]Blátivou blativou,blátiv\[F#mi]ou blátivou.Cestou \[G]dál nechceš \[D]jít kde jen \[G]máš touhu blaz\[D]niv\[F#mi]ou kde jen \[Emi]máš,co chtěl jsi \[D]mít!
 \endchorus
 \beginverse
-\[Ami]A tak se kou\[G]káš jak si ko\[Ami]lem hrajou děti,\[C]ve slunci ko\[G]tě usín\[C]á,a \[F]jak si \[G]před hospodou \[C]vyprávějí km\[Ami]eti \[D7]život prej stále začí\[G]ná.
+\[Hmi]A tak se kou\[A]káš jak si ko\[Hmi]lem hrajou děti, \[D]ve slunci ko\[A]tě usín\[D]á,\[G] a jak si \[A]před hospodou \[D]vyprávějí km\[Hmi]eti \[E7]život prej stále začí\[A]ná.
 \endverse
 \beginverse
-Z města tě vyhánějí ocelové stíny,jak dříve šel bys asi rád.Z bejvalej cest ti zbyly otrhaný džíny,čas běží je to ale znát!
+Z města tě vyhánějí ocelové stíny,jak dříve šel bys asi rád. Z bejvalej cest ti zbyly otrhaný džíny,čas běží je to ale znát!
 \endverse
 \rf
 \beginverse

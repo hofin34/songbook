@@ -1,9 +1,9 @@
 \beginsong{Dokud se zpívá}[by={Jaromír Nohavica}]
 \beginverse
-\[C]Z Těšína \[Emi]vyjíždí \[Dmi]vlaky co \[F]čtvrthodi \[C]nu,\[Emi, Dmi, G]
-\[C]včera jsem \[Emi]nespal a \[Dmi]ani dnes \[F]nespočinu,\[C, Emi, Dmi, G]
-\[F]svatý \[G]Medard, můj \[C]patron, ťuká si na \[Am]če\[G]lo,
-ale \[F]dokud se \[G]zpívá, \[F]ještě se \[G]neumřelo.\[C, Emi, Dmi, G, C]
+\[C]Z Těšína \[Emi]vyjíždí \[Dmi]vlaky co \[F]čtvrthodi \[C]nu,\[Emi Dmi G]
+\[C]včera jsem \[Emi]nespal a \[Dmi]ani dnes \[F]nespočinu,\[C Emi Dmi G]
+\[F]svatý Me\[G]dard, můj \[C]patron, ťuká si na če\[G]lo,
+ale \[F]dokud se \[G]zpívá, \[F]ještě se \[G]neumřelo.\[C Emi Dmi G]
 \endverse
 \beginverse
 Ve stánku koupím si housku a slané tyčky,

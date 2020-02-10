@@ -3,14 +3,14 @@
 \[D]Hvězda zářila a \[A]vzduch se chvěl
 \[A]hvězda zářila a \[D]vzduch se chvěl
 \[D7]hvězda zářila a \[G]vzduch se chvěl
-Jasná \[D]noc nad \[A]Betlémem \[D]stála
+Jasná \[D]noc nad Be\[A]tlémem \[D]stála
 \endverse
 \beginchorus
-\[D]Tichounce tam \[G]hráAli
-\[D]na zvonky si \[G]zvonili \[A]bim, \[D]bam
+\[D]Tichounce tam \[G]hrá\[A]li
+\[D]na zvonky si zvoni\[G]li \[A]bim, \[D]bam
 Přišli lidé \[G]z dá\[A]li, \[D]povídali a \[G]chodili \[A]sem \[D]tam.
-\[G]Ó, jak se \[D] máte? \[G]Ó, proč se \[D] ptáte?
-\[D] Tichounce tam \[G]hrá\[A]li, \[D]na zvonky si \[G]zvonili \[A]bim, \[D]bam
+\[G]Ó, \[D]jak se máte? \[G]Ó, \[D]proč se ptáte?
+\[D]Tichounce tam \[G]hrá\[A]li, \[D]na zvonky si zvoni\[G]li \[A]bim, \[D]bam
 \endchorus
 \beginverse
 V chlévě dítě jako z růže květ

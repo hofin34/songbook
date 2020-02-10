@@ -1,13 +1,19 @@
 \beginsong{Boty proti lásce}[by={Yvonne Přenosilová}]
+\beginverse*
+\textbf{Intro:} e:-12-12-11-11-10-10-9-9-8-8-7-7-6-5-43210
+\endverse
 \beginverse
 \[E]Zas mi říkal, že má něco pro mě
 a to něco, to prý láska je.
 \[A]Já však nechci žádnou lásku v domě, je,
 \[E]přináší jen žal a výdaje.
-Mám proti \[G]lásce boty,\[E]
-ty chrání \[G]paní svou,\[E]
-ty boty \[G]vždycky jdou\[E]
+Mám \[G]proti lásce \[E]boty,
+ty \[G]chrání paní \[E]svou,
+ty \[G]boty vždycky \[E]jdou
 a všechno hezké pošlapou.
+\endverse
+\beginverse*
+\textbf{Intro}
 \endverse
 \beginverse
 Žiju sama díky těmto botám,

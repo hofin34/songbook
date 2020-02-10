@@ -1,0 +1,39 @@
+\beginsong{Gorale}[by={Čechomor}]
+\beginverse
+{\nolyrics Intro: \[(D G A D)3x D G D A D]}
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/: ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]dwa warkocze
+\[A]podzielita \[D]sie :/
+\endchorus
+\beginverse
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/: ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]dwoje oczu
+\[A]podzielita \[D]sie :/
+\endchorus
+\beginverse
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/: ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]wielke serce
+\[A]podzielita \[D]sie :/
+\endchorus
+\beginverse
+\[D]Za lasami \[G]za gorami \[A]za dolina\[D]mi
+pobili sie \[G]dwaj gorale \[A]ciupaga\[D]mi
+\endverse
+\beginchorus
+/: ej gora\[G]le \[A]nie bijta \[D]sie
+ma goralka \[G]z przodu z tylu
+\[A]podzielita \[D]sie :/
+\endchorus
+\endsong

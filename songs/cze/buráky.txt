@@ -1,15 +1,15 @@
 \beginsong{Buráky}[by={-}]
 \beginverse
-\[C]Když Sever válčí s Jihem a \[F]zem jde do vál\[C]ky
-a v polích místo bavlny teď \[D]rostou bodlá\[G]ky.
-\[C]A ve stínu u silnice vidíš \[F]z Jihu vojá\[C]ky,
-jak se tu válej' v trávě a \[G]louskaj' burá\[C]ky.
+\[D]Když Sever válčí s Jihem a \[G]zem jde do vál\[D]ky
+a v polích místo bavlny teď \[E]rostou bodlá\[A]ky.
+\[D]A ve stínu u silnice vidíš \[G]z Jihu vojá\[D]ky,
+jak válejí se klidně \[A]louskaj' burá\[D]ky.
 \endverse
 \beginchorus
-\[C]Hej hou, hej hou, nač \[F]chodit do vál\[C]ky.
-Je lepší doma sedět a \[D]louskat burá\[G]ky.
-\[C]Hej hou, hej hou, \[F]nač chodit do vál\[C]ky.
-Je lepší doma sedět a \[G]louskat burá\[C]ky.
+\[D]Hej hou, hej hou, nač \[G]chodit do vál\[D]ky.
+Je lepší doma sedět a \[E]louskat burá\[A]ky.
+\[D]Hej hou, hej hou, \[G]nač chodit do vál\[D]ky.
+Je lepší doma sedět a \[A]louskat burá\[D]ky.
 \endchorus
 \beginverse
 Plukovník sedí v sedle, volá: "Yankeeové jdou!",

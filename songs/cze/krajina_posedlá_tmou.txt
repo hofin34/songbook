@@ -1,9 +1,9 @@
 \beginsong{Krajina posedlá tmou}[by={Jiří Suchý}]
 \beginverse
-\[E]Krajina \[A]posedlá \[E]tm\[A]ou,\[E]vzpomínky \[A]do sedla \[E]zvo\[A]u\[E]
+\[E]Krajina \[A]posedlá \[E]tmou,\[A]\[E] vzpomínky \[A]do sedla \[E]zvou\[A]\[E]
 nutí mě vrátit se \[H7]tam ,kde budu navěky sám
 Kde místo úsměvu \[E]tvých \[G#]čeká jen řada snu z\[A]lých\[Ami]
-namísto lásky nás \[E]dvou \[A]k\[E]rajina po\[H7]sedlá tm\[E]ou\[A, E]
+namísto lásky nás \[E]dvou \[A]\[E] krajina po\[H7]sedlá \[E]tmou \[A E]
 \endverse
 \beginverse
 Když západ v očích mi plál,s tebou jsem naposled stal

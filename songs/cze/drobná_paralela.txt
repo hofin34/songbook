@@ -21,9 +21,9 @@ včera i dneska, stále ta samá píseň.
 \rf
 \beginverse*
 *:\[C]Promlouvám k vám \[G]ústy múzy,
-\[D]vzývám tón a \[D/E]lehkou chůzi,
+\[D]vzývám tón a \[D]lehkou chůzi,
 \[C]vzývám zítřek \[G]nenadálý,
-\[D]odplouvám a \[D/E]mizím....
+\[D]odplouvám a \[D]mizím....
 \endverse
 \beginchorus
 Nic není jako dřív, nic není jak bejvávalo.

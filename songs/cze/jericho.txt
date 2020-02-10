@@ -29,9 +29,9 @@ na nejhlubším místě teď \[F#mi]bolí mě tvá \[A]poslední \[E]dobrá rá\
 \rf[2]
 \beginverse
 \[G]Všichni to říkali \[Hmi]my se jim vysmáli.
-\[A]Z očí strh sem ti \[E]mifáč.
+\[A]Z očí strh sem ti \[Emi]fáč.
 a \[G]pak tě tam nechal na pospas \[Hmi]bylinám a dekám,
-\[A]od tebe hnala mě \[E]mipryč vina má.
+\[A]od tebe hnala mě \[Emi]pryč vina má.
 \endverse
 \beginchorus
 Chtěl jsem se \[D]dívat jak vstáváš a \[F#mi]jdeš,

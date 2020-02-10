@@ -1,0 +1,23 @@
+\beginsong{Andělé}[by={Wanastowi Vjecy}]
+\beginverse
+\[H]Co tě to \[F#]hned po rámu na\[E]padá \[H]nohy ruce \[F#]komu je chceš \[E]dát.
+Je to v krvi co tvou hlavu přepadá, chtělas padnout do hrobu a spát.
+\endverse
+\beginchorus
+\[D]Poraněni \[A]andělé jdou do \[G]polí, \[D]stěhovaví \[A]lidi ulí\[G]taj
+panenku bodni, ji to nebolí, svět je, mami, prapodivnej kraj.
+\endchorus
+\beginverse
+Po ránu princezna je ospalá, na nebi nemusí se bát
+v ulicích doba zlá ji spoutala, polykač nálezů a ztrát
+\endverse
+\rf
+\beginverse
+Co tě to zas po ránu napadá, za zrcadlem nezkoušej si lhát
+miluju tě, chci tě - to ti přísahám, na kolenou lásce pomož vstát 
+\endverse
+\rf
+\beginverse*
++ svět je mami dokonalej kraj, svět je, mami, dokonalej kraj...
+\endverse
+\endsong

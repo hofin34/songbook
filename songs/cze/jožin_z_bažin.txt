@@ -2,16 +2,16 @@
 \beginverse
 \[Ami]Jedu takhle tábořit \[E]Škodou 100 na \[Ami]Oravu,
 spěchám proto, riskuji, pro\[E]jíždím přes Mo\[Ami]ravu.
-\[G7]Řádí tam to stra\[C]šidlo, \[G7]vystupuje z ba\[C]žin\[E],
+\[G7]Řádí tam to \[C]strašidlo, \[G7]vystupuje z \[C]ba\[E]žin,
 \[Ami]žere hlavně Pražáky a \[E]jmenuje se \[Ami]Jožin.\[G7]
 \endverse
 \beginchorus
-\[C]Jožin z bažin močálem se plí\[G7]ží,
-Jožin z bažin k vesnici se blí\[C]ží,
-Jožin z bažin už si zuby brou\[G7]sí,
-Jožin z bažin kouše, saje, rdou\[C]sí.
-Na \[F]Jožina z \[C]bažin, \[G]koho by to napadlo,\[C F]
-platí jen a \[C]pouze práš\[G]kovací letadlo.\[C E]
+\[C]Jožin z bažin močálem se \[G7]plíží,
+Jožin z bažin k vesnici se \[C]blíží,
+Jožin z bažin už si zuby \[G7]brousí,
+Jožin z bažin kouše, saje, \[C]rdousí.
+\[F]Na Jožina z \[C]bažin, \[G]koho by to napa\[C]dlo,
+\[F]platí jen a \[C]pouze \[G]práškovací letadlo.\[C E]
 \endchorus
 \beginverse
 Projížděl jsem Moravou směrem na Vizovice,
