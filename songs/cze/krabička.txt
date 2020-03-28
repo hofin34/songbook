@@ -1,0 +1,44 @@
+\beginsong{Krabička}[by={Vypsaná Fixa}]
+\beginverse*
+\[G Ami C]
+\endverse
+\beginverse
+\[G]Dala \[D]si mi \[Ami]dárek
+\[C]a pak si šla \[G]spát.
+Krabičku s nápisem FRIDAY I'M IN LOVE.
+Co víc si přát a co si něco dát?
+\endverse
+\beginverse
+Vím toho o chlastu stejně jako ty.
+"Ze skla nebo z plastu?", ptá se Robert Smith.
+Tak jo, tak jo a nejde se mít \[C]líp.
+\endverse
+\beginchorus
+Lítá tu butterfly. Úoo
+A já ho nechytám. Úoo
+Lítá tu lítá.
+Je modrej.
+\endchorus
+\beginchorus
+\[C]Venku už bude novej!\[G] \[D]
+\[Ami], \[C]Bude novej...\[G] \[D]
+\[Ami], \[C]Bude novej...\[G] \[D]
+\[Ami], \[C]Bude novej den dál.\[G]
+\endchorus
+\beginverse
+Dala si mi dárek
+a já jsem vyšel ven.
+Jen na malou chvíli.
+Měsíc nad stromem.
+Krabička s nápisem
+tluče za oknem.
+\endverse
+\beginverse
+Nad hlavou je vesmír
+a pod nohama zem.
+Budem chvíli mezi
+a pak se rozplynem.
+Tak jo, tak jo, ale dneska ještě ne.
+\endverse
+\rf
+\endsong

@@ -1,9 +1,9 @@
 \beginsong{Jarošovský pivovar}[by={Argema}]
 \beginverse
 \[G]Léta tam \[D]stál \[C]stojí tam \[G]dál
-pivovar u \[D]cesty\ [C]každý ho znal\[D]
-\[G]Léta tam s\[D]tál\[C]stát bude dál\[G]
-ten kdo zná \[D]Jarošov\[C]zná pi\[D]vovar\[G]
+pivovar u \[D]cesty \[C]každý ho znal\[D]
+\[G]Léta tam s\[D]tál \[C]stát bude dál\[G]
+ten kdo zná \[D]Jarošov \[C]zná pi\[D]vovar\[G]
 \endverse
 \beginchorus
 \[C]Bíla pě\[D]na\[G]láhev orosená\[Emi]

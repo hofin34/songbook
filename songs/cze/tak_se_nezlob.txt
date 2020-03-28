@@ -1,0 +1,31 @@
+\beginsong{Tak se nezlob}[by={Marek Ztracený}]
+\beginverse
+Asi jsem si \[C]všímal jenom sám sebe,
+a vůbec nev\[C]nímal, že mám taky tebe.
+\[E]Měl jsem tě brát na kolo\[Ami]toč a nebo do ki\[F]na
+\[F]a večer složit hlavu \[C]k tobě do klína.
+\endverse
+\beginverse
+Taky jsem si \[C]všímal jen svých problémů
+a vůbec nev\[C]nímal, jak mám skvělou ženu.
+\[E]Nehladil tě po vla\[Ami]sech a nebral tanco\[F]vat
+a večer na pivo \[C]a přes den nakupovat.
+\endverse
+\beginchorus
+Tak se \[C]nezlob, že jsem takovej \[G]vůl
+a \[Ami]nedělil se s tebou na\[F]půl.
+A \[C]zapomněl jsem se tě občas\[G] ptát
+jak se \[Ami]máš a co si k \[F]snídani dáš.
+Tak se nezlob že jsem zapomínal
+a když jsem moh‘, tak jsem tě neobjímal
+Nežehlil a neluxoval
+a kvůli práci ponocoval.
+\endchorus
+\beginverse
+Taky jsem si nevšim, jak jsi vyřízená
+A jak by ti prospěla pěkná dovolená
+Neběžel jsem vyměnit koruny na kuny,
+nesbalil baťůžky, nevzal do laguny.
+\endverse
+\rf
+\endsong

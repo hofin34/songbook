@@ -1,0 +1,36 @@
+\beginsong{Slečna závist}[by={Aleš Brichta}]
+\beginverse
+\[Hmi]Ta dívka u oltáře, co pohled tvůj teď váže
+skrýt \[A]závist zkouší za \[Hmi]vlastním bohatstvím.
+Má \[Hmi]krásu, moc I slávu, přesto vidíš, že se trápí,
+když tvář \[A]zakrývá jí závoj z \[Hmi]černejch pavučin.
+\endverse
+\beginchorus
+\[Hmi] \[A]  \[Hmi] 
+\[Hmi]  \[A]\[Hmi] Áaaa..
+\endchorus
+\beginverse
+Proč přišla takhle zrána a co si žádá u pána,
+že svíčku drží v dlaních, tiše obchod nabízí.
+Bože vyslyš moje přání, jak neřekneš svý ANO mi,
+tak ďáblu ruku podám, když mi pomoc přislíbí.
+\endverse
+\rf
+\beginverse
+No jen řekni, dám ti to co chceš, já věřím, ty to dokážeš,
+slib krví potvrdím, jen dej ať nikdo nemá víc.
+Mě pálí, když je kdokoli s víc štěstím se vším cokoli,
+co zrovna nemám já, ať radši sama nemám nic.
+\endverse
+\rf
+\beginverse
+Teď otáčí se s nevolí, jak ďáblu podpis zabolí,
+už do rysů jí kreslí vrásky z duše šedivý.
+Pak konečně k nám promluví, skřek havraní tu zakrouží
+a mezi námi hledá, svoji oběť vybírá.
+Když ne mě radši nikomu a slova nejsou k ničemu,
+to slečna závist vstoupila zas do někoho z nás.
+\endverse
+\rf
+
+\endsong

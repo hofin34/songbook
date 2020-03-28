@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.30)  10 FEB 2020 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.30)  28 MAR 2020 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -620,136 +620,144 @@ Underfull \vbox (badness 5022) detected at line 327
  []
 
 [5] [6]
-Underfull \vbox (badness 1107) detected at line 648
+Underfull \vbox (badness 1107) detected at line 651
  []
 
 [7]
-Underfull \vbox (badness 10000) detected at line 690
+Underfull \vbox (badness 10000) detected at line 693
  []
 
 
-Underfull \vbox (badness 10000) detected at line 729
+Underfull \vbox (badness 10000) detected at line 732
  []
 
 [8]
-Underfull \vbox (badness 10000) detected at line 751
- []
-
-[9] [10] [11]
-Underfull \vbox (badness 10000) detected at line 1140
- []
-
-[12] [13]
-Underfull \vbox (badness 3271) detected at line 1442
- []
-
-[14]
-Underfull \vbox (badness 10000) detected at line 1579
+Underfull \vbox (badness 10000) detected at line 776
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1624
+Underfull \vbox (badness 10000) detected at line 798
  []
 
-[15]
-Underfull \vbox (badness 10000) detected at line 1679
+[9]
+Underfull \vbox (badness 4048) detected at line 909
+ []
+
+[10] [11] [12]
+Underfull \vbox (badness 10000) detected at line 1240
+ []
+
+[13] [14] [15]
+Underfull \vbox (badness 10000) detected at line 1698
  []
 
 
-Underfull \vbox (badness 1360) detected at line 1729
+Underfull \vbox (badness 10000) detected at line 1743
  []
 
 [16]
-Underfull \vbox (badness 6708) detected at line 1766
+Underfull \vbox (badness 10000) detected at line 1798
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1869
+Underfull \vbox (badness 1360) detected at line 1848
  []
 
 [17]
-Underfull \vbox (badness 4739) detected at line 1943
+Underfull \vbox (badness 6708) detected at line 1885
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1988
  []
 
 [18]
-Underfull \vbox (badness 1147) detected at line 2062
+Underfull \vbox (badness 4739) detected at line 2062
  []
 
-[19] [20] [21]
-Underfull \vbox (badness 4608) detected at line 2345
+[19] [20]
+Underfull \vbox (badness 6332) detected at line 2267
  []
 
-[22] [23]
-Underfull \vbox (badness 3646) detected at line 2580
+
+Underfull \vbox (badness 10000) detected at line 2336
  []
 
-[24] [25]
-Underfull \vbox (badness 2334) detected at line 2780
+[21] [22]
+Underfull \vbox (badness 4608) detected at line 2510
  []
 
-[26]
-Underfull \vbox (badness 7777) detected at line 3000
+[23] [24]
+Underfull \vbox (badness 3646) detected at line 2745
+ []
+
+[25] [26]
+Underfull \vbox (badness 2334) detected at line 2945
  []
 
 [27]
-Underfull \vbox (badness 10000) detected at line 3075
+Underfull \vbox (badness 7777) detected at line 3165
  []
 
-[28] [29] [30]
-Underfull \vbox (badness 10000) detected at line 3443
+[28]
+Underfull \vbox (badness 10000) detected at line 3240
  []
 
-[31] [32]
-Underfull \vbox (badness 1102) detected at line 3701
+[29] [30] [31]
+Underfull \vbox (badness 10000) detected at line 3608
  []
 
-[33] [34]
-Underfull \vbox (badness 10000) detected at line 3871
+[32] [33]
+Underfull \vbox (badness 10000) detected at line 3848
  []
 
-
-Underfull \vbox (badness 10000) detected at line 3911
+[34]
+Underfull \vbox (badness 1102) detected at line 3902
  []
 
-[35]
-Underfull \vbox (badness 10000) detected at line 3944
- []
-
-[36] [37]
-Underfull \vbox (badness 10000) detected at line 4185
+[35] [36]
+Underfull \vbox (badness 10000) detected at line 4143
  []
 
 
-Underfull \vbox (badness 10000) detected at line 4258
+Underfull \vbox (badness 10000) detected at line 4176
  []
 
-[38]
-Underfull \vbox (badness 1199) detected at line 4286
- []
-
-[39]
-Underfull \vbox (badness 10000) detected at line 4407
+[37] [38] [39]
+Underfull \vbox (badness 10000) detected at line 4417
  []
 
 
-Underfull \vbox (badness 10000) detected at line 4435
+Underfull \vbox (badness 10000) detected at line 4490
  []
 
-[40]) [41] (./songs/merged_eng_songs.sbd
+[40]
+Underfull \vbox (badness 1199) detected at line 4518
+ []
+
+[41]
+Underfull \vbox (badness 10000) detected at line 4639
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 4667
+ []
+
+[42]) [43] (./songs/merged_eng_songs.sbd
 Underfull \vbox (badness 6001) detected at line 94
  []
 
-[42
+[44
 
 ]
 Underfull \vbox (badness 10000) detected at line 229
  []
 
-[43] [44]
+[45] [46]
 Underfull \vbox (badness 10000) detected at line 548
  []
 
-[45]
+[47]
 Underfull \vbox (badness 2351) detected at line 582
  []
 
@@ -757,15 +765,19 @@ Underfull \vbox (badness 2351) detected at line 582
 Underfull \vbox (badness 10000) detected at line 636
  []
 
-[46]
+[48]
 Underfull \vbox (badness 10000) detected at line 677
  []
 
 
-Underfull \vbox (badness 2384) detected at line 733
+Underfull \vbox (badness 2384) detected at line 703
  []
 
-[47]) [48]
+[49]
+Underfull \vbox (badness 10000) detected at line 759
+ []
+
+) [50]
 \openout3 = `cbtitle.sxd'.
 
  (./lyricbook_main.sxc)
@@ -778,17 +790,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `lyricbook_main.out' has not changed.
-(rerunfilecheck)             Checksum: CF8E62BC8708D4227809D45E254DAD9A;19052.
+(rerunfilecheck)             Checksum: 78FCD937BC5F44AD8CBB40CC4F31BB2E;20195.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 9549 strings out of 494889
- 127584 string characters out of 6179444
- 247004 words of memory out of 5000000
- 12650 multiletter control sequences out of 15000+600000
+ 9565 strings out of 494889
+ 127764 string characters out of 6179444
+ 247650 words of memory out of 5000000
+ 12657 multiletter control sequences out of 15000+600000
  10930 words of font info for 37 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 31i,7n,31p,348b,742s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,7n,31p,348b,754s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
@@ -800,10 +812,10 @@ onts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts
 lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb>
-Output written on lyricbook_main.pdf (48 pages, 292879 bytes).
+Output written on lyricbook_main.pdf (50 pages, 301103 bytes).
 PDF statistics:
- 1076 PDF objects out of 1200 (max. 8388607)
- 870 compressed objects within 9 object streams
- 178 named destinations out of 1000 (max. 500000)
- 1033 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1139 PDF objects out of 1200 (max. 8388607)
+ 915 compressed objects within 10 object streams
+ 187 named destinations out of 1000 (max. 500000)
+ 1089 words of extra memory for PDF output out of 10000 (max. 10000000)
 

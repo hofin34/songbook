@@ -22,11 +22,14 @@ asi se mi \[Ami]zdálo.
 že chybí už tak \[Emi]málo.\[E] - 2x
 \endchorus
 \beginverse
-{\nolyrics Mezihra: \[D] \[F#mi] \[Emi] \[C]}
-Dochází mi náboje, však nevzdávám to bez boje.
-Pořád věřím tomu, že se vrátí domů.
-Tak snadno mě nezlomí ani pouhý vědomí,
-že mně zatím nejde čekat až to přejde.
+Dochází mi náboje,
+však nevzdávám to bez boje.
+Pořád věřím tomu,
+že se vrátí domů.
+Tak snadno mě nezlomí
+ani pouhý vědomí,
+že mně zatím nejde
+čekat až to přejde.
 \endverse
 \beginverse*
 Ať mně někdo \[Ami]odpoví,
