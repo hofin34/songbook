@@ -1,0 +1,48 @@
+\beginsong{Italská směs}[by={Triky a pověry - Ital nezná ten zázrak}]
+\beginverse*
+\textbf{\large Odečítá}
+{\nolyrics Akordy: \[C Ami Dmi G7]}
+Odečítá
+náš kluk, to je snad zázrak
+všem dává na frak
+už odečítá
+vždy si udělá chvilku
+pro násobilku
+a odečítá
+hlavu ve tvaru tykve
+vysoké IQ
+už odečítá, odečítá
+\endverse
+\beginverse*
+Odečítá
+moc mu nevoní práce
+bude mu dvacet
+už odečítá
+pije červené víno
+naše bambino
+už odečítá
+hraje odmala fotbal
+matiku dohnal
+už odečítá, odečítá
+\endverse
+
+\beginverse*
+\textbf{\large Ty jámo}
+\[C]Ty, jámo
+řekni mi, \[Ami]ty, jámo
+třímetro\[Dmi]vá jámo
+řekni mi \[G]zdalipak byl účel
+abych sem zahučel
+\[C]Ty, jámo
+řekni mi, \[Ami]ty, jámo
+třímetro\[Dmi]vá jámo
+řekni mi, \[G]kdo tě tu vyhloubil
+to teda byl debil
+\endverse
+\beginverse*
+\[C]Byl jsem to já a můj krumpáč
+\[Ami]tak mi tu jámu holt prepáč
+\[Dmi]znáš přece italské pracanty
+to je furt \[G]avanti, avanti, avanti, avanti
+\endverse
+\endsong

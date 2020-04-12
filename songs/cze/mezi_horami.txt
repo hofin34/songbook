@@ -9,7 +9,7 @@
 
 \[G]Janíčka,\[Ami]Janka
 
-\[Ami]miesto\ [Emi]jele\[Ami]ňa:/
+\[Ami]miesto \[Emi]jele\[Ami]ňa:/
 \endchorus
 \beginverse
 Keď ho zabili

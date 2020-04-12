@@ -10,6 +10,7 @@ už se těším za chvíli, jak krtkům dojdou \[Ami]síly
 s \[G] nakloněnou \[Ami]hlavou
 \[F]prsa nebo \[C]znak
 \[G]ano je to \[Ami]tak
+\textbf{2x}
 \endchorus
 \beginverse
 Posekej celou zahradu a všechno luční kvítí
@@ -17,5 +18,14 @@ to se potom černej krtek mnohe, lépe chytí
 najdi správnou díru, do který se voda leje
 jestli to nezabere, vim, co se ti tam děje
 \endverse
-\rf
+\beginchorus
+\[F]Oni ti tam \[C]plavou
+s \[G] nakloněnou \[Ami]hlavou
+\[F]prsa nebo \[C]znak
+\[G]ano je to \[Ami]tak
+\[F]ale oni \[C]plavou
+s \[G] nakloněnou \[Ami]hlavou
+\[F]prsa nebo \[C]znak
+\[G]ano je to \[Ami]tak
+\endchorus
 \endsong
