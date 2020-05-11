@@ -1,15 +1,15 @@
 \beginsong{Jarní tání}[by={Brontosauři}]
 \beginverse
 Když první \[Ami]tání \[Dmi]cestu sněhu \[C]zkříží
-a \[G]nad le\[Dmi]dem se \[E]voda obje\[Ami]ví.
+a \[F]nad le\[Dmi]dem se \[E]voda obje\[Ami]ví.
 Voňavá zem se \[Dmi]sněhem tiše \[C]plíží
-\[G]tak nějak \[Dmi]líp si \[E]balím, proč bůh\[Ami]ví.
+\[F]tak nějak \[Dmi]líp si \[E]balím, proč bůh\[Ami]ví.
 \endverse
 \beginchorus
-Přišel čas \[G]slunce, zrození a \[C]tratí
-na kterejch \[G]potkáš kluky ze všech \[C]stran
+Přišel čas \[F]slunce, zrození a \[C]tratí
+na kterejch \[F]potkáš kluky ze všech \[C]stran \[E]
 /:Hubenej \[Ami]Joe, Čára, Ušoun se ti \[Dmi]vrátí
-oživne \[G]kemp, \[E]jaro vítej k \[Ami]nám.:/
+oživne \[F]kemp, \[E]jaro vítej k \[Ami]nám. \[E]:/
 \endchorus
 \beginverse
 Kdo ví jak voní země, když se budí

@@ -12,12 +12,11 @@ ačkoliv sny se mi zásadně nezdají věřím, že dnes v noci budou se zdát
 \endverse
 \beginchorus
 O sny mě \[B]připraví teprve \[C]svítání zpěv ptáků v \[B]oblacích a modré \[C]nebe
-od vlasů \[F]jichž jsem se dotýkal \[C]ve spaní, nový den \[As7]nůžkama odstřihne \[G]tebe.
+od vlasů \[F]jichž jsem se dotýkal \[C]ve spaní, nový den \[G#7]nůžkama odstřihne \[G]tebe.
 \endchorus
 \beginverse
 A na bílém polštáři do kroužku stočený zbude tu po tobě pramínek vlasů
 já nebudu vstávat - dál chci ležet zasněný je totiž neděle a mám dost času
 \endverse
-\rf
 
 \endsong

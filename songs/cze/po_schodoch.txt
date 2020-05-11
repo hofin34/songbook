@@ -1,7 +1,7 @@
 \beginsong{Po schodoch}[by={Richard Müler}]
 \beginverse
-\[Dmi]Výťah opäť nechodí tak \[C]zdolať 13 poschodí
-\[B]zostáva mi \[C]znova po svo\[Dmi]jich
+\[Emi]Výťah opäť nechodí tak \[D]zdolať 13 poschodí
+\[C]zostáva mi \[D]znova po svo\[Emi]jich
 na schodoch čosi šramotí a neón kde tu nesvieti
 ešte že sa po tme nebojím
 \endverse
@@ -12,10 +12,10 @@ tatramatky ródeo sa mieša kde tu s operou
 všetko počuť cestou po schodoch
 \endverse
 \beginchorus
-Cestou \[Dmi]po schodoch, \[Ami]po schodoch
-\[Dmi]poznávam \[C]poschodia
-poznám \[Dmi]po schodoch, \[Ami]po zvukoch
-\[B]čo sme to \[A]za ľu\[Dmi]dia
+Cestou \[Emi]po schodoch, \[Hmi]po schodoch
+\[Emi]poznávam \[D]poschodia
+poznám \[Emi]po schodoch, \[Hmi]po zvukoch
+\[C]čo sme to \[H]za ľu\[Emi]dia
 \endchorus
 \beginverse
 Štekot smutnej kólie za premárnené prémie

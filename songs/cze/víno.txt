@@ -1,10 +1,10 @@
 \beginsong{Víno}[by={Chinaski}]
 
 \beginverse
-\[A]Zase je pátek a \[E]mám toho dost.
-Tak beru \[G]kramle, za zády \[D]černý most.
-A \[A]pokud mi to D1 \[E]dovolí,
-než minu \[G]Jihlavu, \[D]hodím Prahu za hla\[A]vu.
+\[G]Zase je pátek a \[D]mám toho dost.
+Tak beru \[F]kramle, za zády \[C]černý most.
+A \[G]pokud mi to D1 \[D]dovolí,
+než minu \[F]Jihlavu, \[C]hodím Prahu za hla\[G]vu.
 \endverse
 \beginverse
 Jedu jak pražák, hlava nehlava,
@@ -13,10 +13,10 @@ Už od Brna jsem jako na trní,
 ta sladká píseň tak blízko zní.
 \endverse
 \beginchorus
-\[A]My máme rádi \[E]víno,
-\[G]milujeme \[D]krásné ženy a \[A]zpěv
-a na věc jdeme \[E]přímo
-\[G]v žilách nám proudí \[D]moravská \[A]krev (2x)
+\[G]My máme rádi \[D]víno,
+\[F]milujeme \[C]krásné ženy a \[G]zpěv
+a na věc jdeme \[D]přímo
+\[F]v žilách nám proudí \[C]moravská \[G]krev (2x)
 \endchorus
 \beginverse
 Jako papír hodím práci a všechny šéfy za hlavu
@@ -35,13 +35,13 @@ v žilách nám proudí moravská krev
 My tady totiž máme
 Všechno co na světě máš rád
 a ochutnat ti dáme
-\[G]Slunce a \[D]nekonečný vino\[C#mi]hrad.
+\[F]Slunce a \[C]nekonečný vino\[Hmi]hrad.
 \endchorus
 \beginverse*
-Tak se tu žije na \[D]padesátý rovnoběž\[E]ce
+\[Hmi]Tak se tu žije na \[C]padesátý rovnoběž\[D]ce
 V mírném klima našeho podnebí
-\[C#mi]Je krásné nemít \[D]nikdy dost
-\[E]a dělat věci jen tak pro radost!
+\[Hmi]Je krásné nemít \[C]nikdy dost
+\[D]a dělat věci jen tak pro radost!
 \endverse
 \rf[2]
 \endsong

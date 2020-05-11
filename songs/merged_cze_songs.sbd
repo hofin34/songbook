@@ -403,22 +403,60 @@ pokoj všem lidem dobré vůle.
 \endsong
 \beginsong{Blátivá cesta}[by={Pacifik}]
 \beginchorus
-\[D]Blátivou blativou,blátiv\[F#mi]ou blátivou.Cestou \[G]dál nechceš \[D]jít kde jen \[G]máš touhu blaz\[D]niv\[F#mi]ou kde jen \[Emi]máš,co chtěl jsi \[D]mít!
+\[C]Blátivou blativou,blátiv\[Emi]ou blátivou.Cestou \[F]dál nechceš \[C]jít kde jen \[F]máš touhu blaz\[C]niv\[Emi]ou kde jen \[Dmi]máš,co chtěl jsi \[C]mít!
 \endchorus
 \beginverse
-\[Hmi]A tak se kou\[A]káš jak si ko\[Hmi]lem hrajou děti, \[D]ve slunci ko\[A]tě usín\[D]á,\[G] a jak si \[A]před hospodou \[D]vyprávějí km\[Hmi]eti \[E7]život prej stále začí\[A]ná.
+\[Ami]A tak se kou\[G]káš jak si ko\[Ami]lem hrajou děti,
+\[C]ve slunci ko\[G]tě usín\[C]á, 
+\[F] a jak si \[G]před hospodou \[C]vyprávějí km\[Ami]eti 
+\[D7]život prej stále začí\[G]ná.
 \endverse
 \beginverse
-Z města tě vyhánějí ocelové stíny,jak dříve šel bys asi rád. Z bejvalej cest ti zbyly otrhaný džíny,čas běží je to ale znát!
+Z města tě vyhánějí ocelové stíny,
+jak dříve šel bys asi rád. 
+Z bejvalej cest ti zbyly otrhaný džíny,
+čas běží je to ale znát!
 \endverse
 \rf
 \beginverse
-Na poli pokoseným přepočítáš knopy,do trávy hlavu položíš.Zdá se ti o holkách co oči vždycky klopí,po jinejch ani netoužíš.
+Na poli pokoseným přepočítáš knopy,
+do trávy hlavu položíš.
+Zdá se ti o holkách co oči vždycky klopí,
+po jinejch ani netoužíš.
 \endverse
 \beginverse
-Měkký jsou stíny dole zrcadlí se řeka,nad jezem kolébá se prám.Kolem je ticho že i vlastní stín tě leká a přesto necítíš se sám.
+Měkký jsou stíny dole zrcadlí se řeka,
+nad jezem kolébá se prám.
+Kolem je ticho že i vlastní stín tě leká,
+a přesto necítíš se sám.
 \endverse
 \rf
+
+\endsong
+\beginsong{Bláznova ukolébavka}[by={-}]
+\beginverse
+\[D]Máš má ovečko\[A] dávno spát
+i\[G] píseň ptáků\[D] končí
+kvůli nám přestal vítr vát
+jen můra zírá zvenčí
+Já\[A] znám její zášť tak\[G] vyhledej skrýš
+zas\[A] má bílej plášť a\[G] v okně je\[A] mříž
+\endverse
+\beginchorus
+\[D]Máš má ovečko\[A] dávno spát
+a\[G] můžeš hřát ty mně\[E] můžeš hřát
+Vždyť\[D] přijdou se\[G] ptát,
+zítra zas\[D] přijdou se\[G] ptát
+jestli ty v\[D] mých představách\[G] už\[D] mizíš
+\endchorus
+\beginverse
+Máš má ovečko dávno spát
+dnes máme půlnoc temnou
+Ráno budou nám bláznům lhát
+že ráda snídaš se mnou
+Proč měl bych jim lhát že jsem tady sám
+když tebe mám rád když tebe mám rád
+\endverse
 
 \endsong
 \beginsong{Blues na cestu poslední}[by={Jiří Suchý}]
@@ -1534,15 +1572,15 @@ to je furt \[G]avanti, avanti, avanti, avanti
 \beginsong{Jarní tání}[by={Brontosauři}]
 \beginverse
 Když první \[Ami]tání \[Dmi]cestu sněhu \[C]zkříží
-a \[G]nad le\[Dmi]dem se \[E]voda obje\[Ami]ví.
+a \[F]nad le\[Dmi]dem se \[E]voda obje\[Ami]ví.
 Voňavá zem se \[Dmi]sněhem tiše \[C]plíží
-\[G]tak nějak \[Dmi]líp si \[E]balím, proč bůh\[Ami]ví.
+\[F]tak nějak \[Dmi]líp si \[E]balím, proč bůh\[Ami]ví.
 \endverse
 \beginchorus
-Přišel čas \[G]slunce, zrození a \[C]tratí
-na kterejch \[G]potkáš kluky ze všech \[C]stran
+Přišel čas \[F]slunce, zrození a \[C]tratí
+na kterejch \[F]potkáš kluky ze všech \[C]stran \[E]
 /:Hubenej \[Ami]Joe, Čára, Ušoun se ti \[Dmi]vrátí
-oživne \[G]kemp, \[E]jaro vítej k \[Ami]nám.:/
+oživne \[F]kemp, \[E]jaro vítej k \[Ami]nám. \[E]:/
 \endchorus
 \beginverse
 Kdo ví jak voní země, když se budí
@@ -3093,10 +3131,14 @@ Cestu \[G]znám a \[C]neměním \[G]směr,
 \[Emi]dojdu k řece \[C]plný ryb až \[D]tam na se\[G]ver.
 \endchorus
 \endsong
- \beginsong{Nazdar!!!}[by={Horkýže Slíže}]
+\beginsong{Nazdar!!!}[by={Horkýže Slíže}]
+\beginverse*
+	\textbf{Akordy v závorce jsou s Capo 4}
+\endverse
+
 \beginverse
-\[G#] Nazdar, čo si ma \[C#] nepamätáš?
-Išli sme \[D#] spolu vlakom Nové Zámky- \[C#]Praha nevíš?
+\[G# (E)] Nazdar, čo si ma \[C# (A)] nepametáš?
+Išli sme \[D# (H)] spolu vlakom Nové Zámky- \[C# (A)]Praha nevíš?
 A tí dve holky tupé, čo ogrcali kupé,
 vystúpili sme s nimi v Brne, čo si nepamätáš?
 \endverse
@@ -3104,11 +3146,11 @@ vystúpili sme s nimi v Brne, čo si nepamätáš?
 Nazdar, ja si ťa nepamätám.
 Žiadny vlak Nové Zámky-Praha mi nič nehovorí.
 Ani dve holky tupé, čo ogrcali kupé,
-nič mi to \[E]nehovorí, fakt sorry nepamätám.
+nič mi to nehovorí, fakt sorry nepamätám.
 \endverse
 \beginchorus
-\[C#] Splietol si si ma s niekým, tak \[G#] zastav a vyber baterky.
-\[C#] Splietol si si ma s niekým, \[D#] omyl,omyl a to veľký.
+\[C# (A)] Splietol si si ma s niekým, tak \[G# (E)] zastav a vyber baterky.
+\[C# (A)] Splietol si si ma s niekým, \[D# (H)] omyl,omyl a to veľký.
 \endchorus
 \beginverse
 Ale Peter, čo si to nepamätáš?
@@ -3341,8 +3383,8 @@ schovej sirky ať je neviděj.
 \endsong
 \beginsong{Po schodoch}[by={Richard Müler}]
 \beginverse
-\[Dmi]Výťah opäť nechodí tak \[C]zdolať 13 poschodí
-\[B]zostáva mi \[C]znova po svo\[Dmi]jich
+\[Emi]Výťah opäť nechodí tak \[D]zdolať 13 poschodí
+\[C]zostáva mi \[D]znova po svo\[Emi]jich
 na schodoch čosi šramotí a neón kde tu nesvieti
 ešte že sa po tme nebojím
 \endverse
@@ -3353,10 +3395,10 @@ tatramatky ródeo sa mieša kde tu s operou
 všetko počuť cestou po schodoch
 \endverse
 \beginchorus
-Cestou \[Dmi]po schodoch, \[Ami]po schodoch
-\[Dmi]poznávam \[C]poschodia
-poznám \[Dmi]po schodoch, \[Ami]po zvukoch
-\[B]čo sme to \[A]za ľu\[Dmi]dia
+Cestou \[Emi]po schodoch, \[Hmi]po schodoch
+\[Emi]poznávam \[D]poschodia
+poznám \[Emi]po schodoch, \[Hmi]po zvukoch
+\[C]čo sme to \[H]za ľu\[Emi]dia
 \endchorus
 \beginverse
 Štekot smutnej kólie za premárnené prémie
@@ -3424,13 +3466,12 @@ ačkoliv sny se mi zásadně nezdají věřím, že dnes v noci budou se zdát
 \endverse
 \beginchorus
 O sny mě \[B]připraví teprve \[C]svítání zpěv ptáků v \[B]oblacích a modré \[C]nebe
-od vlasů \[F]jichž jsem se dotýkal \[C]ve spaní, nový den \[As7]nůžkama odstřihne \[G]tebe.
+od vlasů \[F]jichž jsem se dotýkal \[C]ve spaní, nový den \[G#7]nůžkama odstřihne \[G]tebe.
 \endchorus
 \beginverse
 A na bílém polštáři do kroužku stočený zbude tu po tobě pramínek vlasů
 já nebudu vstávat - dál chci ležet zasněný je totiž neděle a mám dost času
 \endverse
-\rf
 
 \endsong
 \beginsong{Před naší, za naší (prašná cestička)}[by={Karel Gott}]
@@ -3464,21 +3505,22 @@ jinak budu radši sám
 
 \endsong
 \beginsong{První signální}[by={Chinaski}]
-\gtab{As}{4:X(33211)}
+\gtab{G#}{4:(133211)}
+\gtab{Es}{3:XX3(121)}
 \beginverse
-Až si \[F]zejtra ráno \[B]řeknu zase
-\[Dmi]jednou provždy dost
-\[F]právem se mi \[B]budeš tiše \[Dmi]smát
+Až si \[G]zejtra ráno \[C]řeknu zase
+\[Emi]jednou provždy dost
+\[G]právem se mi \[C]budeš tiše \[Emi]smát
 jak omluvit si svoji slabost, nenávist a zlost
 když za všechno si můžu vlastně sám.
 \endverse
 \beginchorus
-\[Gmi]Za spoustu dní možná za \[B]spoustu let
-až se mi \[F]rozední budu ti \[C]vyprávět
-na 1.\[Gmi]signální jak jsem \[B]vobletěl svět
-jak tě to \[F]vomámí a \[C]nepustí zpět.
-Jaký si to \[Es]uděláš \[As]takový to \[Cmi]máš.
-Jaký si to \[Es]uděláš \[As]takový to \[Cmi]máš.
+\[Ami]Za spoustu dní možná za \[C]spoustu let
+až se mi \[G]rozední budu ti \[D]vyprávět
+na 1.\[Ami]signální jak jsem \[C]vobletěl svět
+jak tě to \[G]vomámí a \[D]nepustí zpět.
+Jaký si to \[F]uděláš \[B]takový to \[Dmi]máš.
+Jaký si to \[F]uděláš \[B]takový to \[Dmi]máš.
 \endchorus
 \beginverse
 Až se dneska večer budu tvářit zas jak Karel Gott,
@@ -3558,6 +3600,33 @@ Studánečka promluvila:
 \beginverse*
   + /: před sebou sta sáhů :/
 \endverse
+\endsong
+\beginsong{Ráno bylo stejný}[by={Žalman}]
+\beginverse
+\[G]Stál na zastávce s vypůj\[Hmi]čenou kyta\[D]rou,
+   v dru\[Ami]hý ruce holku, \[D]to zavazadlo \[G]svý,
+   \[Emi]a tý holce v sáčku řek: \[D]Dobrýtro, miláčku,
+   \[C]podívej se \[G]do dáli, \[E7]uvidíš dvě smutný kole\[Ami]je  \[D7]na silni\[G]ci.
+\endverse
+\beginverse
+Ráno bylo stejný, stejný pivo, stejný blues,
+   ospalí a nudní byli po flámu,
+   kouřili partyzánku, dým foukali do vánku,
+   dívali se do dáli, viděli dvě smutný koleje na silnici.
+\endverse
+\beginchorus
+\[D]Ráno bylo stejný, \[C]nesváteč\[G]ní,\[C G]
+   \[D]na tvářích počasí \[C]proměnli\[G]vý\[C G] 
+   \[D]rádio hlásilo: \[C]na blatech \[G]svítá,
+   \[E7]každej byl tak trochu \[Ami7]sám, \[D7]hm \[G]
+\endchorus
+\beginverse
+   Holka, zvedej kotvy, nikdo nás už nebere,
+   pojedeme po svejch do podnájmu žít,
+   koupíme na splátky jízdenku tam a zpátky,
+   až omrzí nás dálky, budem jak dvě smutný koleje na silnici.
+\endverse
+\rf
 \endsong
 \beginsong{Reklama na ticho}[by={Team}]
 \beginverse
@@ -3832,14 +3901,14 @@ Být jak pták, vznést k oblakům dát nový lak oprýskaným snům
 \endsong
 \beginsong{Slečna závist}[by={Aleš Brichta}]
 \beginverse
-\[Hmi]Ta dívka u oltáře, co pohled tvůj teď váže
-skrýt \[A]závist zkouší za \[Hmi]vlastním bohatstvím.
-Má \[Hmi]krásu, moc I slávu, přesto vidíš, že se trápí,
-když tvář \[A]zakrývá jí závoj z \[Hmi]černejch pavučin.
+\[Emi]Ta dívka u oltáře, co pohled tvůj teď váže
+skrýt \[D]závist zkouší za \[Emi]vlastním bohatstvím.
+Má \[Emi]krásu, moc I slávu, přesto vidíš, že se trápí,
+když tvář \[D]zakrývá jí závoj z \[Emi]černejch pavučin.
 \endverse
 \beginchorus
-\[Hmi] \[A]  \[Hmi] 
-\[Hmi]  \[A]\[Hmi] Áaaa..
+\[Emi] \[D]  \[Emi] 
+\[Emi]  \[D]\[Emi] Áaaa..
 \endchorus
 \beginverse
 Proč přišla takhle zrána a co si žádá u pána,
@@ -4231,7 +4300,7 @@ Druhej kříž mám a spím v podzemí,
 \rf
 \beginverse
 Třetí kříž snad vyvolá jen vztek,
-Fatty Rogers těm dvoum život vzal.
+Katty Rogers těm dvoum život vzal.
 Svědomí měl, vedle nich si klek.
 \textit{
 "Já vím, trestat je lidský, ale odpouštět božský.
@@ -4276,6 +4345,37 @@ Lebo my \[E]máme ruky nad \[A]bibliou
 \rf
 \endsong
 
+\beginsong{Už to nenapravím}[by={Samson}]
+\beginchorus
+Vap tap tap ...\[Hmi] \[E] \[G] \[F#] \[Hmi] \[F#] \[Hmi] \[E] \[G] \[F#] \[Hmi] \[F#]
+\endchorus
+\beginverse
+V \[Hmi]devět hodin dvacet pět \[E]mě opustilo štěstí,
+ten \[G]vlak, co jsem jím měl jet, na koleji \[F#]dávno \[F#7]nestál,
+v \[Hmi]devět hodin dvacet pět \[E]jako bych dostal pěstí,
+já \[G]za hodinu na náměstí měl jsem \[F#]stát,
+ale v \[F#7]jiným městě.
+Tvá zp\[H7]ráva zněla prostě a byla tak krátká,
+že \[Emi]stavíš se jen na skok, že nechalas' mi vrátka
+\[A]zadní otevřená, \[F#]zadní otevřená,
+já \[H7]naposled tě viděl, když ti bylo dvacet,
+\[Emi]to jsi tenkrát řekla, že se nechceš vracet,
+\[A]že jsi unavená, \[F#]ze mě unavená.
+\endverse
+\rf
+\beginverse
+Já čekala jsem, hlavu jako střep, a zdálo se, že dlouho,
+může za to vinný sklep, že člověk často sleví,
+já čekala jsem, hlavu jako střep, s podvědomou touhou,
+já čekala jsem dobu dlouhou, víc než dost, kolik přesně, nevím.
+Pak jedenáctá byla a už to bylo passé,
+já dřív jsem měla vědět, že vidět chci tě zase,
+láska nerezaví, láska nerezaví,
+ten list, co jsem ti psala, byl dozajista hloupý,
+byl odměřený moc, na vlídný slovo skoupý,
+už to nenapravím, už to nenapravím.
+\endverse
+\endsong
 \beginsong{Valčíček}[by={Nedvědi}]
 \beginchorus
 Tuhl\[G]e písničku chtěl bych ti\[D], lásko, dát, ať ti \[D7]každej den připomí\[G]ná,
@@ -4472,10 +4572,10 @@ A \[G]půjdu spát, půjdu \[G7]spát
 \beginsong{Víno}[by={Chinaski}]
 
 \beginverse
-\[A]Zase je pátek a \[E]mám toho dost.
-Tak beru \[G]kramle, za zády \[D]černý most.
-A \[A]pokud mi to D1 \[E]dovolí,
-než minu \[G]Jihlavu, \[D]hodím Prahu za hla\[A]vu.
+\[G]Zase je pátek a \[D]mám toho dost.
+Tak beru \[F]kramle, za zády \[C]černý most.
+A \[G]pokud mi to D1 \[D]dovolí,
+než minu \[F]Jihlavu, \[C]hodím Prahu za hla\[G]vu.
 \endverse
 \beginverse
 Jedu jak pražák, hlava nehlava,
@@ -4484,10 +4584,10 @@ Už od Brna jsem jako na trní,
 ta sladká píseň tak blízko zní.
 \endverse
 \beginchorus
-\[A]My máme rádi \[E]víno,
-\[G]milujeme \[D]krásné ženy a \[A]zpěv
-a na věc jdeme \[E]přímo
-\[G]v žilách nám proudí \[D]moravská \[A]krev (2x)
+\[G]My máme rádi \[D]víno,
+\[F]milujeme \[C]krásné ženy a \[G]zpěv
+a na věc jdeme \[D]přímo
+\[F]v žilách nám proudí \[C]moravská \[G]krev (2x)
 \endchorus
 \beginverse
 Jako papír hodím práci a všechny šéfy za hlavu
@@ -4506,13 +4606,13 @@ v žilách nám proudí moravská krev
 My tady totiž máme
 Všechno co na světě máš rád
 a ochutnat ti dáme
-\[G]Slunce a \[D]nekonečný vino\[C#mi]hrad.
+\[F]Slunce a \[C]nekonečný vino\[Hmi]hrad.
 \endchorus
 \beginverse*
-Tak se tu žije na \[D]padesátý rovnoběž\[E]ce
+\[Hmi]Tak se tu žije na \[C]padesátý rovnoběž\[D]ce
 V mírném klima našeho podnebí
-\[C#mi]Je krásné nemít \[D]nikdy dost
-\[E]a dělat věci jen tak pro radost!
+\[Hmi]Je krásné nemít \[C]nikdy dost
+\[D]a dělat věci jen tak pro radost!
 \endverse
 \rf[2]
 \endsong
