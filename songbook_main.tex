@@ -3,6 +3,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[unicode]{hyperref} % na začátku bylo místo unicode bookmark
 \usepackage[chorded]{songs}
+\usepackage{geometry}
+\usepackage{float}
 
 
 
@@ -45,11 +47,18 @@
 \lhead{\hyperlink{page.2}{$\leftarrow$}}
 % END HEADER SECTION
 
+\usepackage{graphicx}
 \begin{document}
 \thispagestyle{empty}
-{\huge Místo pro úvodní stránku zpěvníku... }\par
+\begin{figure}[H]
+	\centering
+	\scalebox{0.7}{\includegraphics{title_picture.jpg}}
+
+	%\scalebox{0.7}{\includegraphics{title_picture.jpg}}
+\end{figure}
 \vspace*{\fill}
 Vygenerováno: \today
+
 \newpage
 
 \thispagestyle{empty} % removes refference
