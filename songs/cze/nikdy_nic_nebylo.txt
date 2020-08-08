@@ -1,0 +1,43 @@
+\beginsong{Nikdy nic nebylo}[by={Sto zvířat}]
+\beginverse
+Nikdy jsi \[Gmi]nebyla - a naše seznámení
+Proběhlo \[Es] má milá - před kinem který není
+Nepil jsem \[C]Tequilu - a ne že bych se šklebil
+\[F]Netlačil na pilu v tom baru,kterej nebyl
+\endverse
+\beginverse
+Nikdy jsem \[Gmi] neříkal - kolik mě čeká slávy
+Nehrála \[Es] muzika - ze který jsem se dávil
+Nechtěl jsem \[C] na závěr - Ti vyblejt celej život
+\[F] a ztratit charakter a všechno oběživo
+\endverse
+\beginchorus
+2x:  Nebylo \[Gmi] nic - já jen \[B] kdybys měla chvíli
+\[C] můžem si někam \[Gmi] sednout
+Nebylo nic - pár \[B] let jsme spolu nemluvili
+\[C] a předtim taky ani \[Gmi] jednou
+\endchorus
+\beginverse
+Nikdy nic \[Gmi]nebylo - noc jako horská dráha
+Vsadim se \[Es] o kilo - že prostě nejsi drahá
+Je to jen \[C] chiméra - a žádný že jsem brečel
+\[F] a měl jsem hysterák - ty už mi neutečeš
+\endverse
+\beginverse
+Scénář se nekoná - my dva ho nenapsali
+a někdo místo nás - prázdnej papír spálil
+nic není ani já - ani tvý zlatý oči
+jen jsme šli na biják - co nikdo nenatočil
+\endverse
+\rf
+\beginverse*
+\[Gmi], \[Es], \[C], \[F]
+\endverse
+\beginverse
+Nikdy jsi nebyla - a naše seznámení
+Proběhlo má milá před kinem který není
+Nic není ani já - ani tvý zlatý oči
+ jen jsme šli na biják co nikdo nenatočil
+\endverse
+\rf
+\endsong

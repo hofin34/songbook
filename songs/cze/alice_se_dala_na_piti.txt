@@ -1,0 +1,42 @@
+\beginsong{Alice se dala na pití}[by={Sto zvířat}]
+\beginverse
+Alice se dala na pi\[Hmi]tí
+v baru člověk pozná, jak to \[A]je,
+různý lidi, různý nápo\[Emi]je,
+ve dne pro ni Slunce nesví\[D]tí.\[F#]
+\endverse
+\beginverse*
+Alice se dala na pití,
+takhle to ta holka prostě má,
+zkoušela to s třema klukama,
+jenže při tom fakt nic necítí.
+\endverse
+\beginverse*
+Alice se dala na pití,
+venku prší, noc je lepkavá,
+někde někdo sprostě nadává,
+chlapi jsou prej hnusný prevíti.
+\endverse
+\beginchorus
+\[Hmi]Řekli jí jen: kotě ty a \[F#]já,
+\[Emi]nic nemusíš dělat, je to \[F#]hra,
+\[Emi]nic to není, žádný drama,
+\[F#]zůstane to mezi náma.
+\endchorus
+\beginverse
+Alice se dala na pití,
+holky co s ní spaly, řekly dost,
+tohle nemá žádnou budoucnost,
+s tebou to fakt není k přežití.
+\endverse
+\beginverse*
+Alice se dala na pití,
+Alice to prostě takhle má,
+zamkni pusu na klíč, šeptá tma,
+jako strejda tehdy v devíti.
+\endverse
+\rf
+\beginverse*
+Alice se dala na pití…
+\endverse
+\endsong
