@@ -1,0 +1,51 @@
+\beginsong{Sametová}[by={Žlutý pes}]
+\beginverse
+\[G]Vzpomínám když tehda \[C]před léty
+\[G]začaly lítat \[C]rakety 
+\[G]zdál se to bejt \[Emi]docela do\[C]brej ná\[D]pad
+Saxofony hrály unyle a frčely švédský košile
+někdo se moh docela dobře flákat.
+\endverse
+\beginverse
+Když tam stál rohatej u školy my neměli podepsaný úkoly
+už tenkrát rozhazoval svoje sítě
+Poučen z předchozích nezdarů sestrojil elektrickou kytaru
+a rock n roll byl zrovna narozený dítě
+\endverse
+
+\beginchorus
+\[G]Vzpomínáš, taky s tu \[D]žila a \[Emi]nedělej, že jsi ji\[C]ná
+taková \[G]malá pilná \[D]včela, tako\[C]vá celá \[D]Sameto\[G]\[C]vá
+\endchorus
+
+\beginverse
+Přišel čas a jako náhoda byla tu bigbeatová pohoda
+kytičky a úsmevy sekretárok.
+Sousedovic bejby Milena je celá blbá z Boba Dylana
+ale to nevadí, já mám taky nárok
+\endverse
+\beginverse
+Starý, mladý nebo pitomý mlátily do toho jako my
+hlavu plnou Londýna nad Temží
+Starej dobrej satanáš hraje u nás v hospodě mariáš
+pazoura se mu trumfama jenom hemží
+\endverse
+\beginchorus
+\[G]Vzpomínáš, už je to \[D]jinak a jde\[Emi] z toho na mě\[C] zima
+ty jsi \[G]holka tehdá \[D]byla, tako\[C]vá \[D]celá Sameto\[G]\[C]vá
+\endchorus
+\beginverse
+A do toho tenhle Gorbačov co ho znal celej Dlabačov
+kopyta měl jako z Arizóny
+Přišel a zase vodešel a nikdo se kvůli tomu nevěšel
+a po něm tu zbyly samý volný zóny
+\endverse
+\beginchorus
+Vzpomínáš, jak jsi se měla
+když jsi nic nevěděla
+byla to taková krásná cela a byla celá
+Vzpomínáš, jak jsi se měla
+když jsi nic nevěděla
+byla to taková krásná cela a byla celá Sametová
+\endchorus
+\endsong

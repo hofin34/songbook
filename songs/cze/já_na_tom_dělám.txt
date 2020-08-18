@@ -1,0 +1,29 @@
+\beginsong{Já na tom dělám}[by={Bratři Ebenové}]
+\beginverse 
+ \[A]Už to mělo \[D]být, \[G]ono to \[A]není, 
+   no \[F]to je nadělení, no \[G]to je nadělení, 
+   už jsem to měl mít, do bot mi teče, 
+   snad dneska večer, snad dneska... 
+\endverse
+
+\beginchorus 
+   Já na tom \[A]dělám, já na tom \[D]makám, 
+   už na tom \[F]dělám třetí den a ono \[G]ne a ne a ne. 
+   Já na tom dělám, já na tom makám, 
+   už na tom sedím přes týden a ono ne a ne a ne. 
+\endchorus 
+\beginverse
+   \[A]A z ničeho \[D]nic \[G]telefon \[A]zvoní, 
+   \[F]to budou oni, \[G]no to budou oni. 
+   \[A]Zkus jim něco \[D]říct, \[G]že tady \[A]nejsem, 
+   \[F]že jsem šel se psem, \[G]že jim zavolám. 
+\endverse 
+\rf 
+\beginverse
+   Někdo zaklepal u našich dveří, 
+   ňáký frajeři, divný frajeři. 
+   Jestli můžou dál, jenom na chvíli, 
+   že by si rádi promluvili - o samotě. 
+\endverse 
+\rf
+\endsong

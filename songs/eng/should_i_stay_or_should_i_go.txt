@@ -1,0 +1,53 @@
+\beginsong{Should I Stay Or Should I Go}[by={The Clash}]
+\beginverse*
+\[D] \[G] \[D]
+\[D] \[G] \[D]
+\endverse
+\beginverse
+Darling you gotta let me know \[D] \[G] \[D]
+Should I stay or should I go? \[D] \[G] \[D]
+If you say that your are mine \[G] \[F] \[G]
+I'll be here 'til the end of time \[D] \[G] \[D]
+So you got to let me know \[A] \[A7]
+Should I stay or should I go? \[D] \[G] \[D]
+\endverse
+\beginverse
+It's always tease tease tease \[D] \[G] \[D]
+You're happy when I'm on my knees \[D] \[G] \[D]
+One day is fine and next is black \[G] \[F] \[G]
+So, if you want me off your back \[D] \[G] \[D]
+Well, come on and let me know \[A] \[A7]
+Should I stay or should I go? \[D] \[G] \[D]
+\endverse
+\beginchorus
+Should I stay or should I \[D]go now? \[G] \[D]
+Should I stay or should I \[D]go now? \[G] \[D]
+If I go there will be \[G]trouble \[F] \[G]
+An’ if I stay it will be \[D]double \[G] \[D]
+So come on and let me \[A]know \[A]
+\[D] \[G] \[D]
+\endchorus
+\beginverse
+This indecision’s bugging me \[D] \[G] \[D] / La indecisión me molesta
+If you don't want me, set me free \[D] \[G] \[D] / Si no me quieres, líbrame
+Exactly whom I'm supposed to be \[G] \[F] \[G] / Dígame, que debo ser
+Don't you know which clothes even fit me? \[D] \[G] \[D] / Sabes qué ropa me queda?
+Come on and let me know \[A] / Me tienes que decir
+Should I cool it or should I blow \[D] \[G] \[D] / Me debo ir o quedarme?
+\endverse
+\beginchorus
+Should I stay or should I \[D]go now? \[G] \[D] / Yo me frío o lo soplo?
+Should I stay or should I \[D]go now? \[G] \[D] / Yo me frío o lo soplo?
+If I go there will be \[G]trouble \[F] \[G] / Si me voy – va a ver peligro
+An’ if I stay it will be \[D]double \[G] \[D] / Si me quedo es doble
+So you gotta let me \[A]know \[A] / Me tienes que desir
+Should I cool it or should I blow? \[D] \[G] \[D] / Yo me frío o lo soplo?
+\endchorus
+\beginchorus
+Should I stay or should I \[D]go now? \[G] \[D] / Yo me frío o lo soplo?
+If I go there will be \[G]trouble \[F] \[G] / Si me voy – va a ver peligro
+An’ if I stay it will be \[D]double \[G] \[D] / Si me quedo es doble
+So you gotta let me \[A]know \[A] / Me tienes que desir
+\[D]Should I \[G]stay or should I \[D]go?
+\endchorus
+\endsong

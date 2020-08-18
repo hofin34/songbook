@@ -33,7 +33,7 @@ bacha, tamhle Láďa de.
 \endverse
 \beginverse*
 Geniální nápady má, mozek obřích rozměrů,
-vejde se mu do hlady, jestlipak víte proč!
+vejde se mu do hlavy, jestlipak víte proč!
 Protože
 \endverse
 \rf[2]

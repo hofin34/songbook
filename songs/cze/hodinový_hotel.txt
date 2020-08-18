@@ -1,0 +1,35 @@
+\beginsong{Hodinový hotel}[by={Mňága a Žďorp}]
+\beginverse
+ \[C]Tlusté koberce plné \[Emi]prachu
+ \[A]poprvé s holkou, \[F]trochu \[G]strachu
+ \[C]a stará dáma od vedle zas \[Emi]vyvádí
+ \[A]zbyde tu po ní zvadlé \[F]kapradí
+a pár \[G]prázdných flašek
+\endverse
+\beginverse
+\[C]veterán z legií nadává \[Emi]na revma
+\[A]vzpomíná na Emu, \[F]jak byla \[G]nádherná
+\[C]a všechny květináče už tu historku \[Emi]znají,
+\[A]ale znova listy nakloní a \[F]poslouchají
+vzduch \[G]voní kouřem.
+\endverse
+\beginchorus
+/: \[C]a svět je
+\[Emi]svět je jenom hodinový \[A]hotel
+a můj \[F]pokoj je \[G]studený a \[C]prázdný :/
+\endchorus
+
+\beginverse
+Vezmu si sako a půjdu do baru
+absolventi kurzu nudy, pořád postaru
+kytky v klopě vadnou, dívám se okolo po stínech:
+Kterou? No přeci žádnou!
+\endverse
+\beginverse
+vracím se pomalu nahoru
+cestou potkávám ty, co už padají dolů
+a vedle v pokoji někdo šeptá:"Jak ti je?"
+za oknem prší a déšť stejně nic nesmyje...
+\endverse
+\rf
+\endsong

@@ -1,22 +1,22 @@
 \beginsong{Zdá se mi}[by={Brutus}]
 \beginverse
-{\nolyrics Intro: \[A]\[D]\[A]\[D]}
-\[A]Často se mi všechno kolem \[D]motá
-\[A]divně to pod nohama \[D]klouže
-\[A]i když nejsou zamrznutý \[D]louže
-\[A]ani rozvázaná \[D]bota
-\[Hmi]Rád ty chvíle \[D]mám
-\[A]u baru s bludičkou \[D]zdejší
-\[A]zůstanu okamžik \[D]delší
-rád ty chvíle \[A]mám
+{\nolyrics Intro: \[E]\[A]\[E]\[A]}
+\[E]Často se mi všechno kolem \[A]motá
+\[E]divně to pod nohama \[A]klouže
+\[E]i když nejsou zamrznutý \[A]louže
+\[E]ani rozvázaná \[A]bota
+\[F#mi]Rád ty chvíle \[A]mám
+\[E]u baru s bludičkou \[A]zdejší
+\[E]zůstanu okamžik \[A]delší
+rád ty chvíle \[E]mám
 \endverse
 \beginchorus
-\[D]Zdá se mi \[E]zdá se mi
-\[A]že lítat \[H]nad zemí
-\[D]je celkem \[E]jednoduchý \[A]zdá se mi
-\[D]Zdá se mi \[E]zdá se mi
-\[A]tady mám \[H]zázemí
-\[D]zdá se mi \[E]zdá se \[A]mi
+\[A]Zdá se mi \[H]zdá se mi
+\[E]že lítat \[F#]nad zemí
+\[A]je celkem \[H]jednoduchý \[E]zdá se mi
+\[A]Zdá se mi \[H]zdá se mi
+\[E]tady mám \[F#]zázemí
+\[A]zdá se mi \[H]zdá se \[E]mi
 \endchorus
 \beginverse
 Škodlivinu jsem do sebe nalil

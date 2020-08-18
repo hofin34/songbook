@@ -1,0 +1,37 @@
+\beginsong{Výhledově}[by={Mňága a Žďorp}]
+\beginverse
+\[G]výhledově\[C], \[Emi]budeme \[D]všichni \[G]štastní \[C]výhledově\[Emi], \[D]
+výhledově budeme všichni štastní výhledově
+výhledově budeme všichni štastní výhledově
+výhledově budeme všichni štastní výhledově
+\endverse
+\beginverse*
+\[(G C Emi D) 2x]
+\endverse
+\beginverse
+\[G]a nejvýkonější \[C]mozky na tom \[Emi]dnem a \[D]nocí pracu\[G]jou,\[C] \[Emi] \[D]výhledově!
+a každá generace je o trochu štastnější než ta před ní, výhledově
+a je třeba překonat ještě strašnou spoustu překážek, výhledově
+a my ty překážky určitě překonáme prý – výhledově,
+výhledově, výhledově
+\endverse
+\beginverse*
+\[(G C Emi D) 2x]
+\endverse
+\beginverse
+\[G]už vi\[C]dím ty \[Emi]pev\[D]né
+a nerozbitné a nepromokavé
+a dokonale symetricky štastné krychle!
+\endverse
+\beginverse
+výhledově budeme všichni štastní
+výhledově - v týhle divný době asi ne!
+výhledově budeme všichni štastní
+výhledově - v týhle divný době asi ne!
+
+asi ne
+asi ne
+asi ne
+asi ne
+\endverse
+\endsong

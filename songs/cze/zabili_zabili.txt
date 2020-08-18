@@ -1,0 +1,25 @@
+\beginsong{Zabili, zabili}[by={Balada pro banditu}]
+\beginverse
+\[G]Zabili, \[C]zabili \[Ami]chlapa z \[C]Kolo\[G]čavy, 
+   \[G]řekněte \[C]hrobaři, \[Ami]kde je \[C]pocho\[G]vaný. 
+\endverse
+\beginchorus 
+\[G]Bylo tu, není tu, havrani \[C]na plotu, 
+   \[G]bylo víno v sudě, \[C]teď tam voda \[G]bude, 
+   \[C]není, \[G]není tu. 
+\endchorus
+\beginverse 
+Špatně ho zabili, špatně pochovali, 
+   vlci ho pojedli, ptáci rozklovali. 
+\endverse
+\rf
+\beginverse 
+ Vítr ho roznesl po dalekém kraji, 
+   havrani pro něho po poli krákají. 
+\endverse
+\rf
+\beginverse 
+ Kráká starý havran, krákat nepřestane, 
+   dokud v Koločavě živý chlap zůstane. 
+\endverse
+\endsong

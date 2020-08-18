@@ -928,7 +928,7 @@ příjemnými \[Emi] lidmi, kteří olizu\[C]jí
 \beginverse
 \[Emi] Pustíme si \[C] starý gramo\[D]fon
 budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] vinylový \[C] bůh je šampi\[D]on
+\[Emi] viny loví \[C] bůh - je šampi\[D]on
 proležíme v \[A] posteli celou neděli \[Emi]
 \endverse
 \beginverse
@@ -944,7 +944,7 @@ Sledují kamery \[Emi], \[C] a hudba hraje dál \[D], \[A]
 \beginverse
 \[Emi] Pustíme si \[C] starý gramo\[D]fon (3X)
 budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] vinylový \[C] bůh je šampi\[D]on
+\[Emi] viny loví \[C] bůh - je šampi\[D]on
 venku ten náš \[A] svět sledují kamery \[Emi]
 \endverse
 \beginverse*
@@ -1152,7 +1152,32 @@ byl to ten slavný den, kdy k nám byl zaveden \[A]elektrický proud,
 st\[A7]řídavý\[D], st\[E]řída\[C#mi]vý,  \[F#mi]silný \[Hmi]elekt\[E7]rický \[A]proud,
 st\[A7]řídavý\[D], \[E]střída\[C#mi]vý, zk\[F#mi]rátka \[Hmi]elekt\[E7]rický \[A]proud.
 \endchorus
-
+\beginverse*
+A nyní, kdo tu všechno byl:
+Okresní a krajský inspektor,
+hasičský a recitační sbor,
+poblíže obecní váhy,
+tříčlenná delegace z Prahy,
+zástupci nedaleké posádky pod vedením poručíka Vosátky,
+početná skupina montérů, jeden z nich pomýšlel na dceru sedláka Krušiny,
+dále krojované družiny,
+alegorické vozy,
+italský zmrzlinář Amadeo Cosi
+na motocyklu Indián,
+a svatý Jan, z kamene vytesán
+\endverse
+\rf
+\beginverse*
+Z projevu inženýra Maliny, zástupce Elektrických podniků:
+vážení občané, vzácní hosté, s elektřinou je to prosté:
+Od pantáty vedou dráty do žárovky nade vraty.
+Dále proud se přelévá do stodoly, do chléva.
+Při krátkém spojení dvou drátů dochází k takzvanému zkratu.
+Kdo má pojistky námi předepsané, tomu se při zkratu nic nestane.
+Kdo si tam nastrká hřebíky, vyhoří a začne od píky.
+Do každé rodiny elektrické hodiny!
+\endverse
+\rf
 \beginverse
 Na stránkách obecní kroniky ozdobným písmem je psáno:
 tento den pro zdejší rolníky znamenal po noci ráno,
@@ -1372,7 +1397,7 @@ jíst kaštany a mýt se v lavoře,
 
 \[F]od rána po celý \[G]den zpívat si \[C]jen,
 
-zpívat si: pam pam pam\[D, G, A7] ...
+zpívat si: pam pam pam \[C, F, G] ...
 \endchorus
 \beginverse
 K vánocům mi kupovali hromady knih,
@@ -1402,7 +1427,44 @@ koukám nahoru na oblohu modravou,
 kde se mezi mraky honí moje strakaté krávy.
 \endverse
 \rf
+\beginverse*
+O tón výš: pam pam padam \[D, G, A7] ...
+\endverse
+\endsong
+\beginsong{Hodinový hotel}[by={Mňága a Žďorp}]
+\beginverse
+ \[C]Tlusté koberce plné \[Emi]prachu
+ \[A]poprvé s holkou, \[F]trochu \[G]strachu
+ \[C]a stará dáma od vedle zas \[Emi]vyvádí
+ \[A]zbyde tu po ní zvadlé \[F]kapradí
+a pár \[G]prázdných flašek
+\endverse
+\beginverse
+\[C]veterán z legií nadává \[Emi]na revma
+\[A]vzpomíná na Emu, \[F]jak byla \[G]nádherná
+\[C]a všechny květináče už tu historku \[Emi]znají,
+\[A]ale znova listy nakloní a \[F]poslouchají
+vzduch \[G]voní kouřem.
+\endverse
+\beginchorus
+/: \[C]a svět je
+\[Emi]svět je jenom hodinový \[A]hotel
+a můj \[F]pokoj je \[G]studený a \[C]prázdný :/
+\endchorus
 
+\beginverse
+Vezmu si sako a půjdu do baru
+absolventi kurzu nudy, pořád postaru
+kytky v klopě vadnou, dívám se okolo po stínech:
+Kterou? No přeci žádnou!
+\endverse
+\beginverse
+vracím se pomalu nahoru
+cestou potkávám ty, co už padají dolů
+a vedle v pokoji někdo šeptá:"Jak ti je?"
+za oknem prší a déšť stejně nic nesmyje...
+\endverse
+\rf
 \endsong
 \beginsong{Holubí dům}[by={Jiří Schelinger}]
 \beginverse
@@ -1627,14 +1689,14 @@ to je furt \[G]avanti, avanti, avanti, avanti
 \endsong
 \beginsong{Jahody mražený}[by={Jiří Schelinger}]
 \beginverse
-\[A]Poslala mě moje dívka \[D]pro jahody červe\[A]ný,
-   \[D]bez nich se prý nemám \[G]vracet, \[A]tak tu stojím ztrápený.
-   Když se dívám co je sněhu, \[D]fouká vítr, pálí \[A]mráz,
-   \[D]možná že si děvče \[G]myslí, \[A]že se mě tak zbaví \[E]snáz.
+\[C]Poslala mě moje dívka \[F]pro jahody červe\[C]ný,
+   \[F]bez nich se prý nemám \[H]vracet, \[C]tak tu stojím ztrápený.
+   Když se dívám co je sněhu, \[F]fouká vítr, pálí \[C]mráz,
+   \[F]možná že si děvče \[H]myslí, \[C]že se mě tak zbaví \[G]snáz.
 \endverse
 \beginchorus
-\[G]Zapomněla váže\[D]ní, \[A]na jahody mraže\[E]ný,
-\[G]na jahody mraže\[D]ný, \[A]v igelitu bale\[E]ný.
+\[H]Zapomněla váže\[F]ní, \[C]na jahody mraže\[G]ný,
+\[H]na jahody mraže\[F]ný, \[C]v igelitu bale\[G]ný.
 \endchorus
 \beginverse
 	Pohádku to připomíná o dvanácti měsíčkách,
@@ -1643,6 +1705,35 @@ to je furt \[G]avanti, avanti, avanti, avanti
    měla mi to říci rovnou, že jiného ráda má.
 \endverse
 \rf[2]
+\endsong
+\beginsong{Já na tom dělám}[by={Bratři Ebenové}]
+\beginverse 
+ \[A]Už to mělo \[D]být, \[G]ono to \[A]není, 
+   no \[F]to je nadělení, no \[G]to je nadělení, 
+   už jsem to měl mít, do bot mi teče, 
+   snad dneska večer, snad dneska... 
+\endverse
+
+\beginchorus 
+   Já na tom \[A]dělám, já na tom \[D]makám, 
+   už na tom \[F]dělám třetí den a ono \[G]ne a ne a ne. 
+   Já na tom dělám, já na tom makám, 
+   už na tom sedím přes týden a ono ne a ne a ne. 
+\endchorus 
+\beginverse
+   \[A]A z ničeho \[D]nic \[G]telefon \[A]zvoní, 
+   \[F]to budou oni, \[G]no to budou oni. 
+   \[A]Zkus jim něco \[D]říct, \[G]že tady \[A]nejsem, 
+   \[F]že jsem šel se psem, \[G]že jim zavolám. 
+\endverse 
+\rf 
+\beginverse
+   Někdo zaklepal u našich dveří, 
+   ňáký frajeři, divný frajeři. 
+   Jestli můžou dál, jenom na chvíli, 
+   že by si rádi promluvili - o samotě. 
+\endverse 
+\rf
 \endsong
 \beginsong{Jarní tání}[by={Brontosauři}]
 \beginverse
@@ -2151,6 +2242,27 @@ a slzy na pavlači neroní.
 
 
 \endsong
+\beginsong{Kdyby byl Bavorov}[by={Lidová}]
+\beginchorus
+/: \[A]Sukej me, mrdej me, \[E]krut mi koza\[A]ma! :/
+\endchorus
+\beginverse
+\[D]Naper mi to \[A]do huby, \[E]dosla pasta \[A]na zuby!
+\endverse
+\rf
+\beginverse
+\[D]Per to do me \[A]zezadu, \[E]hned mam lepsi \[A]naladu!
+\endverse
+\rf
+\beginverse
+\[D]Per to do me \[A]varici, \[E]mam to rada \[A]hadici!
+\endverse
+\rf
+\beginverse
+Budem sukat z vrsku, narejem si drzku!
+\endverse
+\rf
+\endsong
 \beginsong{Když mě brali za vojáka}[by={Nohavica}]
 \beginverse
 \[Ami]Když mě brali za vo\[C]jáka
@@ -2433,7 +2545,7 @@ bacha, tamhle Láďa de.
 \endverse
 \beginverse*
 Geniální nápady má, mozek obřích rozměrů,
-vejde se mu do hlady, jestlipak víte proč!
+vejde se mu do hlavy, jestlipak víte proč!
 Protože
 \endverse
 \rf[2]
@@ -3087,6 +3199,35 @@ je Štěstí od \[G]podkovy
 \rep{2}
 \endchorus
 
+\endsong
+\beginsong{Nagasaki Hirošima}[by={Mňága a Žďorp}]
+\beginverse
+\[C]tramvají \[G]dvojkou \[F]jezdíval jsem \[G]do Žide\[C]nic\[G F G]
+z \[C]tak velký \[G]lásky \[F]většinou \[G]nezbyde \[Ami]nic
+z \[F]takový \[C]lásky \[F]jsou kruhy \[C]pod oči\[G]ma
+a dvě \[C]spálený \[G]srdce - \[F]Nagasaki Hi\[G]rošima\[C G F G]
+\endverse
+
+\beginverse
+\[C]jsou jistý \[G]věci \[F]co bych tesal \[G]do kame\[C]ne \[G F G]
+\[C]tam kde je \[G]láska \[F]tam je všechno \[G]dovole\[Ami]né
+\[F] a tam kde \[C]není \[F]tam mě to \[C]nezají\[G]má
+jó \[C]dvě spálený \[G]srdce - \[F]Nagasaki \[G]Hirošima\[C G F G]
+\endverse
+\beginverse
+já nejsem svatej ani ty nejsi svatá
+ale jablka z ráje bejvala jedovatá
+jenže hezky jsi hřála, když mi někdy bylo zima
+jó dvě spálený srdce - Nagasaki Hirošima
+\endverse
+
+\beginverse
+= 1.
+a dvě spálený srdce - Nagasaki Hirošima
+a dvě spálený srdce - Nagasaki Hirošima
+a dvě spálený srdce - Nagasaki Hirošima
+a dvě spálený srdce - Nagasaki Hirošima
+\endverse
 \endsong
 \beginsong{Na kolena}[by={Ivan Hlas}]
 \beginverse
@@ -3812,6 +3953,57 @@ Kolikrát se ještě vrátim abych žil
 a co jsem nezvlád napravil
 chtěl bych spláchnout jednou rád
 \endverse
+\endsong
+\beginsong{Sametová}[by={Žlutý pes}]
+\beginverse
+\[G]Vzpomínám když tehda \[C]před léty
+\[G]začaly lítat \[C]rakety 
+\[G]zdál se to bejt \[Emi]docela do\[C]brej ná\[D]pad
+Saxofony hrály unyle a frčely švédský košile
+někdo se moh docela dobře flákat.
+\endverse
+\beginverse
+Když tam stál rohatej u školy my neměli podepsaný úkoly
+už tenkrát rozhazoval svoje sítě
+Poučen z předchozích nezdarů sestrojil elektrickou kytaru
+a rock n roll byl zrovna narozený dítě
+\endverse
+
+\beginchorus
+\[G]Vzpomínáš, taky s tu \[D]žila a \[Emi]nedělej, že jsi ji\[C]ná
+taková \[G]malá pilná \[D]včela, tako\[C]vá celá \[D]Sameto\[G]\[C]vá
+\endchorus
+
+\beginverse
+Přišel čas a jako náhoda byla tu bigbeatová pohoda
+kytičky a úsmevy sekretárok.
+Sousedovic bejby Milena je celá blbá z Boba Dylana
+ale to nevadí, já mám taky nárok
+\endverse
+\beginverse
+Starý, mladý nebo pitomý mlátily do toho jako my
+hlavu plnou Londýna nad Temží
+Starej dobrej satanáš hraje u nás v hospodě mariáš
+pazoura se mu trumfama jenom hemží
+\endverse
+\beginchorus
+\[G]Vzpomínáš, už je to \[D]jinak a jde\[Emi] z toho na mě\[C] zima
+ty jsi \[G]holka tehdá \[D]byla, tako\[C]vá \[D]celá Sameto\[G]\[C]vá
+\endchorus
+\beginverse
+A do toho tenhle Gorbačov co ho znal celej Dlabačov
+kopyta měl jako z Arizóny
+Přišel a zase vodešel a nikdo se kvůli tomu nevěšel
+a po něm tu zbyly samý volný zóny
+\endverse
+\beginchorus
+Vzpomínáš, jak jsi se měla
+když jsi nic nevěděla
+byla to taková krásná cela a byla celá
+Vzpomínáš, jak jsi se měla
+když jsi nic nevěděla
+byla to taková krásná cela a byla celá Sametová
+\endchorus
 \endsong
 \beginsong{Sáro!}[by={Traband}]
 \beginchorus
@@ -4844,6 +5036,42 @@ ale už jde na mě spaní.
 
 \rf[4]
 \endsong
+\beginsong{Výhledově}[by={Mňága a Žďorp}]
+\beginverse
+\[G]výhledově\[C], \[Emi]budeme \[D]všichni \[G]štastní \[C]výhledově\[Emi], \[D] výhledově budeme všichni štastní výhledově
+výhledově budeme všichni štastní výhledově
+výhledově budeme všichni štastní výhledově
+\endverse
+\beginverse*
+\[(G C Emi D) 2x]
+\endverse
+\beginverse
+\[G]a nejvýkonější \[C]mozky na tom \[Emi]dnem a \[D]nocí pracu\[G]jou,\[C] \[Emi] \[D]výhledově!
+a každá generace je o trochu štastnější než ta před ní, výhledově
+a je třeba překonat ještě strašnou spoustu překážek, výhledově
+a my ty překážky určitě překonáme prý – výhledově,
+výhledově, výhledově
+\endverse
+\beginverse*
+\[(G C Emi D) 2x]
+\endverse
+\beginverse
+\[G]už vi\[C]dím ty \[Emi]pev\[D]né
+a nerozbitné a nepromokavé
+a dokonale symetricky štastné krychle!
+\endverse
+\beginverse
+výhledově budeme všichni štastní
+výhledově - v týhle divný době asi ne!
+výhledově budeme všichni štastní
+výhledově - v týhle divný době asi ne!
+
+asi ne
+asi ne
+asi ne
+asi ne
+\endverse
+\endsong
 \beginsong{Vyprávěj (Evo...)}[by={Michal Hrůza}]
 \gtab{Amadd9-}{X02310}
 \beginverse
@@ -4870,6 +5098,31 @@ Náš svět promění se hned,
 když zavřeš oči budu vyprávět,
 o tom jak nekonečné jsou,
 hvězdy co lidem plují nad hlavou.
+\endverse
+\endsong
+\beginsong{Zabili, zabili}[by={Balada pro banditu}]
+\beginverse
+\[G]Zabili, \[C]zabili \[Ami]chlapa z \[C]Kolo\[G]čavy, 
+   \[G]řekněte \[C]hrobaři, \[Ami]kde je \[C]pocho\[G]vaný. 
+\endverse
+\beginchorus 
+\[G]Bylo tu, není tu, havrani \[C]na plotu, 
+   \[G]bylo víno v sudě, \[C]teď tam voda \[G]bude, 
+   \[C]není, \[G]není tu. 
+\endchorus
+\beginverse 
+Špatně ho zabili, špatně pochovali, 
+   vlci ho pojedli, ptáci rozklovali. 
+\endverse
+\rf
+\beginverse 
+ Vítr ho roznesl po dalekém kraji, 
+   havrani pro něho po poli krákají. 
+\endverse
+\rf
+\beginverse 
+ Kráká starý havran, krákat nepřestane, 
+   dokud v Koločavě živý chlap zůstane. 
 \endverse
 \endsong
 \beginsong{Zafúkané}[by={Fleret}]
@@ -4910,6 +5163,37 @@ mé stopy k tobě sú zafúkané. :/
 
 
 \endsong
+\beginsong{Zahrada ticha}[by={Projektil}]
+\beginverse*
+Dmi, C, F, C, G
+\endverse
+\beginverse
+Je tam brána zdobe\[G]ná, cestu oteví\[Ami]rá,
+zahradu zele\[F]nou \[C]všechno připomí\[G]á.
+Jako dým závo\[G]jů mlhou opřede\[Ami]ných,
+vstupuješ do \[F]ticha \[C]cestou vyvole\[G]ných.
+\endverse
+\beginverse
+Je to březový háj, je to borový les,
+je to anglický park, je to hluboký vřes.
+Je to samota dnů, kdy jsi pomalu zrál,
+v zahradě zelený, kde sis za dětství hrál.
+\endverse
+
+\beginverse
+Kolik chceš, tolik máš očí otevřených,
+tam venku za branou leží studený sníh.
+Zpočátku uslyšíš (zpočátku uslyšíš) vítr a ptačí hlas, (vítr a ptačí hlas)
+v zahradě zelený (v zahradě zelený) přijdou do ticha zas (přijdou do ticha zas)
+\endverse
+
+\beginverse
+Světlo připomíná (světlo připomíná) rána slunečných dnů (rána slunečných dnů)
+v zahradě zelený (v zahradě zelený) v zahradě beze snů. (v zahradě beze snů)
+Uprostřed závratí (uprostřed závratí) sluncem prosvícených, (sluncem prosvíceným)
+vstupuješ do ticha cestou vyvolených.
+\endverse
+\endsong
 \beginsong{Zakázané uvolnění}[by={Michal Hrůza}]
 \beginverse*
 e-----------------------------------------------
@@ -4949,25 +5233,67 @@ taky můžeš mít, co si budeš přát a co budeš chtít!
 \endverse
 \rf[2]
 \endsong
-\beginsong{Zdá se mi}[by={Brutus}]
+\beginsong{Za teplých letních nocí}[by={Mňága a Žďorp}]
 \beginverse
-{\nolyrics Intro: \[A]\[D]\[A]\[D]}
-\[A]Často se mi všechno kolem \[D]motá
-\[A]divně to pod nohama \[D]klouže
-\[A]i když nejsou zamrznutý \[D]louže
-\[A]ani rozvázaná \[D]bota
-\[Hmi]Rád ty chvíle \[D]mám
-\[A]u baru s bludičkou \[D]zdejší
-\[A]zůstanu okamžik \[D]delší
-rád ty chvíle \[A]mám
+\[C]Milá půlno\[F]ci, \[Ami]ještě \[G]bdím
+Ještě se mi nechce do peřin
+Milá půlnoci, ještě bdím
+Ještě se mi nechce do peřin
 \endverse
 \beginchorus
-\[D]Zdá se mi \[E]zdá se mi
-\[A]že lítat \[H]nad zemí
-\[D]je celkem \[E]jednoduchý \[A]zdá se mi
-\[D]Zdá se mi \[E]zdá se mi
-\[A]tady mám \[H]zázemí
-\[D]zdá se mi \[E]zdá se \[A]mi
+\[G]Za teplých letních \[C]nocí, za teplých letních \[F]nocí\[Ami] \[G]
+Zdá se, že život nikdy neskončí, zdá se, že život nikdy neskončí
+Tmu protnou světla vlaku, tmu protnou světla vlaku,
+Ve kterým jede jenom průvodčí, ve kterým jede jenom průvodčí
+\endchorus
+\beginverse*
+\[C]Pod nebem stojím
+\[F]Naplno rozsvíceným
+\[Ami]Nemyslím na nic
+\[G]Ani na to, kam letím
+\endverse
+\beginverse*
+Továrna svítí
+V dálce je vidět komín
+Oparem oranžovým
+Všechno je obarvený
+\endverse
+\beginverse*
+V pozoru stojím
+Zde klikař vesmíru
+Se slámou v botách
+Na loďce z papíru
+\endverse
+\beginverse*
+Přestanu dýchat
+Minuta ticha
+Nejraději bych tu stál
+Dokud nezačne svítat
+\endverse
+\beginverse
+= 1.
+\endverse
+\rf
+\endsong
+\beginsong{Zdá se mi}[by={Brutus}]
+\beginverse
+{\nolyrics Intro: \[E]\[A]\[E]\[A]}
+\[E]Často se mi všechno kolem \[A]motá
+\[E]divně to pod nohama \[A]klouže
+\[E]i když nejsou zamrznutý \[A]louže
+\[E]ani rozvázaná \[A]bota
+\[F#mi]Rád ty chvíle \[A]mám
+\[E]u baru s bludičkou \[A]zdejší
+\[E]zůstanu okamžik \[A]delší
+rád ty chvíle \[E]mám
+\endverse
+\beginchorus
+\[A]Zdá se mi \[H]zdá se mi
+\[E]že lítat \[F#]nad zemí
+\[A]je celkem \[H]jednoduchý \[E]zdá se mi
+\[A]Zdá se mi \[H]zdá se mi
+\[E]tady mám \[F#]zázemí
+\[A]zdá se mi \[H]zdá se \[E]mi
 \endchorus
 \beginverse
 Škodlivinu jsem do sebe nalil
@@ -5020,4 +5346,30 @@ Nebudu \[F]sám nebudu \[E]sám
    poslední den jednou vyspím se jen a pak už nikdy nebudu sám
 \endverse
 \rf[2]
+\endsong
+\beginsong{Želva}[by={Olympic}]
+\beginverse
+\[G]Ne moc \[C]snadno se \[G]želva \[C]po dně \[G]honí\[C] \[G] \[C] 
+\[G]velmi \[C]radno je \[G]plavat \[C]na dno za \[G]ní \[C] \[G] \[C]
+jenom \[D]počkej, až se zeptá, 
+na to, \[Emi]co tě v mozku lechtá,
+\[G]nic se \[C]neboj a \[G]vem si \[C]něco od \[G]ní. \[C] \[G] \[C]
+\endverse
+\beginverse
+Abych zabil dvě mouchy jednou ranou,
+želví nervy od želvy schovám stranou,
+jednu káď dám zvlášť pro tebe, a pak aspoň dvě pro sebe.
+Víš má drahá a zbytek je pod vanou.
+\endverse
+\beginchorus
+Ref.: \[G]Když si Dněkdo \[C]pozor nedá\[G], jak se \[D]vlastně \[C]želva hledá\[G],
+\[C]ona,ho na \[A7]něco nachytá\[D7], \[C]i když si to \[A7]pozděj’c vyčítá\[D7].
+\endchorus
+\beginverse
+Ne moc lehce se želva po dně honí,
+ten, kdo nechce, pak často(brzo) slzy roní,
+jeho úsměv se vytratí a to se mu nevyplatí,
+má se nebát želev a spousty vodní.
+\endverse
+\rf
 \endsong

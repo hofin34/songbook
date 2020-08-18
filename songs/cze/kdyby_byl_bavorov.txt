@@ -1,0 +1,21 @@
+\beginsong{Kdyby byl Bavorov}[by={Lidová}]
+\beginchorus
+/: \[A]Sukej me, mrdej me, \[E]krut mi koza\[A]ma! :/
+\endchorus
+\beginverse
+\[D]Naper mi to \[A]do huby, \[E]dosla pasta \[A]na zuby!
+\endverse
+\rf
+\beginverse
+\[D]Per to do me \[A]zezadu, \[E]hned mam lepsi \[A]naladu!
+\endverse
+\rf
+\beginverse
+\[D]Per to do me \[A]varici, \[E]mam to rada \[A]hadici!
+\endverse
+\rf
+\beginverse
+Budem sukat z vrsku, narejem si drzku!
+\endverse
+\rf
+\endsong

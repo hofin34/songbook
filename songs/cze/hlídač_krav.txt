@@ -19,7 +19,7 @@ jíst kaštany a mýt se v lavoře,
 
 \[F]od rána po celý \[G]den zpívat si \[C]jen,
 
-zpívat si: pam pam pam\[D, G, A7] ...
+zpívat si: pam pam pam \[C, F, G] ...
 \endchorus
 \beginverse
 K vánocům mi kupovali hromady knih,
@@ -49,5 +49,7 @@ koukám nahoru na oblohu modravou,
 kde se mezi mraky honí moje strakaté krávy.
 \endverse
 \rf
-
+\beginverse*
+O tón výš: pam pam padam \[D, G, A7] ...
+\endverse
 \endsong

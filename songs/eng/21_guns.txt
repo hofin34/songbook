@@ -29,7 +29,7 @@ You're in ruins
 \endverse
 \rf
 \beginverse
-\[Am]Did you \[F]try to \[C]live on your own\[E]
+\[Am]Did you \[F]try to \[C]live on your own\[G]
 \[Am]When you \[F]burned down the \[C]house and \[E]home?
 \[Am]Did you \[F]stand too \[C]close to the \[E]fire?
 Like a \[F]liar looking for for\[G]giveness from a \[C]stone

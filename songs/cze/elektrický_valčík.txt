@@ -11,7 +11,32 @@ byl to ten slavný den, kdy k nám byl zaveden \[A]elektrický proud,
 st\[A7]řídavý\[D], st\[E]řída\[C#mi]vý,  \[F#mi]silný \[Hmi]elekt\[E7]rický \[A]proud,
 st\[A7]řídavý\[D], \[E]střída\[C#mi]vý, zk\[F#mi]rátka \[Hmi]elekt\[E7]rický \[A]proud.
 \endchorus
-
+\beginverse*
+A nyní, kdo tu všechno byl:
+Okresní a krajský inspektor,
+hasičský a recitační sbor,
+poblíže obecní váhy,
+tříčlenná delegace z Prahy,
+zástupci nedaleké posádky pod vedením poručíka Vosátky,
+početná skupina montérů, jeden z nich pomýšlel na dceru sedláka Krušiny,
+dále krojované družiny,
+alegorické vozy,
+italský zmrzlinář Amadeo Cosi
+na motocyklu Indián,
+a svatý Jan, z kamene vytesán
+\endverse
+\rf
+\beginverse*
+Z projevu inženýra Maliny, zástupce Elektrických podniků:
+vážení občané, vzácní hosté, s elektřinou je to prosté:
+Od pantáty vedou dráty do žárovky nade vraty.
+Dále proud se přelévá do stodoly, do chléva.
+Při krátkém spojení dvou drátů dochází k takzvanému zkratu.
+Kdo má pojistky námi předepsané, tomu se při zkratu nic nestane.
+Kdo si tam nastrká hřebíky, vyhoří a začne od píky.
+Do každé rodiny elektrické hodiny!
+\endverse
+\rf
 \beginverse
 Na stránkách obecní kroniky ozdobným písmem je psáno:
 tento den pro zdejší rolníky znamenal po noci ráno,
