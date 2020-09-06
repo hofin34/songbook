@@ -1,0 +1,22 @@
+\beginsong{Cikánská}[by={-}]
+\beginverse
+\[Ami]Táto, táto, \[G]já už \[C]vím, \[F]kde můj milý \[C]přespá\[Ami]vá,
+\[Dmi]hned se za ním \[Ami]vypravím, \[E]je to duše \[Ami]tou\[E]la\[Ami]vá.
+\endverse
+\beginverse
+\[Ami]Táto, táto, \[G]já už \[C]vím, \[F]ale věc je \[C]složi\[Ami]tá,
+\[Dmi]co na sebe, \[Ami]co si vzít, \[E]abych se mu \[Ami]lí\[E]bi\[Ami]la.
+\endverse
+\beginverse
+\[Ami]Táto, táto, \[G]když mi \[C]dáš \[F]náušnici \[C]ze zla\[Ami]ta,
+\[Dmi]vrátím se ti, \[Ami]přísahám, \[E]co nevěsta \[Ami]bo\[E]ha\[Ami]tá.
+\endverse
+\beginverse
+\[Ami]Táto, táto, \[G]když mi \[C]dáš \[F]šaty celé \[C]z hedvá\[Ami]bí,
+\[Dmi]vrátím se ti, \[Ami]přísahám, \[E]všechny chlapce \[Ami]při\[E]vá\[Ami]bím.
+\endverse
+\beginchorus
+/: Naj, na, na, na, ná ... :/
+\endchorus
+
+\endsong

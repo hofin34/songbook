@@ -1,0 +1,34 @@
+\beginsong{Můj svět}[by={Chinaski}]
+\beginverse
+\[C]Můj svět jsou divadelní \[Ami]rekvizity
+\[Emi]nejmilejší z rekvizit \[G]pro mě jsi ty
+\[C]chystám ti jedno malý \[Ami]představení
+\[Emi]vstupný je dobrovolný v \[G]kase nikdo není
+\endverse
+\beginverse
+\[C]Má malá loutková \[Ami]realita
+\[Emi]smát se a plakat do \[G]polosyta
+\[C]svět plný báječných \[Ami]seznámení
+\[Emi]svět co trochu je a \[G]trochu není
+\endverse
+\beginchorus
+A mě se \[C]zdá ..
+A mě se \[Emi]zdá, že je to \[Ami]hra
+co nemá \[F]konec ani začá\[C]tek
+co bude d\[Emi]ál je ve hvěz\[Ami]dách
+Robinson \[F]stále čeká na pá\[C]tek
+\endchorus
+\beginverse
+\[C]Stojím tu na rohu už \[Ami]několik let
+\[Emi]divadlo, kavárna, \[G]kino Svět
+\[C]nenech se přemlouvat, \[Ami]směle dál
+\[Emi]vlož do mě svůj životní \[G]kapitál
+\endverse
+\beginverse
+\[C]Předvedu ti sebe,tebe, \[Ami]předvedu nás
+\[Emi]zítra tě rozpláču,\[G]pozítří pobavím zas
+\[C]jsem kandidát \[Ami]loutkových věd
+\[Emi]www prknasvět \[G]tečka cz
+\endverse
+\rf
+\endsong

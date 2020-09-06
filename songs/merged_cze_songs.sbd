@@ -771,6 +771,28 @@ A vlastně už ze zvyku
 \endverse
 \rf[2]
 \endsong
+\beginsong{Cikánská}[by={-}]
+\beginverse
+\[Ami]Táto, táto, \[G]já už \[C]vím, \[F]kde můj milý \[C]přespá\[Ami]vá,
+\[Dmi]hned se za ním \[Ami]vypravím, \[E]je to duše \[Ami]tou\[E]la\[Ami]vá.
+\endverse
+\beginverse
+\[Ami]Táto, táto, \[G]já už \[C]vím, \[F]ale věc je \[C]složi\[Ami]tá,
+\[Dmi]co na sebe, \[Ami]co si vzít, \[E]abych se mu \[Ami]lí\[E]bi\[Ami]la.
+\endverse
+\beginverse
+\[Ami]Táto, táto, \[G]když mi \[C]dáš \[F]náušnici \[C]ze zla\[Ami]ta,
+\[Dmi]vrátím se ti, \[Ami]přísahám, \[E]co nevěsta \[Ami]bo\[E]ha\[Ami]tá.
+\endverse
+\beginverse
+\[Ami]Táto, táto, \[G]když mi \[C]dáš \[F]šaty celé \[C]z hedvá\[Ami]bí,
+\[Dmi]vrátím se ti, \[Ami]přísahám, \[E]všechny chlapce \[Ami]při\[E]vá\[Ami]bím.
+\endverse
+\beginchorus
+/: Naj, na, na, na, ná ... :/
+\endchorus
+
+\endsong
 \beginsong{Co bylo dál?}[by={Jelen, Jana Kirschner}]
 \beginverse
 Někdy si \[Am]říkám, jestli ještě znáš mý \[Dm]jméno,
@@ -1617,6 +1639,43 @@ Ať se na hudsonský šífy najmout dá, jo ho ho
 \endverse
 
 
+\endsong
+\beginsong{Husličky}[by={Vlasta Redl}]
+\gtab{Dm7}{XX0211}
+\beginverse
+/: \[C]Čí že ste, husličky, \[F]či\[C]e,
+\[Dmi]kdo vás tu \[Ami]zanech\[G]al :/
+
+\[Dmi7]na trávě pová\[C]lané,
+
+\[Dmi]na trávě pová\[G]lané
+
+\[Dmi]u paty \[Ami]oře\[G]cha?\[Dmi], \[Ami], \[G]
+\endverse
+\beginverse
+/: A kdože tu trávu tak zválal,
+aj modré fialy, :/
+A kdože tu trávu tak zválal,
+aj modré fialy,
+
+že ste, husličky, samé
+
+že ste, husličky, samé na světě zostaly?
+\endverse
+
+\beginverse
+/: A který tu muzikant usnul
+a co sa mu přišlo zdát, :/
+co sa mu enem zdálo, bože(-),
+co sa mu enem zdálo, bože(-), že už vjec nechtěl hrát?
+\endverse
+
+\beginverse
+/: Zahrajte, husličky, samy,
+zahrajte zvesela, :/
+až sa tá bude trápit,
+až sa tá bude trápit, která ho nechtěla.
+\endverse
 \endsong
 \beginsong{Hvězda na vrbě}[by={Olympic, Pavel Šváb, Bohumír Starka}]
 \beginverse
@@ -3144,6 +3203,40 @@ to všechno bude jenom tím, co dávno dobře vím
 že láska nedá lidem spát.
 \endchorus
 \endsong
+\beginsong{Můj svět}[by={Chinaski}]
+\beginverse
+\[C]Můj svět jsou divadelní \[Ami]rekvizity
+\[Emi]nejmilejší z rekvizit \[G]pro mě jsi ty
+\[C]chystám ti jedno malý \[Ami]představení
+\[Emi]vstupný je dobrovolný v \[G]kase nikdo není
+\endverse
+\beginverse
+\[C]Má malá loutková \[Ami]realita
+\[Emi]smát se a plakat do \[G]polosyta
+\[C]svět plný báječných \[Ami]seznámení
+\[Emi]svět co trochu je a \[G]trochu není
+\endverse
+\beginchorus
+A mě se \[C]zdá ..
+A mě se \[Emi]zdá, že je to \[Ami]hra
+co nemá \[F]konec ani začá\[C]tek
+co bude d\[Emi]ál je ve hvěz\[Ami]dách
+Robinson \[F]stále čeká na pá\[C]tek
+\endchorus
+\beginverse
+\[C]Stojím tu na rohu už \[Ami]několik let
+\[Emi]divadlo, kavárna, \[G]kino Svět
+\[C]nenech se přemlouvat, \[Ami]směle dál
+\[Emi]vlož do mě svůj životní \[G]kapitál
+\endverse
+\beginverse
+\[C]Předvedu ti sebe,tebe, \[Ami]předvedu nás
+\[Emi]zítra tě rozpláču,\[G]pozítří pobavím zas
+\[C]jsem kandidát \[Ami]loutkových věd
+\[Emi]www prknasvět \[G]tečka cz
+\endverse
+\rf
+\endsong
 \beginsong{Nad stádem koní}[by={Buty}]
 \beginverse
 \[D]Nad stádem \[A]koní
@@ -3347,74 +3440,6 @@ Cestu \[G]znám a \[C]neměním \[G]směr,
 \[Emi]dojdu k řece \[C]plný ryb až \[D]tam na se\[G]ver.
 \endchorus
 \endsong
-\beginsong{Nazdar!!!}[by={Horkýže Slíže}]
-\beginverse*
-	\textbf{Akordy v závorce jsou s Capo 4}
-\endverse
-
-\beginverse
-\[G# (E)] Nazdar, čo si ma \[C# (A)] nepametáš?
-Išli sme \[D# (H)] spolu vlakom Nové Zámky- \[C# (A)]Praha nevíš?
-A tí dve holky tupé, čo ogrcali kupé,
-vystúpili sme s nimi v Brne, čo si nepamätáš?
-\endverse
-\beginverse
-Nazdar, ja si ťa nepamätám.
-Žiadny vlak Nové Zámky-Praha mi nič nehovorí.
-Ani dve holky tupé, čo ogrcali kupé,
-nič mi to nehovorí, fakt sorry nepamätám.
-\endverse
-\beginchorus
-\[C# (A)] Splietol si si ma s niekým, tak \[G# (E)] zastav a vyber baterky.
-\[C# (A)] Splietol si si ma s niekým, \[D# (H)] omyl,omyl a to veľký.
-\endchorus
-\beginverse
-Ale Peter, čo si to nepamätáš?
-Tá jedna holka hrala na gitare Klusa nevíš?
-Potom sme z toho vlaku, šli babám do baráku.
-Kalili sme tam celé tri dni, čo si nepamätáš.?
-\endverse
-\beginverse
-Prestaň, toto si nepamätáš?
-Jedna z nich mala ruku v sádre a furt chlastala rum.
-A tú druhú sme spolu obaja dali dolu,
-potom sme išli s nimi do baru, čo nepamatáš?
-\endverse
-\beginverse
-Zastaň, to bude zrejme omyl,
-pretože ja som v bare nebol ani nepamätám,
-už vôbec, že sme spolu, dávali jednu dolu,
-no ale zas pravdu povediac krk za to nedám.
-\endverse
-\beginchorus
-Splietol si si ma s niekým, lebo ja totiž žiadnym vlakom nechodím.
-Splietol si si ma s niekým, omyl, omyl a to veľký.
-\endchorus
-\beginverse
-Ale Peter, čo si to nepamätáš?
-Tá jedna vzala prachy barmanovi spoza baru,
-keď zistil, že mu zmizli, tak potom došli fízli,
-všetkých nás prehladali, nehovor, že nepamätáš.
-\endverse
-\beginverse
-A barman aj s jeho prázdnou buksou
-zareval: Dofajčíme dopijeme záverečná!
-Potom sme sa jej všetci pýtali na ulici
-a ona v gaťkách zrolované prachy, nepamätáš?
-\endverse
-\beginverse
-Prestaň! To už ma vážne hneváš!
-To nie som ja, rozumíš? Ty ma asi nerozumíš.
-Proste ani v tom byte, proste rozumíš?! Nikde!
-Som nebol ja!
-\endverse
-\beginverse
-Nie? Tak potom, načo ti to hovorím, do psej matere?
-\endverse
-\beginverse
-Tak \[G#]načo ti to hovorím, \[C#]do psej matere... 5x
-\endverse
-\endsong
 \beginsong{Nebude to ľahké}[by={Richard Müller}]
 \beginverse
 \[Hmi]Vraj zmenila si \[A]číslo
@@ -3598,6 +3623,32 @@ je malej \[Ami]dokonalej\[G]
 je zlej co když se \[Ami]nevrátí
 \[G]co když se \[Ami]nevrá\[C]tí\[G] (zároveň s "moje milá plakala") 4x
 :/ (2x)
+\endverse
+\endsong
+\beginsong{Pohádka}[by={-}]
+\beginverse
+\[C]Poslouchej pohádku o \[B]zemi, o \[F]které \[C]sníš.
+\[C]Poslouchej pohádku, \[B]kterou už \[F]neusly\[C]šíš.
+\[C]Pohádku o králi, \[G]který své vojáky \[F]naposled do bitvy \[C]hnal.
+A lidé volali: \[B]Ať žije \[F]náš dobrý \[C]král!
+\endverse
+\beginverse
+Po bitvě zavolal rádce a ministry své,
+řekněte vojákům, kdo chce, ať domů jde.
+Rozpouštím armádu, nebude přepadů, včera byl podepsán mír.
+Ať jdou k s vým domovům, každej ať žije jak žil
+\endverse
+\beginverse
+V říši té zavládl nad všemi domovy klid
+a ve všech rodinách začlo se pořádně žít.
+Ženy zas rodily, slepice nosily, vejce, těch každej měl dost,
+a ve všech staveních každej byl vítanej host.
+\endverse
+\beginverse
+Poslouchej pohádku, dříve než půjdeš spát.
+O tomhle království nechej si celou noc zdát.
+jednou i na zemi lidé se domluví, odevša bude znít smích,
+vždyť ničit tuhle zem, to by byl velikej hřích
 \endverse
 \endsong
 \beginsong{Pohoda}[by={Kabát}]
@@ -4660,34 +4711,34 @@ Ať mi tedy bůh odpustí." }
 \endsong
  \beginsong{Ukaž tu tvoju Zoo}[by={Horkýže Slíže}]
 \beginverse
-\[E]Top model \[A]Anna H. sa\[C]kúpa\[D]la \[E]nahá.
-\[E]Prešla si \[A]po tele a \[C]vraví \[D]si \[E]ahá.
-\[E]Uterák \[C]zaha\[A]lí,\[E]arzenál \[C]nema\[D]lý,
-\[E]má dokonalý ma\[A]teriál a \[C]zato \[D]je \[E]drahá.
+\[D]Top model \[G]Anna H. sa\[B]kúpa\[C]la \[D]nahá.
+\[D]Prešla si \[G]po tele a \[B]vraví \[C]si \[D]ahá.
+\[D]Uterák \[B]zaha\[G]lí,\[D]arzenál \[B]nema\[C]lý,
+\[D]má dokonalý ma\[G]teriál a \[B]zato \[C]je \[D]drahá.
 \endverse
 \beginchorus
 
-/: \[E]Tak ale stoj už ani muk,
+/: \[D]Tak ale stoj už ani muk,
 nafotíme riadny book,
-len našpúľ pery do \[A]óó.\[D] :/
-/: A tak ťa \[C]prosím ešte poď,
-\[G]krásny úsmev na mňa hoď
-a \[D]ukáž tú tvoju \[Emi]ZOO. :/
+len našpúľ pery do \[G]óó.\[C] :/
+/: A tak ťa \[B]prosím ešte poď,
+\[F]krásny úsmev na mňa hoď
+a \[C]ukáž tú tvoju \[D]ZOO. :/
 \endchorus
 \beginverse
-\[E]Top model \[A]Anna H. sa \[C]foti\[D]la \[E]nahá.
-\[E]Hanbatý \[A]kalendár na \[C]rajských \[D]Baha\[E]máh.
-\[E]Honorár \[C]sedem \[A]núl,ja \[E]z kalendára \[C]trhám \[D]júl.
-\[E]Ja chcel by som byť jej \[A]špongiou a \[C]brázdiť \[D]po no\[E]hách
+\[D]Top model \[G]Anna H. sa \[B]foti\[C]la \[D]nahá.
+\[D]Hanbatý \[G]kalendár na \[B]rajských \[C]Baha\[D]máh.
+\[D]Honorár \[B]sedem \[G]núl,ja \[D]z kalendára \[B]trhám \[C]júl.
+\[D]Ja chcel by som byť jej \[G]špongiou a \[B]brázdiť \[C]po no\[D]hách
 \endverse
 \rf
 \beginverse
-\[E]V Sherwoodskom \[A]lese našli \[C]nahú \[D]Annu \[E]H.
-\[E]Kto ste ju \[A]poznali,tak \[C]toto \[D]je \[E]druhá.
-CNN tv headline \[A]news
-\[E]Pravda hej tá nám padá z \[D]úst
-Lebo my \[E]máme ruky nad \[A]bibliou
-\[C]každý \[D]pri\[E]sahá.
+\[D]V Sherwoodskom \[G]lese našli \[B]nahú \[C]Annu \[D]H.
+\[D]Kto ste ju \[G]poznali,tak \[B]toto \[C]je \[D]druhá.
+CNN tv headline \[G]news
+\[D]Pravda hej tá nám padá z \[C]úst
+Lebo my \[D]máme ruky nad \[G]bibliou
+\[B]každý \[C]pri\[D]sahá.
 \endverse
 \rf
 \endsong
@@ -5038,7 +5089,8 @@ ale už jde na mě spaní.
 \endsong
 \beginsong{Výhledově}[by={Mňága a Žďorp}]
 \beginverse
-\[G]výhledově\[C], \[Emi]budeme \[D]všichni \[G]štastní \[C]výhledově\[Emi], \[D] výhledově budeme všichni štastní výhledově
+\[G]výhledově\[C], \[Emi]budeme \[D]všichni \[G]štastní \[C]výhledově\[Emi], \[D]
+výhledově budeme všichni štastní výhledově
 výhledově budeme všichni štastní výhledově
 výhledově budeme všichni štastní výhledově
 \endverse
@@ -5102,13 +5154,13 @@ hvězdy co lidem plují nad hlavou.
 \endsong
 \beginsong{Zabili, zabili}[by={Balada pro banditu}]
 \beginverse
-\[G]Zabili, \[C]zabili \[Ami]chlapa z \[C]Kolo\[G]čavy, 
-   \[G]řekněte \[C]hrobaři, \[Ami]kde je \[C]pocho\[G]vaný. 
+\[C]Zabili, \[F]zabili \[Dmi]chlapa z \[F]Kolo\[C]čavy, 
+   \[C]řekněte \[F]hrobaři, \[Dmi]kde je \[F]pocho\[C]vaný. 
 \endverse
 \beginchorus 
-\[G]Bylo tu, není tu, havrani \[C]na plotu, 
-   \[G]bylo víno v sudě, \[C]teď tam voda \[G]bude, 
-   \[C]není, \[G]není tu. 
+\[C]Bylo tu, není tu, havrani \[F]na plotu, 
+   \[C]bylo víno v sudě, \[F]teď tam voda \[C]bude, 
+   \[F]není, \[C]není tu. 
 \endchorus
 \beginverse 
 Špatně ho zabili, špatně pochovali, 
@@ -5165,13 +5217,13 @@ mé stopy k tobě sú zafúkané. :/
 \endsong
 \beginsong{Zahrada ticha}[by={Projektil}]
 \beginverse*
-Dmi, C, F, C, G
+Ami, C, F, C, G
 \endverse
 \beginverse
-Je tam brána zdobe\[G]ná, cestu oteví\[Ami]rá,
-zahradu zele\[F]nou \[C]všechno připomí\[G]á.
-Jako dým závo\[G]jů mlhou opřede\[Ami]ných,
-vstupuješ do \[F]ticha \[C]cestou vyvole\[G]ných.
+Je tam brána zdobe\[C]ná, cestu oteví\[Dmi]rá,
+zahradu zele\[H]nou \[F]všechno připomí\[C]á.
+Jako dým závo\[C]jů mlhou opřede\[Dmi]ných,
+vstupuješ do \[H]ticha \[F]cestou vyvole\[C]ných.
 \endverse
 \beginverse
 Je to březový háj, je to borový les,

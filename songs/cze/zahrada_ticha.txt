@@ -1,12 +1,12 @@
 \beginsong{Zahrada ticha}[by={Projektil}]
 \beginverse*
-Dmi, C, F, C, G
+Ami, C, F, C, G
 \endverse
 \beginverse
-Je tam brána zdobe\[G]ná, cestu oteví\[Ami]rá,
-zahradu zele\[F]nou \[C]všechno připomí\[G]á.
-Jako dým závo\[G]jů mlhou opřede\[Ami]ných,
-vstupuješ do \[F]ticha \[C]cestou vyvole\[G]ných.
+Je tam brána zdobe\[C]ná, cestu oteví\[Dmi]rá,
+zahradu zele\[H]nou \[F]všechno připomí\[C]á.
+Jako dým závo\[C]jů mlhou opřede\[Dmi]ných,
+vstupuješ do \[H]ticha \[F]cestou vyvole\[C]ných.
 \endverse
 \beginverse
 Je to březový háj, je to borový les,
