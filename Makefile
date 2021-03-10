@@ -1,7 +1,7 @@
 FROM_FILE=songbook_main
-TO_FILE=songbook_main
+TO_FILE=ZPEVNIK_S_AKORDY
 FROM_LYR_FILE=lyricbook_main
-TO_LYR_FILE=lyricbook_main
+TO_LYR_FILE=ZPEVNIK_POUZE_TEXTY
 MERGED_CZ_SONGS=merged_cze_songs.sbd
 MERGED_OTHER_SONGS=merged_eng_songs.sbd
 
@@ -15,6 +15,6 @@ all:
 	texlua songidx.lua encbtitle.sxd encbtitle.sbx
 	pdflatex --jobname=$(TO_FILE) $(FROM_FILE)
 	pdflatex --jobname=$(TO_LYR_FILE) $(FROM_LYR_FILE)
-	gnome-open $(TO_FILE).pdf
+	xdg-open $(TO_FILE).pdf
 	
 
