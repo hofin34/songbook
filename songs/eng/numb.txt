@@ -1,0 +1,44 @@
+\beginsong{Numb}[by={Linkin Park}]
+
+
+
+\beginverse*
+\[F#mi, D, A, E]
+\endverse
+
+\beginverse
+\[F#mi]Im tired of being what you want \[D]me to be
+\[A]Feeling so faithless lost \[E]under the surface
+\[F#mi]Dont know what you're expe\[D]cting of me
+Put \[A]under the pressure of \[E]walking in your shoes
+(\[D]Caught in the undertow, just \[E]caught in the undertow)
+Every \[F#mi]step that I take is a\[A]nother mistake to you
+(\[D]Caught in the undertow, just \[E]caught in the undertow)
+\endverse
+
+\beginchorus
+\[F#mi]Ive become so \[D]numb I cant feel you \[A]there
+Ive become so \[E]tired so much more a\[F#mi]ware
+Im becoming \[D]this all I want to \[A]do
+Is be more like \[E]me and be less like \[F#mi]you
+\endchorus
+
+\beginverse
+\[F#mi]Cant you see that youre smo\[D]thering me
+\[A]Holding too tightly a\[E]fraid to lose control
+\[F#mi]Cause everything that you \[D]thought I would be
+Has \[A]fallen apart \[E]right in front of you
+(\[D]Caught in the undertow just \[E]caught in the undertow)
+Every \[F#mi]step that I take is a\[A]nother mistake to you
+(\[D]Caught in the undertow, just \[E]caught in the undertow)
+And every \[F#mi]second I waste is more than \[A]I can take
+\endverse
+\rf
+\beginverse
+And I \[E]know I may \[F#mi]end up \[A]failing \[F#mi]too
+But I \[E]know You were \[F#mi]just like me
+With someone \[A]disappointed in \[E]you
+\endverse
+\rf
+
+\endsong

@@ -1,0 +1,31 @@
+\beginsong{Shadow of the day}[by={Linkin Park}]
+
+\beginverse
+\[Dmi]I close both \[C]locks below the \[B]window
+I close both blinds and turn away
+
+Sometimes solutions aren't so simple
+Sometimes good bye's the only away
+\endverse
+
+\beginchorus
+And the \[F]sun \[C]will set for \[Dmi]you \[B]
+The sun will set for you
+
+And the \[F]shadow of the \[C]day
+Will \[Dmi]embrace the world in \[B]grey
+
+And the sun will set for you
+\endchorus
+
+\beginverse
+In cards and flowers on your window
+Your friends all plead for you to stay
+
+Sometimes beginnings aren't so simple
+Sometimes good bye's the only way
+\endverse
+
+\rf[2]
+
+\endsong
