@@ -1,14 +1,14 @@
 \beginsong{Blues na cestu poslední}[by={Jiří Suchý}]
-\gtab{F#dim}{(234242)}
-\gtab{Fdim}{(123131)}
-\gtab{Edim}{012020}
+\gtab{Ddim}{(456464)}
+\gtab{C#dim}{(345353)}
+\gtab{Cdim}{(234242)}
 \beginverse
-\[D]Černej nebožtíku,\[G7]máš to ale kliku,
-\[D]za chvíli do temný hlíny \[D7]budeš zakopán,
-\[G7]černej nebožtíku, máš to ale kliku,
-\[D]za chvíli do temný hlíny budeš zakopán,
-\[A7]nás jsi nechal v bídě, \[G7]sám se vezeš jako \[D]pán.
-\[F#dim]Vava \[Fdim]dava \[Edim]dava \[D]dá \[D] \[A7]
+\[E]Černej nebožtíku, \[A7]máš to ale kliku,
+\[E]za chvíli do temný hlíny \[E7]budeš zakopán,
+\[A7]černej nebožtíku, máš to ale kliku,
+\[E]za chvíli do temný hlíny budeš zakopán,
+\[H7]nás jsi nechal v bídě, \[G7]sám se vezeš jako \[E]pán.
+\[Ddim]Vava \[C#dim]dava \[Cdim]dava \[E]dá \[E] \[H7]
 \endverse
 \beginverse
 Jen kopyta koní hrany tobě zvoní,

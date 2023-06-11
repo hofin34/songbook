@@ -1,6 +1,12 @@
  \beginsong{Bára}[by={Kabát}]
+
+\beginverse*
+{\nolyrics \[E] \[G#mi] \[A] 2x}
+\endverse
+
 \beginverse
-Jenom se \[C#mi]ptej
+
+\[G#mi]Jenom se \[C#mi]ptej
 Kolem \[E]plameny tančí
 Tak \[H]proč je tady divnej \[A]chlad
 Nepospíchej

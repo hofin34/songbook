@@ -24,8 +24,8 @@ Přemýšlím stále dokola,
 čím bych vás vyléčil.
 S tou tváří vaší nevinou
 já bych nemarodil.
-Zkuste svůj úlet rozvinout,
-Doktor mi poradil.
+\[F#mi]Zkuste svůj úlet \[E]rozvinout,
+\[H]Doktor mi pora\[D]dil.
 \endverse
 \rf
 \beginverse

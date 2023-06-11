@@ -1,9 +1,9 @@
 \beginsong{Alice se dala na pití}[by={Sto zvířat}]
 \beginverse
-Alice se dala na pi\[Hmi]tí
-v baru člověk pozná, jak to \[A]je,
-různý lidi, různý nápo\[Emi]je,
-ve dne pro ni Slunce nesví\[D]tí.\[F#]
+Alice se dala na pi\[Dmi]tí
+v baru člověk pozná, jak to \[C]je,
+různý lidi, různý nápo\[Gmi]je,
+ve dne pro ni Slunce nesví\[F]tí.\[A]
 \endverse
 \beginverse*
 Alice se dala na pití,
@@ -18,10 +18,10 @@ někde někdo sprostě nadává,
 chlapi jsou prej hnusný prevíti.
 \endverse
 \beginchorus
-\[Hmi]Řekli jí jen: kotě ty a \[F#]já,
-\[Emi]nic nemusíš dělat, je to \[F#]hra,
-\[Emi]nic to není, žádný drama,
-\[F#]zůstane to mezi náma.
+\[Dmi]Řekli jí jen: kotě ty a \[A]já,
+\[Gmi]nic nemusíš dělat, je to \[A]hra,
+\[Gmi]nic to není, žádný drama,
+\[A]zůstane to mezi náma.
 \endchorus
 \beginverse
 Alice se dala na pití,

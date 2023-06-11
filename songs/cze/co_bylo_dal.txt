@@ -13,9 +13,9 @@ když má svět otevřenou náruč dokořán.
 \endverse
 \beginchorus
 \[C]A co bylo dál, jenom \[Am]vítr,
-\[Dm]po nebi se \[G]mraky honi\[c]ly.
+\[F]po nebi se \[G]mraky honi\[c]ly.
 \[C]A co bylo dál, jenom \[Am]vítr,
-\[Dm]a stromy se až k \[G]zemi skloni\[Am]ly.
+\[F]a stromy se až k \[G]zemi skloni\[Am]ly.
 \endchorus
 \beginverse
 V uších mi pořád zněly tvoje něžný věty,

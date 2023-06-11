@@ -7,7 +7,7 @@
 a pár \[G]prázdných flašek
 \endverse
 \beginverse
-\[C]veterán z legií nadává \[Emi]na revma
+\[C]veterán z legií \[Emi]nadává na revma
 \[A]vzpomíná na Emu, \[F]jak byla \[G]nádherná
 \[C]a všechny květináče už tu historku \[Emi]znají,
 \[A]ale znova listy nakloní a \[F]poslouchají

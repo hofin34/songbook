@@ -1,6 +1,6 @@
 \beginsong{Blátivá cesta}[by={Pacifik}]
 \beginchorus
-\[C]Blátivou blativou,blátiv\[Emi]ou blátivou.Cestou \[F]dál nechceš \[C]jít kde jen \[F]máš touhu blaz\[C]niv\[Emi]ou kde jen \[Dmi]máš,\[G]co chtěl jsi \[C]mít!
+\[C]Blátivou blativou, blátiv\[Emi]ou blátivou. Cestou \[F]dál nechceš \[C]jít kde jen \[F]máš touhu blaz\[C]niv\[Emi]ou kde jen \[Dmi]máš,co chtěl jsi \[G]mít? Chtěl jsi \[C]mít. !
 \endchorus
 \beginverse
 \[Ami]A tak se kou\[G]káš jak si ko\[Ami]lem hrajou děti,

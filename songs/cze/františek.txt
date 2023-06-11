@@ -1,6 +1,6 @@
 \beginsong{František}[by={Buty}]
 \beginverse
-\[G]Na hladinu rybníká svítí \[C]sluníčko
+\[G]Na hladinu rybníká svítí sluníčko \[C]
 \[Emi]A kolem stojí v hustém kruhu \[G]topoly
 \[Ami]Které tam zasadil jeden hodný \[Hmi]člověk
 \[Ami]Jmenoval se František \[D]Dobrota
@@ -17,7 +17,7 @@ a \[Ami]kolem rybníka nahusto nasázet \[D]topoly
 \endchorus
 
 \beginverse
-František udělal všechno co mu řekla
+\[G]František udělal všechno co mu řekla \[C]
 A po snídani poslal děti do školy
 Žebřiňák s nářadím dotáhl od chalupy k rybníku
 Vykopal díry a zasadil topoly

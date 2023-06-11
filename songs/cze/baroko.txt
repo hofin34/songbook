@@ -1,6 +1,9 @@
 \beginsong{Baroko}[by={Richard Müller}]
+\beginverse*
+{\nolyrics \[Dmi C Dmi C]}
+\endverse
+
 \beginverse
-{\nolyrics Intro: \[Dmi C Dmi C]}
 
 \[Dmi]Schoulené holky \[C]spí nahé
 \[Dmi]u hrobu Tycha\[C]de Brahe

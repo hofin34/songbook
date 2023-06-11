@@ -26,12 +26,15 @@ jsem ten, kdo ti jednou zlomí vaz
 Má milá vždyť mě znáš jsem dobrák od Kosti
 a ty jsi ta co mi to jednou všechno odpustí
 \endverse
+
 \beginverse
-Sejde z očí sejde z mysli
-jenom blázen věří na nesmysly
-láska je čaroděj a ticho prý léčí,
-ale zákon hovoří jasnou řečí
+2x
+\[D]Sejde z očí sejde z mysli
+jenom \[A]blázen věří na nesmysly
+\[G]láska je čaroděj a ticho prý léčí,
+ale \[G]zákon hovoří jasnou řečí
 \endverse
+
 \rf
 \beginverse*
 Má milá jak ti je, tak jak ti je?

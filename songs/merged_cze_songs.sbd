@@ -37,10 +37,10 @@ Pro jedno kvítí se slunce nerozsvítí
 \endsong
 \beginsong{Alice se dala na pití}[by={Sto zvířat}]
 \beginverse
-Alice se dala na pi\[Hmi]tí
-v baru člověk pozná, jak to \[A]je,
-různý lidi, různý nápo\[Emi]je,
-ve dne pro ni Slunce nesví\[D]tí.\[F#]
+Alice se dala na pi\[Dmi]tí
+v baru člověk pozná, jak to \[C]je,
+různý lidi, různý nápo\[Gmi]je,
+ve dne pro ni Slunce nesví\[F]tí.\[A]
 \endverse
 \beginverse*
 Alice se dala na pití,
@@ -55,10 +55,10 @@ někde někdo sprostě nadává,
 chlapi jsou prej hnusný prevíti.
 \endverse
 \beginchorus
-\[Hmi]Řekli jí jen: kotě ty a \[F#]já,
-\[Emi]nic nemusíš dělat, je to \[F#]hra,
-\[Emi]nic to není, žádný drama,
-\[F#]zůstane to mezi náma.
+\[Dmi]Řekli jí jen: kotě ty a \[A]já,
+\[Gmi]nic nemusíš dělat, je to \[A]hra,
+\[Gmi]nic to není, žádný drama,
+\[A]zůstane to mezi náma.
 \endchorus
 \beginverse
 Alice se dala na pití,
@@ -249,8 +249,14 @@ volbama zabitou vzal k sobě Manitou.
 \endchorus
 \endsong
  \beginsong{Bára}[by={Kabát}]
+
+\beginverse*
+{\nolyrics \[E] \[G#mi] \[A] 2x}
+\endverse
+
 \beginverse
-Jenom se \[C#mi]ptej
+
+\[G#mi]Jenom se \[C#mi]ptej
 Kolem \[E]plameny tančí
 Tak \[H]proč je tady divnej \[A]chlad
 Nepospíchej
@@ -283,8 +289,11 @@ Vysaj mě a použij
 \rf
 \endsong
 \beginsong{Baroko}[by={Richard Müller}]
+\beginverse*
+{\nolyrics \[Dmi C Dmi C]}
+\endverse
+
 \beginverse
-{\nolyrics Intro: \[Dmi C Dmi C]}
 
 \[Dmi]Schoulené holky \[C]spí nahé
 \[Dmi]u hrobu Tycha\[C]de Brahe
@@ -402,50 +411,9 @@ za královský hermelín padne každý rád
 \endverse
 \rf
 \endsong
-\beginsong{Bim bam - hvězda zářila}[by={Spirituál kvintet}]
-\beginverse
-\[D]Hvězda zářila a \[A]vzduch se chvěl
-\[A]hvězda zářila a \[D]vzduch se chvěl
-\[D7]hvězda zářila a \[G]vzduch se chvěl
-Jasná \[D]noc nad Be\[A]tlémem \[D]stála
-\endverse
-\beginchorus
-\[D]Tichounce tam \[G]hrá\[A]li
-\[D]na zvonky si zvoni\[G]li \[A]bim, \[D]bam
-Přišli lidé \[G]z dá\[A]li, \[D]povídali a \[G]chodili \[A]sem \[D]tam.
-\[G]Ó, \[D]jak se máte? \[G]Ó, \[D]proč se ptáte?
-\[D]Tichounce tam \[G]hrá\[A]li, \[D]na zvonky si zvoni\[G]li \[A]bim, \[D]bam
-\endchorus
-\beginverse
-V chlévě dítě jako z růže květ
-v chlévě dítě jako z růže květ
-v chlévě dítě jako z růže květ
-Králové vzdávají mu díky.
-\endverse
-\beginverse
-Látky, šperky, radost pohledět
-Látky ,šperky, radost pohledět
-Látky, šperky, radost pohledět
-k tomu datle a čerstvé fíky.
-\endverse
-\rf
-\beginverse
-K ránu všichni tiše usnuli
-k ránu všichni tiše usnuli
-k ránu všichni tiše usnuli
-k jejich štěstí či jejich smůle.
-\endverse
-\beginverse
-Hvězda zářila a vzduch se chvěl
-Hvězda zářila a vzduch se chvěl
-Hvězda zářila a vzduch se chvěl
-pokoj všem lidem dobré vůle.
-\endverse
-\rf
-\endsong
 \beginsong{Blátivá cesta}[by={Pacifik}]
 \beginchorus
-\[C]Blátivou blativou,blátiv\[Emi]ou blátivou.Cestou \[F]dál nechceš \[C]jít kde jen \[F]máš touhu blaz\[C]niv\[Emi]ou kde jen \[Dmi]máš,\[G]co chtěl jsi \[C]mít!
+\[C]Blátivou blativou, blátiv\[Emi]ou blátivou. Cestou \[F]dál nechceš \[C]jít kde jen \[F]máš touhu blaz\[C]niv\[Emi]ou kde jen \[Dmi]máš,co chtěl jsi \[G]mít? Chtěl jsi \[C]mít. !
 \endchorus
 \beginverse
 \[Ami]A tak se kou\[G]káš jak si ko\[Ami]lem hrajou děti,
@@ -502,16 +470,16 @@ když tebe mám rád když tebe mám rád
 
 \endsong
 \beginsong{Blues na cestu poslední}[by={Jiří Suchý}]
-\gtab{F#dim}{(234242)}
-\gtab{Fdim}{(123131)}
-\gtab{Edim}{012020}
+\gtab{Ddim}{(456464)}
+\gtab{C#dim}{(345353)}
+\gtab{Cdim}{(234242)}
 \beginverse
-\[D]Černej nebožtíku,\[G7]máš to ale kliku,
-\[D]za chvíli do temný hlíny \[D7]budeš zakopán,
-\[G7]černej nebožtíku, máš to ale kliku,
-\[D]za chvíli do temný hlíny budeš zakopán,
-\[A7]nás jsi nechal v bídě, \[G7]sám se vezeš jako \[D]pán.
-\[F#dim]Vava \[Fdim]dava \[Edim]dava \[D]dá \[D] \[A7]
+\[E]Černej nebožtíku, \[A7]máš to ale kliku,
+\[E]za chvíli do temný hlíny \[E7]budeš zakopán,
+\[A7]černej nebožtíku, máš to ale kliku,
+\[E]za chvíli do temný hlíny budeš zakopán,
+\[H7]nás jsi nechal v bídě, \[G7]sám se vezeš jako \[E]pán.
+\[Ddim]Vava \[C#dim]dava \[Cdim]dava \[E]dá \[E] \[H7]
 \endverse
 \beginverse
 Jen kopyta koní hrany tobě zvoní,
@@ -599,16 +567,16 @@ Pozor, boty! Pochodem vchod!
 \endsong
 \beginsong{Buráky}[by={-}]
 \beginverse
-\[D]Když Sever válčí s Jihem a \[G]zem jde do vál\[D]ky
-a v polích místo bavlny teď \[E]rostou bodlá\[A]ky.
-\[D]A ve stínu u silnice vidíš \[G]z Jihu vojá\[D]ky,
-jak válejí se klidně \[A]louskaj' burá\[D]ky.
+\[G]Když Sever válčí s Jihem a \[C]zem jde do vál\[G]ky
+a v polích místo bavlny teď \[A]rostou bodlá\[A]ky.
+\[G]A ve stínu u silnice vidíš \[C]z Jihu vojá\[G]ky,
+jak válejí se klidně \[D]louskaj' burá\[G]ky.
 \endverse
 \beginchorus
-\[D]Hej hou, hej hou, nač \[G]chodit do vál\[D]ky.
-Je lepší doma sedět a \[E]louskat burá\[A]ky.
-\[D]Hej hou, hej hou, \[G]nač chodit do vál\[D]ky.
+\[G]Hej hou, hej hou, nač \[C]chodit do vál\[G]ky.
 Je lepší doma sedět a \[A]louskat burá\[D]ky.
+\[G]Hej hou, hej hou, \[C]nač chodit do vál\[G]ky.
+Je lepší doma sedět a \[D]louskat burá\[G]ky.
 \endchorus
 \beginverse
 Plukovník sedí v sedle, volá: "Yankeeové jdou!",
@@ -628,31 +596,31 @@ Když zeptají se: "Hrdino, cos' dělal za války?"
 \endsong
  \beginsong{Burlaci}[by={Kabát}]
 \beginverse
-\[Hmi]Konopný lana, tak ty už něco vydr\[F#mi]ží,
-zkaženej dech a čtyry deci pod ků\[Hmi]ží,
-nebe rudý, břízy brzo pokve\[F#mi]tou
-a chlapi z nudy baví se ruskou rule\[G]tou,
-když svoje lodě proti proudu tá\[Hmi]hnou,
+\[Emi]Konopný lana, tak ty už něco vydr\[Hmi]ží,
+zkaženej dech a čtyry deci pod ků\[Emi]ží,
+nebe rudý, břízy brzo pokve\[Hmi]tou
+a chlapi z nudy baví se ruskou rule\[C]tou,
+když svoje lodě proti proudu tá\[Emi]hnou,
 \endverse
 \beginverse
-\[Hmi]Otroci řeky, prach a špína, tvrdá \[F#mi]zem,
-jediná výhra, je tanec smrti s medvě\[Hmi]dem,
-a tak si žijou, ze dne na den tisíc \[F#mi]let,
-Burlaci pijou ,jak bylo by to napos\[G]led,
-když svoje lodě proti proudu tá\[Hmi]hnou,
-navzdory všem kame\[G]nům
-Proč jenom touhy po čase \[F#]vadnou?
+\[Emi]Otroci řeky, prach a špína, tvrdá \[Hmi]zem,
+jediná výhra, je tanec smrti s medvě\[Emi]dem,
+a tak si žijou, ze dne na den tisíc \[Hmi]let,
+Burlaci pijou ,jak bylo by to napos\[C]led,
+když svoje lodě proti proudu tá\[Emi]hnou,
+navzdory všem kame\[C]nům
+Proč jenom touhy po čase \[H]vadnou?
 
-Otoč se a podí\[D]vej.
+Otoč se a podí\[G]vej.
 \endverse
 \beginchorus
-Nebe je tem\[A]ný a mnohem \[Hmi]níž,
-jen vlků \[G]dávnej chorál z \[D]hor,
-a já tu \[A]marně hledám \[Hmi]skrýš,
-když cesta \[G]rovná se nám ztrá\[D]cí,
-lidi jsou \[A]andělé a nebo \[Hmi]draci,
-a každej \[G]dobrej skutek sílu \[D]vrací,
-no tak jen \[A]otoč se a podí\[Hmi]vej na lodě \[C]za tebou!
+Nebe je tem\[D]ný a mnohem \[Emi]níž,
+jen vlků \[C]dávnej chorál z \[G]hor,
+a já tu \[D]marně hledám \[Emi]skrýš,
+když cesta \[C]rovná se nám ztrá\[G]cí,
+lidi jsou \[D]andělé a nebo \[Emi]draci,
+a každej \[C]dobrej skutek sílu \[G]vrací,
+no tak jen \[D]otoč se a podí\[Emi]vej na lodě \[F]za tebou!
 \endchorus
 \beginverse
 Není to lehký, ve světě lží a polopravd,
@@ -660,26 +628,26 @@ Na břehu řeky harmonika začla hrát,
 Tamtoho léta vítr stopy zahladil,
 Jsme jako oni, už nezbejvá nám tolik sil,
 Když svoje lodě proti proudu táhnem,
-Navzdory všem kame\[G]nům,
-Jednou si každej až na dno \[F#]sáhnem.
+Navzdory všem kame\[C]nům,
+Jednou si každej až na dno \[H]sáhnem.
 
-Otoč se a podí\[D]vej.
+Otoč se a podí\[G]vej.
 \endverse
 \rf
 \beginverse*
-Tak se mi \[F]zdá…
+Tak se mi \[B]zdá…
 \endverse
 \beginchorus
-Nebe je \[C]temný a mnohem \[Dmi]níž,
-jen vlků \[B]dávnej chorál \[F]z hor,
-a já tu \[C]marně hledám \[Dmi]skrýš,
-když cesta \[B]rovná se nám \[F]ztrácí,
-lidi jsou \[C]andělé a nebo \[Dmi]draci
-a každej \[B]dobrej skutek sílu \[F]vrací,
-no tak jen \[C]otoč se a podí\[Dmi]vej,
-na lodě \[B]za tebou.
+Nebe je \[F]temný a mnohem \[Gmi]níž,
+jen vlků \[Es]dávnej chorál \[B]z hor,
+a já tu \[F]marně hledám \[Gmi]skrýš,
+když cesta \[Es]rovná se nám \[B]ztrácí,
+lidi jsou \[F]andělé a nebo \[Gmi]draci
+a každej \[Es]dobrej skutek sílu \[B]vrací,
+no tak jen \[F]otoč se a podí\[Gmi]vej,
+na lodě \[Es]za tebou.
 
-Tak se mi \[F]zdá…
+Tak se mi \[B]zdá…
 \endchorus
 \rf
 \beginverse*
@@ -808,9 +776,9 @@ když má svět otevřenou náruč dokořán.
 \endverse
 \beginchorus
 \[C]A co bylo dál, jenom \[Am]vítr,
-\[Dm]po nebi se \[G]mraky honi\[c]ly.
+\[F]po nebi se \[G]mraky honi\[c]ly.
 \[C]A co bylo dál, jenom \[Am]vítr,
-\[Dm]a stromy se až k \[G]zemi skloni\[Am]ly.
+\[F]a stromy se až k \[G]zemi skloni\[Am]ly.
 \endchorus
 \beginverse
 V uších mi pořád zněly tvoje něžný věty,
@@ -897,28 +865,6 @@ Takhle \[G7]Goliáš ho \[E7]provokuje, \[Dmi7]David slušně \[G7]salutuje.
 \[C]Když začínáš, \[Ami]no tak tu máš, \[F]byl jsi velkej \[Fmi]já měl kuráž. 
 \[C]A jakej byl \[D7]Go - \[G7]li - \[C]áš.
 \endverse
-\endsong
-\beginsong{Dělání}[by={Zdeněk Svěrák, Jaroslav Uhlíř}]
-\beginverse
- \[D]Když máš srdce zjihlé,  \[G]když máš potíže,  \[D]tak dej cihlu k cihle,
- \[G]těsto do díže,  \[Emi]upeč  \[A]třeba chleba,  \[D]postav  \[Hmi]třeba zeď,
- \[G]žal se  \[A]krásně vstřebá,  \[D]začni \[Hmi]s tím hned teď,  \[G]začni  \[A]s tím
-hned  \[D]teď.
-\endverse
-\beginchorus
- \[G]Dělání,  \[A]dělání,  \[D]všechny smutky \[Hmi]zahání, \[G]dělání, \[A]dělání
-je \[D]lék.
- \[G]Dělání, \[A]dělání, \[D]to nám úsměv \[Hmi]zachrání, \[G]dělání, \[A]dělání
-je \[D]lék.
-\endchorus
-\beginverse
- \[D]Když máš srdce zjihlé, \[G]když máš potíže, \[D]tak dej cihlu k cihle,
- \[G]těsto do díže, \[Emi]upeč \[A]třeba chleba, \[D]postav \[Hmi]třeba zeď,
- \[G]žal se \[A]krásně vstřebá, \[D]začni  \[Hmi]s tím hned teď, \[G]začni \[A]s tím
-hned  \[D]teď.
-\endverse
-\rf[2]
-
 \endsong
 \beginsong{Dezolát}[by={Vypsaná Fixa}]
 \beginverse
@@ -1037,12 +983,15 @@ jsem ten, kdo ti jednou zlomí vaz
 Má milá vždyť mě znáš jsem dobrák od Kosti
 a ty jsi ta co mi to jednou všechno odpustí
 \endverse
+
 \beginverse
-Sejde z očí sejde z mysli
-jenom blázen věří na nesmysly
-láska je čaroděj a ticho prý léčí,
-ale zákon hovoří jasnou řečí
+2x
+\[D]Sejde z očí sejde z mysli
+jenom \[A]blázen věří na nesmysly
+\[G]láska je čaroděj a ticho prý léčí,
+ale \[G]zákon hovoří jasnou řečí
 \endverse
+
 \rf
 \beginverse*
 Má milá jak ti je, tak jak ti je?
@@ -1117,49 +1066,6 @@ bla - bla- bla - bla etc....
 Nic není jako dřív, nic není jak bejvávalo,
 bohužel bohudík, co myslíš ségra, je to hodně nebo málo?
 \endchorus
-\endsong
-\beginsong{Dynamit}[by={Olympic}]
-\beginverse
-\[G]Dynamit, dynamit udělá \[D]bum
-\[D7]dynamit, dynamit rozboří \[G]dům
-dynamit, dynamit \[G7]já chtěl bych \[C]mít
-dynamit, \[G]dynamit \[D7]to je můj \[G]hit
-\endverse
-\beginverse
-Dynamit, kilo mít, až půjdeš spát
-Položit, zapáli, měl jsem tě rád
-pozdravit, odejít, včas uskočit
-dynamit, kilo mít a byl by klid
-\endverse
-\beginverse
-Byl by \[D7]konec fajnovej
-naší \[G]lásky bláhavej
-byl by \[D7]konec senzační
-jen mi \[G]brečet nezačni
-Byl by \[D7]konec famozní
-víc bych \[G]nebyl nervozní
-byl by \[D7]konec nejkratší
-naší \[G]lásky nejsladší
-\endverse
-\beginverse
-\[G]Dynamit, dynamit udělá \[D7]krach
-dynamit, kilo mít, tak bych byl \[G]vrah
-dynamit, dynamit tak je mi \[C]líp
-dynamit, \[G]dynamit \[D7]to je můj \[G]tip
-\endverse
-\beginverse
-\[G]Dynamit, doma mít, dynamit z rozbuškou
-dynamit, doma mít v balíčku se stuž\[D]kou
-\[G]dynamit, doma mít \[G7]to je mý přání
-\[C]Snad někde k \[Cmi]Vánocům dynamit dá mi
-\[G]dynamit, dynamit, \[D7]dynamit na \[G]dámy
-\endverse
-\beginverse
-\[G]Dynamit urovná každickej \[D7]spor
-žena je od ráje podivnej \[G]tvor
-nechci ti ublížit, nechci tě \[C]bít
-dynamit, \[G]dynamit \[D7]to je můj \[G]hit
-\endverse
 \endsong
 \beginsong{Elektrický valčík}[by={Zdeněk Svěrák}]
 \beginverse
@@ -1244,7 +1150,7 @@ farář píseň pěl, umíraček zněl ...
 \endsong
 \beginsong{František}[by={Buty}]
 \beginverse
-\[G]Na hladinu rybníká svítí \[C]sluníčko
+\[G]Na hladinu rybníká svítí sluníčko \[C]
 \[Emi]A kolem stojí v hustém kruhu \[G]topoly
 \[Ami]Které tam zasadil jeden hodný \[Hmi]člověk
 \[Ami]Jmenoval se František \[D]Dobrota
@@ -1261,7 +1167,7 @@ a \[Ami]kolem rybníka nahusto nasázet \[D]topoly
 \endchorus
 
 \beginverse
-František udělal všechno co mu řekla
+\[G]František udělal všechno co mu řekla \[C]
 A po snídani poslal děti do školy
 Žebřiňák s nářadím dotáhl od chalupy k rybníku
 Vykopal díry a zasadil topoly
@@ -1301,8 +1207,8 @@ Přemýšlím stále dokola,
 čím bych vás vyléčil.
 S tou tváří vaší nevinou
 já bych nemarodil.
-Zkuste svůj úlet rozvinout,
-Doktor mi poradil.
+\[F#mi]Zkuste svůj úlet \[E]rozvinout,
+\[H]Doktor mi pora\[D]dil.
 \endverse
 \rf
 \beginverse
@@ -1314,49 +1220,6 @@ a knof\[F#mi]líky ze sa\[E]lámu kula\[H]ťoučký vykro\[D]jím.
 
 \rf
 
-
-\endsong
-\beginsong{Globální oteplování}[by={Nightwork}]
-\beginverse
-\[A]Když jsem ještě\[Hmi]býval malej\[C#mi]kluk,
-kluci já měl\[Hmi]sen.
-\[A]Sníval jsem ho\[Hmi]každý,\[C#mi]každý všední\[Hmi]den.
-\[F#mi]Jednoho dne \[C#mi]v neděli,
-když naši \[Hmi]za babičkou odjeli.
-\[A]Pátral jsem \[F#mi]v mámině \[C#mi]šatníku,
-\[Hmi]střevíce padly k mému \[D]kotníku.
-Teplý letní \[F#mi]den,
-venku samci \[C#mi]motýlí, řekl jsem si \[Hmi]po chvíli.....\[D]
-\endverse
-\beginchorus
-Já jsem \[A]GAY, jsem\[H]GAY, jsem\[D]TEPLEJ,
-Já jsem GAY, jsem GAY, jsem TEPLEJ,
-buď taky \[A]GAY...
-\endchorus
-\beginverse
-Dnes už jsem si jistý,
-že naše palneta je na oběžné dráze,
-TEPLEJ květ, TEPLEJ je i vesmír,
-však i Antarktida roztaje již za 6 let.
-Slunce svítí každý den,
-tak neváhej a pojď se mnou ven.
-Podívej TEPLÁ žížala, pes i rostlina,
-vždyť fotosyntéza by bez nás nebyla.
-Venku samci motýlí tulipány pylují řekněme si po chvíli...
-\endverse
-\rf
-\beginverse
-\[B]TEPLEJ sysel, \[C]TEPLÁ vydra, \[D]mečoun je GAY taky,
-\[B]v potoce \[C]jsou TEPLÝ ryby,
-\[D]všude vidim TEPLÝ \[E]mraky.
-\endverse
-\beginchorus
-Já jsem \[H]GAY, jsem \[C#]GAY, jsem \[E]TEPLEJ,
-Já jsem GAY, jsem GAY, jsem TEPLEJ,
-Já jsem GAY, jsem GAY, jsem TEPLEJ,
-Já jsem GAY, jsem GAY, jsem TEPLEJ,
-Buď taky \[H]GAY...
-\endchorus
 
 \endsong
 \beginsong{Gorale}[by={Čechomor}]
@@ -1400,26 +1263,26 @@ ma goralka \[G]z przodu z tylu
 \endsong
 \beginsong{Hlídač krav}[by={Jaromír Nohavica}]
 \beginverse
-\[C]Když jsem byl malý, říkali mi naši:
+\[D]Když jsem byl malý, říkali mi naši:
 
 "Dobře se uč a jez chytrou kaši,
 
-\[F]až jednou vyrosteš, \[G]budeš doktorem \[C]práv.
+\[G]až jednou vyrosteš, \[A7]budeš doktorem \[D]práv.
 
 Takový doktor sedí pěkně v suchu,
 
 bere velký peníze a škrábe se v uchu,"
 
-\[F]já jim ale na to řek':Ch\[G]ci být hlídačem \[C]krav.
+\[G]já jim ale na to řek':Ch\[A7]ci být hlídačem \[D]krav.
 \endverse
 \beginchorus
-Já chci \[C]mít čapku s bambulí nahoře,
+Já chci \[D]mít čapku s bambulí nahoře,
 
 jíst kaštany a mýt se v lavoře,
 
-\[F]od rána po celý \[G]den zpívat si \[C]jen,
+\[G]od rána po celý \[A7]den zpívat si \[D]jen,
 
-zpívat si: pam pam pam \[C, F, G] ...
+zpívat si: pam pam pam \[D, G, A7] ...
 \endchorus
 \beginverse
 K vánocům mi kupovali hromady knih,
@@ -1450,7 +1313,8 @@ kde se mezi mraky honí moje strakaté krávy.
 \endverse
 \rf
 \beginverse*
-O tón výš: pam pam padam \[D, G, A7] ...
+O tón výš: pam pam padam \[E, A, H7, E] ...
+O tón výš: pam pam padam \[F, B, C7, F] ...
 \endverse
 \endsong
 \beginsong{Hodinový hotel}[by={Mňága a Žďorp}]
@@ -1462,7 +1326,7 @@ O tón výš: pam pam padam \[D, G, A7] ...
 a pár \[G]prázdných flašek
 \endverse
 \beginverse
-\[C]veterán z legií nadává \[Emi]na revma
+\[C]veterán z legií \[Emi]nadává na revma
 \[A]vzpomíná na Emu, \[F]jak byla \[G]nádherná
 \[C]a všechny květináče už tu historku \[Emi]znají,
 \[A]ale znova listy nakloní a \[F]poslouchají

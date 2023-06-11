@@ -1,30 +1,30 @@
  \beginsong{Burlaci}[by={Kabát}]
 \beginverse
-\[Hmi]Konopný lana, tak ty už něco vydr\[F#mi]ží,
-zkaženej dech a čtyry deci pod ků\[Hmi]ží,
-nebe rudý, břízy brzo pokve\[F#mi]tou
-a chlapi z nudy baví se ruskou rule\[G]tou,
-když svoje lodě proti proudu tá\[Hmi]hnou,
+\[Emi]Konopný lana, tak ty už něco vydr\[Hmi]ží,
+zkaženej dech a čtyry deci pod ků\[Emi]ží,
+nebe rudý, břízy brzo pokve\[Hmi]tou
+a chlapi z nudy baví se ruskou rule\[C]tou,
+když svoje lodě proti proudu tá\[Emi]hnou,
 \endverse
 \beginverse
-\[Hmi]Otroci řeky, prach a špína, tvrdá \[F#mi]zem,
-jediná výhra, je tanec smrti s medvě\[Hmi]dem,
-a tak si žijou, ze dne na den tisíc \[F#mi]let,
-Burlaci pijou ,jak bylo by to napos\[G]led,
-když svoje lodě proti proudu tá\[Hmi]hnou,
-navzdory všem kame\[G]nům
-Proč jenom touhy po čase \[F#]vadnou?
+\[Emi]Otroci řeky, prach a špína, tvrdá \[Hmi]zem,
+jediná výhra, je tanec smrti s medvě\[Emi]dem,
+a tak si žijou, ze dne na den tisíc \[Hmi]let,
+Burlaci pijou ,jak bylo by to napos\[C]led,
+když svoje lodě proti proudu tá\[Emi]hnou,
+navzdory všem kame\[C]nům
+Proč jenom touhy po čase \[H]vadnou?
 
-Otoč se a podí\[D]vej.
+Otoč se a podí\[G]vej.
 \endverse
 \beginchorus
-Nebe je tem\[A]ný a mnohem \[Hmi]níž,
-jen vlků \[G]dávnej chorál z \[D]hor,
-a já tu \[A]marně hledám \[Hmi]skrýš,
-když cesta \[G]rovná se nám ztrá\[D]cí,
-lidi jsou \[A]andělé a nebo \[Hmi]draci,
-a každej \[G]dobrej skutek sílu \[D]vrací,
-no tak jen \[A]otoč se a podí\[Hmi]vej na lodě \[C]za tebou!
+Nebe je tem\[D]ný a mnohem \[Emi]níž,
+jen vlků \[C]dávnej chorál z \[G]hor,
+a já tu \[D]marně hledám \[Emi]skrýš,
+když cesta \[C]rovná se nám ztrá\[G]cí,
+lidi jsou \[D]andělé a nebo \[Emi]draci,
+a každej \[C]dobrej skutek sílu \[G]vrací,
+no tak jen \[D]otoč se a podí\[Emi]vej na lodě \[F]za tebou!
 \endchorus
 \beginverse
 Není to lehký, ve světě lží a polopravd,
@@ -32,26 +32,26 @@ Na břehu řeky harmonika začla hrát,
 Tamtoho léta vítr stopy zahladil,
 Jsme jako oni, už nezbejvá nám tolik sil,
 Když svoje lodě proti proudu táhnem,
-Navzdory všem kame\[G]nům,
-Jednou si každej až na dno \[F#]sáhnem.
+Navzdory všem kame\[C]nům,
+Jednou si každej až na dno \[H]sáhnem.
 
-Otoč se a podí\[D]vej.
+Otoč se a podí\[G]vej.
 \endverse
 \rf
 \beginverse*
-Tak se mi \[F]zdá…
+Tak se mi \[B]zdá…
 \endverse
 \beginchorus
-Nebe je \[C]temný a mnohem \[Dmi]níž,
-jen vlků \[B]dávnej chorál \[F]z hor,
-a já tu \[C]marně hledám \[Dmi]skrýš,
-když cesta \[B]rovná se nám \[F]ztrácí,
-lidi jsou \[C]andělé a nebo \[Dmi]draci
-a každej \[B]dobrej skutek sílu \[F]vrací,
-no tak jen \[C]otoč se a podí\[Dmi]vej,
-na lodě \[B]za tebou.
+Nebe je \[F]temný a mnohem \[Gmi]níž,
+jen vlků \[Es]dávnej chorál \[B]z hor,
+a já tu \[F]marně hledám \[Gmi]skrýš,
+když cesta \[Es]rovná se nám \[B]ztrácí,
+lidi jsou \[F]andělé a nebo \[Gmi]draci
+a každej \[Es]dobrej skutek sílu \[B]vrací,
+no tak jen \[F]otoč se a podí\[Gmi]vej,
+na lodě \[Es]za tebou.
 
-Tak se mi \[F]zdá…
+Tak se mi \[B]zdá…
 \endchorus
 \rf
 \beginverse*
