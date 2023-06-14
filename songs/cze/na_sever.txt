@@ -1,41 +1,45 @@
 \beginsong{Na sever}[by={Kabát}]
 \beginverse
-\[F]No tak mi \[Dmi]zatancuj, ať \[C]náladu \[F]mám,
-a dej mi \[Dmi]celou noc já \[C]nechci bejt \[F]sám,
-hlavní je neuh\[Dmi]nout, dobře \[C]zvolit svůj \[F]směr,
-a teď holka musím \[Dmi]jít až \[C]tam na se\[F]ver.
+\[G]No tak mi \[Emi]zatancuj, ať \[D]náladu \[G]mám,
+a dej mi \[Emi]celou noc já \[D]nechci bejt \[G]sám,
+hlavní je neuh\[Emi]nout, dobře \[D]zvolit svůj \[G]směr,
+a teď holka musím \[Emi]jít až \[D]tam na se\[G]ver.
 \endverse
+
+\beginverse*
+Cestu znááám...
+\endverse
+
+\beginverse
+\[G]Procházím \[Emi]krajinou a \[D]lidi mě \[G]zvou,
+čím těžší \[Emi]víno, lehčí \[D]holky tu \[G]jsou,
+jedna z nich poví\[Emi]dá: dokud \[D]dávám tak \[G]ber,
+já ji jenom polí\[Emi]bil a \[D]šel na se\[G]ver.
+\endverse
+
 \beginchorus
-Cestu znám a \[B]neměním \[F]směr,
-\[Dmi]dojdu k řece \[B]plný ryb až \[C]tam na se\[F]ver. 
+Cestu znám a \[C]neměním \[G]směr,
+\[Emi]dojdu k řece \[C]plný ryb až \[D]tam na se\[G]ver. 
 \textbf{2x}
 \endchorus
 
-\beginverse
-\[F]Procházím \[Dmi]krajinou a \[C]lidi mě \[F]zvou,
-čím těžší \[Dmi]víno, lehčí \[C]holky tu \[F]jsou,
-jedna z nich poví\[Dmi]dá: dokud \[C]dávám tak \[F]ber,
-já ji jenom polí\[Dmi]bil a \[C]šel na se\[F]ver.
-\endverse
-
-\rf
 
 \beginverse
-\[F]Mám nohy \[Dmi]bolavý, už \[C]nechtěj se \[F]hnout,
-tou temnou \[Dmi]vodou nechám \[C]tělo svý \[F]plout,
-zakončím s noble\[Dmi]sou ze všech \[C]poslední \[F]den,
-kam mě vlny done\[Dmi]sou, tam \[C]vsákne mě \[F]zem.
+\[G]Mám nohy \[Emi]bolavý, už \[D]nechtěj se \[G]hnout,
+tou temnou \[Emi]vodou nechám \[D]tělo svý \[G]plout,
+zakončím s noble\[Emi]sou ze všech \[D]poslední \[G]den,
+kam mě vlny done\[Emi]sou, tam \[D]vsákne mě \[G]zem.
 \endverse
 \rf
 \beginverse*
-\[C]Ta cesta byla rovná, místy rozbitá,
-\[B]číše vína plná, jindy celá vylitá,
-\[C]už nevrátím se zpátky, ubejvá mi sil,
-\[B]tak řekněte jí, prosím, že \[C]jsem tady byl.
+\[D]Ta cesta byla rovná, místy rozbitá,
+\[C]číše vína plná, jindy celá vylitá,
+\[D]už nevrátím se zpátky, ubejvá mi sil,
+\[C]tak řekněte jí, prosím, že \[D]jsem tady byl.
 \endverse
 
 \beginchorus
-Cestu \[G]znám a \[C]neměním \[G]směr,
-\[Emi]dojdu k řece \[C]plný ryb až \[D]tam na se\[G]ver.
+Cestu \[A]znám a \[D]neměním \[A]směr,
+\[F#mi]dojdu k řece \[D]plný ryb až \[E]tam na se\[A]ver.
 \endchorus
 \endsong

@@ -1,8 +1,12 @@
 \beginsong{Holubí dům}[by={Jiří Schelinger}]
 \beginverse
- \[Emi]Zpí \[D]vám  \[C]ptákům a  \[Hmi]zvlášť holubům \[Emi]stá \[D]val v  \[C]údolí  \[Hmi]mém starý  \[Emi]dům
+ \[Emi]Zpí \[D]vám  \[C]ptákům a  \[Hmi]zvlášť holu\[Emi]bům
+ 
+ \[Emi]stá \[D]val v  \[C]údolí  \[Hmi]mém starý  \[Emi]dům
 
- \[G]ptá \[D]ků  \[G]houf zalétal \[D] ke krovům \[G]  \[Emi]měl  \[D]jsem  \[C]rád holubích \[Hmi] křídel šum \[Emi]
+ \[G]ptá \[D]ků  \[G]houf zalé\[D]tal ke kro\[G]vům 
+ 
+ \[Emi]měl  \[D]jsem  \[C]rád holu\[Hmi]bích křídel šum \[Emi]
 \endverse
 \beginverse
 Vlídná dívka jim házela hrach
@@ -27,18 +31,22 @@ vždyť to  \[Ami]ví že jsem  \[Hmi]chtěl pro ni  \[Emi]žít
 \beginverse
 
 
-Sdílný déšť vypráví okapům, bláhový kdo
+Sdílný déšť vypráví okapům,
 
-hledá tenhle dům, odrůstáš chlapeckým
+bláhový kdo hledá tenhle dům,
 
-střevícům, neslyšíš holubích křídel šum
+odrůstáš chlapeckým střevícům,
+
+neslyšíš holubích křídel šum
 
 \endverse
 \beginverse
 
-Nabízej úplatou cokoli nepojíš cukrových
+Nabízej úplatou cokoli
 
-homolí, můžeš mít třeba zrak sokolí
+nepojíš cukrových homolí,
+
+můžeš mít třeba zrak sokolí
 
 nespatříš ztracené údolí
 \endverse

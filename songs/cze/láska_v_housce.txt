@@ -1,28 +1,30 @@
 \beginsong{Láska v housce}[by={Xindl X}]
 \beginverse*
 Um um um a á
-\[Hmi]Ná na naj,\[A]nanana ná naj
-\[Hmi]Ná na naj,\[A]nanana ná naj
-\[Hmi]Nananaj,\[A]nanana ná naj
-\[G]nana naj nana naj\[A] nana naj
+\[Bmi]Ná na naj,\[G#]nanana ná naj
+\[Bmi]Ná na naj,\[G#]nanana ná naj
+\[Bmi]Nananaj,\[G#]nanana ná naj
+\[F#]nana naj nana naj\[G#] nana naj
 Um um um a á
 \endverse
 \beginverse
-\[A]Jsi ta nejhezčí ze všech rajd,v kentucky \[Hmi]fried
-\[A]A nabízíš mi dnešní výhodný \[Hmi]menu za polovinu ceny.
-S reklamním \[A]úsměvem zkoušíš mi vnutit výhodný \[Hmi]menu jen s polovinou chutí.
-Menu jen s \[A]polovinou ingrediencí co \[Hmi]doopravdy chci.
-Menu kde \[A]půlka chodů je jenom do počtu.
-A to je hlavní důvod proč tu ,u okýnka váhám zda tišit \[G]hlad něčím co nemám \[A]rád
+\[G#]Jsi ta nejhezčí ze všech rajd,v kentucky \[Bmi]fried
+\[G#]A nabízíš mi dnešní výhodný \[Bmi]menu za polovinu ceny.
+S reklamním \[G#]úsměvem zkoušíš mi vnutit výhodný \[Bmi]menu jen s polovinou chutí.
+Menu jen s \[G#]polovinou ingrediencí co \[Bmi]doopravdy chci.
+Menu kde \[G#]půlka chodů je jenom do počtu.
+A to je hlavní důvod proč tu ,u okýnka váhám zda tišit \[F#]hlad něčím co nemám \[G#]rád
 \endverse
 \beginchorus
-Vždyť \[Hmi]víš co chci.
-Já \[Emi]vím, ale \[G]nejde o to \[A]kdo co chce.
+Vždyť \[Bmi]víš co chci.
+Já \[G#]vím, ale \[F#]nejde o to \[G#]kdo co chce.
 Vždyť víš co chci.
 Já vím, ale já mám svoje instrukce.
 Vždyť víš co chci.
 Já vím, ale nabídka určuje poptávku.
-\[G]Přesto snažně vyslyš \[F#]mou objednávku.
+\[F#]Přesto snažně vyslyš \[F]mou objednávku.
+\endchorus
+\beginchorus
 Ná na ná, nanana ná naj
 Ná na ná, nanana ná naj
 Nananaj nananaj
@@ -33,17 +35,17 @@ Musím si vzít i něco co se mi hnusí a k tomu super size.
 Copak jsem mohl nadít se, že co chci bylo jen v sezónní nabídce.
 Ruku svírám v pěst a v ní bezednej hrnek hořkosti jen za třicetšest.
 Kam jsem to došel je to má mekka či, jsem opět jenom v mekáči.
-A moje paní je vítězskou klání Miss Kompromis.
+A má paní je vítězskou klání Miss Kompromis.
 \endverse
 \rf
 \beginverse*
 Um um um a á
 \endverse
 \beginverse
-\[G]Došel jsi až ke mně tak bys \[A]měl si něco \[Hmi]dát.
-\[G]Všechno se dá strávit když je \[F#]hlad.
+\[F#]Došel jsi až ke mně tak bys \[G#]měl si něco \[Bmi]dát.
+\[F#]Všechno se dá strávit když je \[F]hlad.
 Frontu jsem si vystál najednou není oč stát.
-Láska v housce, instantní cit prefabrikát.
+\[F#]Láska v housce, \[G#]instantní cit \[F]prefabrikát.
 \endverse
 \beginchorus
 Já vím co chceš,

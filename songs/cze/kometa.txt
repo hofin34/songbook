@@ -29,7 +29,11 @@ Velká a odvěká tajemství přírody,
 že kořen s větvemi ve strom se spojuje
 a krev našich nadějí vesmírem putuje.
 \endverse
-\rf
+
+\beginchorus
+    Nánana, ...
+\endchorus
+
 \beginverse
 Spatřil jsem kometu, byla jak reliéf
 zpod rukou umělce, který už nežije,
@@ -42,5 +46,11 @@ stál jsem a hleděl jsem, hleděl jsem nahoru,
 až příště přiletí, ach, pýcho marnivá,
 my už tu nebudem, ale jiný jí zazpívá.
 \endverse
+\beginchorus
+\[Ami]O vodě, o trávě, \[Dmi]o lese,
+\[G7]o smrti, se kterou smířit \[C]nejde se, \[E]
+\[Ami]o lásce, o zradě, \[Dmi]o světě
+\[E]Bude to písnička o nás a \[Ami]kometě
+\endchorus
 \rf
 \endsong

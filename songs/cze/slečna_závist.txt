@@ -1,13 +1,13 @@
 \beginsong{Slečna závist}[by={Aleš Brichta}]
 \beginverse
-\[Emi]Ta dívka u oltáře, co pohled tvůj teď váže
-skrýt \[D]závist zkouší za \[Emi]vlastním bohatstvím.
-Má \[Emi]krásu, moc I slávu, přesto vidíš, že se trápí,
-když tvář \[D]zakrývá jí závoj z \[Emi]černejch pavučin.
+\[Ami]Ta dívka u oltáře, co pohled tvůj teď váže
+skrýt \[G]závist zkouší za \[Ami]vlastním bohatstvím.
+Má \[Ami]krásu, moc I slávu, přesto vidíš, že se trápí,
+když tvář \[G]zakrývá jí závoj z \[Ami]černejch pavučin.
 \endverse
 \beginchorus
-\[Emi] \[D]  \[Emi] 
-\[Emi]  \[D]\[Emi] Áaaa..
+\[Ami] \[G]  \[Ami] 
+\[Ami]  \[G]\[Ami] Áaaa..
 \endchorus
 \beginverse
 Proč přišla takhle zrána a co si žádá u pána,

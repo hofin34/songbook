@@ -1,13 +1,13 @@
 \beginsong{Jahody mražený}[by={Jiří Schelinger}]
 \beginverse
-\[C]Poslala mě moje dívka \[F]pro jahody červe\[C]ný,
-   \[F]bez nich se prý nemám \[H]vracet, \[C]tak tu stojím ztrápený.
-   Když se dívám co je sněhu, \[F]fouká vítr, pálí \[C]mráz,
-   \[F]možná že si děvče \[H]myslí, \[C]že se mě tak zbaví \[G]snáz.
+\[A]Poslala mě moje dívka \[D]pro jahody červe\[A]ný,
+   \[D]bez nich se prý nemám \[G]vracet, \[A]tak tu stojím ztrápený.
+   Když se dívám co je sněhu, \[D]fouká vítr, pálí \[A]mráz,
+   \[D]možná že si děvče \[G]myslí, \[A]že se mě tak zbaví \[E]snáz.
 \endverse
 \beginchorus
-\[H]Zapomněla váže\[F]ní, \[C]na jahody mraže\[G]ný,
-\[H]na jahody mraže\[F]ný, \[C]v igelitu bale\[G]ný.
+\[G]Zapomněla váže\[D]ní, \[A]na jahody mraže\[G]ný,
+\[G]na jahody mraže\[D]ný, \[A]v igelitu bale\[G]ný.
 \endchorus
 \beginverse
 	Pohádku to připomíná o dvanácti měsíčkách,

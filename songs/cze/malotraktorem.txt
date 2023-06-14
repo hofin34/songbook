@@ -61,12 +61,10 @@ Drn \[G]drn drn drn drn drn
 že mě usly\[Emi]šíš
 že mě potěšíš
 \[B]mít budeš ráda
-\[D]doufám
-že mě pocho\[B]píš
-a budeš \[D]mít \[G]ráda
-a budeš \[D]mít \[G]ráda \[B]
-a budeš \[D]mít \[G]ráda
-a budeš \[D]mít \[G]ráda \[B]
-\[D]
+\[D]doufám, že mě pocho\[B]píš
+a budeš \[D]mííííít \[G]ráda
+a budeš \[D]mííííít \[G]ráda
+a budeš \[D]mííííít \[G]ráda
+a budeš \[D]mííííít \[G]ráda
 \endverse
 \endsong

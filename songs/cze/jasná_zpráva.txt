@@ -1,28 +1,30 @@
+
 \beginsong{Jasná zpráva}[by={Olympic}]
 \beginverse
-\[C]Skončili jsme jasná zpráva,
-\[Ami]proč o tebe \[F]zakopávam \[G]dál,
-\[Dmi]projít bytem \[F]já abych se \[C]bál.
-\[C]Dík tobě se vidím zvenčí,
-\[Ami]připadám si \[F]starší menší \[G]sám,
-\[Dmi]kam se kouknu, \[F]kousek tebe \[C]mám.
+\[G]Skončili jsme jasná zpráva,
+\[Emi]proč o tebe \[C]zakopávam \[D]dál,
+\[Ami]projít bytem \[C]já abych se \[G]bál.
+\[G]Dík tobě se vidím zvenčí,
+\[Emi]připadám si \[C]starší menší \[D]sám,
+\[Ami]kam se kouknu, \[C]kousek tebe \[G]mám.
 \endverse
 \beginchorus
-\[Ami]Pěnu s vůni \[C]jablečnou, \[Ami]vyvanulý \[Emi]sprej,
-\[Ami]telefon, cos \[C]ustřihla mu \[G]šňůru,
-\[Ami]knížku krásně \[C]zbytečnou, \[Ami]co má lživý \[Emi]děj,
-\[Ami]píše se v ní, \[C]jak se lítá \[G]vzhůru,
-lítá \[Dmi]vzhůru, ve dvou \[G]vzhůru.
+\[Emi]Pěnu s vůni \[Hmi]jablečnou, \[Emi]vyvanulý \[Hmi]sprej,
+\[Emi]telefon, cos \[G]ustřihla mu \[D]šňůru,
+\[Emi]knížku krásně \[Hmi]zbytečnou, \[Emi]co má lživý \[Hmi]děj,
+\[Emi]píše se v ní, \[G]jak se lítá \[D]vzhůru,
+lítá \[Ami]vzhůru, ve dvou \[D]vzhůru.
 \endchorus
 \beginverse
-\[C]Odešla's mi před úsvitem,
-\[Ami]mám snad bloudit \[F]vlastním bytem \[G]sám,
-\[Dmi]kam se kouknu, \[F]kousek tebe \[C]mám.
+\[G]Odešla's mi před úsvitem,
+\[Emi]mám snad bloudit \[C]vlastním bytem \[D]sám,
+\[Ami]kam se kouknu, \[C]kousek tebe \[G]mám.
 \endverse
 \rf
 \beginverse
-\[C]Skončili jsme jasná zpráva,
-\[Ami]není komu z \[F]okna mávat \[G]víc,
-\[Dmi]jasná zpráva, \[F]rub, co nemá \[C]líc.
+\[G]Skončili jsme jasná zpráva,
+\[Emi]není komu z \[C]okna mávat \[D]víc,
+\[Ami]jasná zpráva, \[C]rub, co nemá \[G]líc.
 \endverse
 \endsong
+

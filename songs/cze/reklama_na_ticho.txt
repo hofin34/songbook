@@ -1,15 +1,15 @@
 \beginsong{Reklama na ticho}[by={Team}]
 \beginverse
-\[Ami]Reklamu na \[Emi]ticho dnes v\[Ami] telke dáva\[Emi]jú
-\[Ami]každý z nás \[Emi]spozornie, \[F]len čo zbadá\[G]ju.
-\[Ami]Reklamu na \[Emi]ticho, \[Ami]ten súčasný \[Emi]hit
-\[Ami]krásnym tichom z\[Emi]dovozu \[F]naplňte svo\[G]j byt
+\[Cmi]Reklamu na \[Gmi]ticho dnes v\[Cmi] telke dáva\[Gmi]jú
+\[Cmi]každý z nás \[Gmi]spozornie, \[G#]len čo zbadá\[A#]ju.
+\[Cmi]Reklamu na \[Gmi]ticho, \[Cmi]ten súčasný \[Gmi]hit
+\[Cmi]krásnym tichom z\[Gmi]dovozu \[G#]naplňte svo\[A#]j byt
 \endverse
 \beginchorus
-\[F]Môžete \[G]ho zohnať \[C]len pod rukou,
-\[F]nááááádher\[G]né ticho hôr\[C]
-\[F]Výberové \[G]ticho \[C]so zárukou
-\[F]Získa ho \[G]kto príde \[Ami]skôô\[G]ôôô\[Ami]r \[G]
+\[G#]Môžete \[A#]ho zohnať \[D]len pod rukou,
+\[G#]nááááádher\[A#]né ticho hôr\[D]
+\[G#]Výberové \[A#]ticho \[D]so zárukou
+\[G#]Získa ho \[A#]kto príde \[Cmi]skôô\[A#]ôôô\[Cmi]r \[A#]
 \endchorus
 \beginverse
 Pred Tuzákom stojí rad dlhý, pomalý,

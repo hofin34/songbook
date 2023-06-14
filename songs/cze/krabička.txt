@@ -1,17 +1,15 @@
 \beginsong{Krabička}[by={Vypsaná Fixa}]
 \beginverse*
-\[G Ami C]
 \endverse
 \beginverse
-\[G]Dala \[D]si mi \[Ami]dárek
-\[C]a pak si šla \[G]spát.
+\[G]Dala \[D]si mi \[Ami]dárek \[C]a pak si šla \[G]spát.
 Krabičku s nápisem FRIDAY I'M IN LOVE.
 Co víc si přát a co si něco dát?
 \endverse
 \beginverse
 Vím toho o chlastu stejně jako ty.
 "Ze skla nebo z plastu?", ptá se Robert Smith.
-Tak jo, tak jo a nejde se mít \[C]líp.
+Tak jo, tak jo a nejde se mít líp.
 \endverse
 \beginchorus
 Lítá tu butterfly. Úoo
@@ -20,10 +18,10 @@ Lítá tu lítá.
 Je modrej.
 \endchorus
 \beginchorus
-\[C]Venku už bude novej!\[G] \[D]
-\[Ami], \[C]Bude novej...\[G] \[D]
-\[Ami], \[C]Bude novej...\[G] \[D]
-\[Ami], \[C]Bude novej den dál.\[G]
+Venku už bude novej!
+... Bude novej
+... Bude novej
+... Bude novej den dál.
 \endchorus
 \beginverse
 Dala si mi dárek

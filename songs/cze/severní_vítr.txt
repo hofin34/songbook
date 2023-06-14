@@ -1,9 +1,9 @@
 \beginsong{Severní vítr je krutý}[by={Jaroslav Uhlíř}]
 \beginverse
-Jdu s \[C]děravou patou, mám \[Ami]horečku zlatou
-Jsem \[F]chudý, jsem sláb a \[C]nemocen
-Hlava mě pálí a v \[Ami]modravé dáli
-Se \[F]leskne a \[G]třpytí můj \[C]sen
+Jdu s \[D]děravou patou, mám \[Hmi]horečku zlatou
+Jsem \[G]chudý, jsem sláb a \[D]nemocen
+Hlava mě pálí a v \[Hmi]modravé dáli
+Se \[G]leskne a \[A7]třpytí můj \[D]sen
 \endverse
 \beginverse
 Kraj pod sněhem mlčí, tam stopy jsou vlčí
@@ -12,10 +12,10 @@ Sám v dřevěné boudě sen o zlaté hroudě
 Já nechám si tisíc krát zdát
 \endverse
 \beginchorus
-\[C]Severní \[C7]vítr je \[F]krutý,
-počítej\[C] lásko má s \[G7]tím
-\[C]k nohám ti \[C7]dám zlaté \[F]pruty
-nebo se \[C]vůbec \[G]nevrátím\[C]
+\[D]Severní \[D7]vítr je \[G]krutý,
+\[D]ůpočítej lásko má s \[A7]tím
+\[D]k nohám ti \[D7]dám zlaté \[G]pruty
+nebo se \[D]vůbec \[A7]nevrátím\[D]
 \endchorus
 \beginverse
 Tak zarůstám vousem a vlci už jdou sem

@@ -1,21 +1,25 @@
 \beginsong{Kdyby byl Bavorov}[by={Lidová}]
-\beginchorus
-/: \[A]Sukej me, mrdej me, \[E]krut mi koza\[A]ma! :/
-\endchorus
+
+
 \beginverse
-\[D]Naper mi to \[A]do huby, \[E]dosla pasta \[A]na zuby!
+ \[A]Kdyby byl Bavorov, \[E]co jsou Vodňa\[A]ny, 
+   \[A]dal bych ti hubičku \[E]na obě stra\[A]ny. 
 \endverse
-\rf
+
+   \beginchorus
+   /: \[D]Ale že je \[A]za vodou, \[E]za vodičkou \[A]studenou, 
+   nedám ti, má milá, \[E]ani jedi\[A]nou. :/
+   \endchorus
+
 \beginverse
-\[D]Per to do me \[A]zezadu, \[E]hned mam lepsi \[A]naladu!
+ \[A]Kdyby byl Bavorov, \[E]co Prachati\[A]ce, 
+   \[A]dal bych ti hubiček \[E]na sta tisí\[A]ce. 
 \endverse
+
 \rf
-\beginverse
-\[D]Per to do me \[A]varici, \[E]mam to rada \[A]hadici!
-\endverse
-\rf
-\beginverse
-Budem sukat z vrsku, narejem si drzku!
-\endverse
-\rf
+
+
+
+
+
 \endsong

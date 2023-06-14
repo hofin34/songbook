@@ -1,34 +1,34 @@
 \beginsong{Můj svět}[by={Chinaski}]
 \beginverse
-\[C]Můj svět jsou divadelní \[Ami]rekvizity
-\[Emi]nejmilejší z rekvizit \[G]pro mě jsi ty
-\[C]chystám ti jedno malý \[Ami]představení
-\[Emi]vstupný je dobrovolný v \[G]kase nikdo není
+\[F]Můj svět jsou divadelní \[Dmi]rekvizity
+\[Ami]nejmilejší z rekvizit \[C]pro mě jsi ty
+\[F]chystám ti jedno malý \[Dmi]představení
+\[Ami]vstupný je dobrovolný v \[C]kase nikdo není
 \endverse
 \beginverse
-\[C]Má malá loutková \[Ami]realita
-\[Emi]smát se a plakat do \[G]polosyta
-\[C]svět plný báječných \[Ami]seznámení
-\[Emi]svět co trochu je a \[G]trochu není
+\[F]Má malá loutková \[Dmi]realita
+\[Ami]smát se a plakat do \[C]polosyta
+\[F]svět plný báječných \[Dmi]seznámení
+\[Ami]svět co trochu je a \[C]trochu není
 \endverse
 \beginchorus
-A mě se \[C]zdá ..
-A mě se \[Emi]zdá, že je to \[Ami]hra
-co nemá \[F]konec ani začá\[C]tek
-co bude d\[Emi]ál je ve hvěz\[Ami]dách
-Robinson \[F]stále čeká na pá\[C]tek
+A mě se \[F]zdá ..
+A mě se \[Ami]zdá, že je to \[Dmi]hra
+co nemá \[B]konec ani začá\[F]tek
+co bude d\[Ami]ál je ve hvěz\[Dmi]dách
+Robinson \[B]stále čeká na pá\[F]tek
 \endchorus
 \beginverse
-\[C]Stojím tu na rohu už \[Ami]několik let
-\[Emi]divadlo, kavárna, \[G]kino Svět
-\[C]nenech se přemlouvat, \[Ami]směle dál
-\[Emi]vlož do mě svůj životní \[G]kapitál
+\[F]Stojím tu na rohu už \[Dmi]několik let
+\[Ami]divadlo, kavárna, \[C]kino Svět
+\[F]nenech se přemlouvat, \[Dmi]směle dál
+\[Ami]vlož do mě svůj životní \[C]kapitál
 \endverse
 \beginverse
-\[C]Předvedu ti sebe,tebe, \[Ami]předvedu nás
-\[Emi]zítra tě rozpláču,\[G]pozítří pobavím zas
-\[C]jsem kandidát \[Ami]loutkových věd
-\[Emi]www prknasvět \[G]tečka cz
+\[F]Předvedu ti sebe,tebe, \[Dmi]předvedu nás
+\[Ami]zítra tě rozpláču,\[C]pozítří pobavím zas
+\[F]jsem kandidát \[Dmi]loutkových věd
+\[Ami]www prknasvět \[C]tečka cz
 \endverse
 \rf
 \endsong

@@ -15,10 +15,11 @@
 \beginchorus
 \[G]Z ráje my vyhnaní \[Emi]z ráje, kde není
 
-už \[Ami7]místa \[C7]prej něco se \[G]chystá\[D G]
-Z ráje nablýskaných \[Emi]plesů jdem zpátky
+už \[Ami7]místa \[C7]prej něco se \[G]chystá\[D]
 
-do \[Ami7]lesů. \[(C)]Za nějakej \[G]čas \[(D)]
+\[G]Z ráje nablýskaných \[Emi]plesů jdem zpátky
+
+do \[Ami7]lesů. \[C]Za nějakej \[G]čas \[D]
 \endchorus
 
 \beginverse

@@ -2,11 +2,11 @@
 \beginverse
 \[D]Ustupte jen \[G]ustup\[D]te
 \[G]nebuď \[D]prašná \[A7]cestič\[D]ko
-\[D]dobrý junák ted' tebou \[F#mi]jde\[Hmi]e
+\[D]dobrý junák ted' tebou \[F#mi]jde
 \[G]chce poz\[D]nat svět \[A7]malič\[D]ko
 \endverse
 \beginchorus
-\[Hmi]Před naší za na\[F#mi]ší cesta \[G]má
+\[Hmi]Před naší \[F#mi]za naší \[G]cesta má
 ať neprá\[D]ší hej\[G] \[D] \[A7] \[D]
 \endchorus
 \beginverse

@@ -1,49 +1,31 @@
 \beginsong{Kdoví jestli}[by={Kabát}]
 \beginverse
-Kdoví \[C]jestli
-jestli jsou na měsíci vůbec ňáký \[F]stopy
-a proč kope kolem \[Ami]sebe kdo se \[G]topí.
-Jakej \[F]sval to Zemí otá\[C]čí?
-Jak je to \[C]s pravdou?
-S pravdou se šetří možná proto aby \[F]zbyla.
-Je flekatá jak dalma\[Ami]tin, je černo\[G]bílá.
-Chudák \[F]holka s dechem nesta\[C]čí.
+Kdoví \[H]jestli
+jestli jsou na měsíci vůbec ňáký \[E]stopy
+a proč kope kolem \[G#mi]sebe kdo se \[F#]topí.
+Jakej \[E]sval to Zemí otá\[H]čí?
+Jak je to \[H]s pravdou?
+S pravdou se šetří možná proto aby \[E]zbyla.
+Je flekatá jak dalma\[G#mi]tin, je černo\[F#]bílá.
+Chudák \[E]holka s dechem nesta\[H]čí.
 \endverse
 \beginchorus
-No a co \[G]vítr?
-Severní vítr nemusí bejt rovnou \[F]krutej.
-A v týhle zemi na pra\[Ami]meni panák \[G]dutej.
-Přeju Vám nervy pevný jak železný \[F]dráty.
-Ať stojí při nás i všichni \[C]svatý.
+No a co \[F#]vítr?
+Severní vítr nemusí bejt rovnou \[E]krutej.
+A v týhle zemi na pra\[G#mi]meni panák \[F#]dutej.
+Přeju Vám nervy pevný jak železný \[E]dráty.
+Ať stojí při nás i všichni \[H]svatý.
 \endchorus
 
-\beginverse
-Riff:
-
-e -----------------------|
-
-h |-----------------------|
-
-G |-----------------------|
-
-D |--------3--2-----------|
-
-A |--3--3--------3--1--2--|
-
-E |-----------------------|
-
- \endverse
 \beginverse
 Všechno je jinak,
 nasraná Země chrlí tuny žhavý lávy.
 Děti na stráni hledaj fialový krávy.
 Jak pravda vypadá, kdo z vás to ví?
-\textbf{2x Riff}
 Nikdo ji nezná.
 Stejně jak rychle objeví se, rychle zmizí.
 Doufám, že nelže a je pořád stejně ryzí,
 a slzy na pavlači neroní.
-\textbf{2x Riff}
 \endverse
 \beginchorus
 Tak čemu věřit?
@@ -51,39 +33,21 @@ Snad jenom bytostem co lítaj kolem hlavy,
 nosí nám tajný, ale zaručený zprávy,
 a taky dary který bojíme se vrátit,
 a to si pište, že budem platit.
-\textbf{4x Riff}
 \endchorus
 \beginverse*
-\[As]Já musim jít, najdu ji \[C]sám.
-Už jenom pro ten pocit, že ji \[As]znám.
-Já projdu zem a třeba celej \[G]svět.
+\[G]Já musim jít, najdu ji \[H]sám.
+Už jenom pro ten pocit, že ji \[G]znám.
+Já projdu zem a třeba celej \[F#]svět.
 Bude to chvíle anebo pár \[H]let.
 \endverse
 \beginverse
 = 1.
-\textbf{2x Riff}
 \endverse
 \beginverse
 Všechno je jinak,
 nasraná Země chrlí tuny žhavý lávy.
 Děti na stráni hledaj fialový krávy.
 Jak pravda vypadá, kdo z vás to ví?
-
-\textbf{2x Riff 2 (opakuje se až do konce)}
-
-e |-----------------|
-
-h |-----------------|
-
-G |-----------------|
-
-D |--------2--3--2--|
-
-A |--3--3-----------|
-
-E |-----------------|
-
- 
 
 
 
@@ -94,9 +58,6 @@ a slzy na pavlači neroní.
 \endverse
 \beginverse
 = 1.
-\endverse
-\beginverse
-= 3.
 \endverse
 
 

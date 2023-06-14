@@ -14,7 +14,6 @@ nesměla bys, lásko,
 Bez nenávisti, \[C]bez jmé\[Dmi]na.
 Když přišel dolů k \[C]řece \[F]pít,
 krev teče do vody, \[C]v srdci \[Dmi]klid.
-\[Dmi, C, F, C, Dmi, C, F, C, Dmi]
 \endchorus
 \beginverse
 Voda teče k moři,

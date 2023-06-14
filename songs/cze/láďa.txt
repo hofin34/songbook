@@ -1,25 +1,25 @@
  \beginsong{Láďa}[by={Kabát}]
 \beginverse
-\[Dmi]Láďa jede na skejtu
+\[Ami]Láďa jede na skejtu
 a umí chodit po laně,
-\[C7]když je v dobrý náladě,
-tak \[Dmi]napodobí vorvaně,
-\[Dmi]má veliký BMW,
+\[Dmi]když je v dobrý náladě,
+tak \[Ami]napodobí vorvaně,
+\[Ami]má veliký BMW,
 nikdo se na něj nechytá,
-\[C7]jak sou ňáký problémy,
-Lá\[Dmi]ďa je všechny vychytá.
+\[Dmi]jak sou ňáký problémy,
+Lá\[Ami]ďa je všechny vychytá.
 \endverse
 \beginverse*
-\[B]Geniální nápady má, mozek obřích rozměrů,
-\[C]vejde se mu do hlavy, \[A]jestlipak víte proč!
+\[F]Geniální nápady má, mozek obřích rozměrů,
+\[G]vejde se mu do hlavy, \[Em]jestlipak víte proč!
 Protože
 \endverse
 \beginchorus
-\[Dmi]Láďa má velkou hlavu,\[B]jak pytel od banánů,
-\[Dmi]Láďa se v davu neztra\[B]tí,
-\[Dmi]když se mu holky smějou,
-\[B]prachy ho v kapse hřejou,
-\[Dmi]jednou si všechny zapla\[B]tí.
+\[Ami]Láďa má velkou hlavu,\[F]jak pytel od banánů,
+\[Ami]Láďa se v davu neztra\[F]tí,
+\[Ami]když se mu holky smějou,
+\[F]prachy ho v kapse hřejou,
+\[Ami]jednou si všechny zapla\[F]tí.
 \endchorus
 \beginverse
 On když se vám rozjede,

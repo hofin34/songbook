@@ -1,17 +1,17 @@
 \beginsong{Nebude to ľahké}[by={Richard Müller}]
 \beginverse
-\[Hmi]Vraj zmenila si \[A]číslo
-\[Hmi]A do zámku \[A]nepasuje viac môj \[Hmi]kľúč \[A]
-\[Hmi]Hlavou mi \[A]blyslo
-\[Hmi]Asi chceš \[A]aby som bol už \[G]fuč.
+\[Ami]Vraj zmenila si \[G]číslo
+\[Ami]A do zámku \[G]nepasuje viac môj \[F]kľúč
+\[Ami]Hlavou mi \[G]blyslo
+\[Ami]Asi chceš \[G]aby som bol už \[F]fuč.
 Óu óuu
 \endverse
 \beginchorus
-\[D]Nebude to \[A]také ľahké \[G]drahá
-\[D]Mňa sa nezba\[A]víš s tým sa \[G]lúč
-\[D]Nebude to \[A]také ľahké \[G]drahá
-\[A]Nemôžeš ma \[G]vymeniť ako \[A]rúž
-Som tvoj \[Hmi]muž
+\[C]Nebude to \[G]také ľahké \[F]drahá
+\[C]Mňa sa nezba\[G]víš s tým sa \[F]lúč
+\[C]Nebude to \[G]také ľahké \[F]drahá
+\[G]Nemôžeš ma \[F]vymeniť ako \[G]rúž
+Som tvoj \[Ami]muž
 \endchorus
 \beginverse
 Vraj koketuješ s iným

@@ -1,8 +1,8 @@
 \beginsong{Hrobař}[by={Premier}]
 \beginverse
-V \[D]mládí jsem se učil hrobařem
-\[Hmi]jezdit s hlínou, jezdit s trakařem
-\[G]kopat hroby byl můj ide\[A]ál
+V \[G]mládí jsem se učil hrobařem
+\[Emi]jezdit s hlínou, jezdit s trakařem
+\[C]kopat hroby byl můj ide\[D]ál
 \endverse
 \beginverse
 Jezdit s hlínou, jezdit s vozíkem

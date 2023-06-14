@@ -1,8 +1,8 @@
 \beginsong{Touha}[by={Daniel Landa}]
 \beginverse
-\[A]Je to jak nic, to totiž naváží víc
-je to \[E] něco jak dech, jak přání na křídlech
-je to \[F#mi]nemožnej cíl, kterej si \[C#mi]vymyslil.
+\[F]Je to jak nic, to totiž naváží víc
+je to \[C] něco jak dech, jak přání na křídlech
+je to \[Dmi]nemožnej cíl, kterej si \[A]vymyslil.
 \endverse
 \beginverse
 Je to jak sen, co ráno rozpustil den
@@ -10,10 +10,10 @@ nic není dost velkej cíl, aby ses nepokusil
 volej k nebi přání a všechno bude k mání.
 \endverse
 \beginchorus
-\[A]Touha je zázrak, kámo, zázrak.
-\[E]
-\[F#mi]Touha je zázrak, kámo, zázrak.
-\[C#mi]
+Touha je \[F]zázrak, kámo, zázrak.
+\[C]
+Touha je \[Dmi]zázrak, kámo, zázrak.
+\[A]
 \endchorus
 \beginverse
 Je to jak žár, pořádně velikej dar,

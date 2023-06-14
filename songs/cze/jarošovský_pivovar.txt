@@ -1,14 +1,14 @@
 \beginsong{Jarošovský pivovar}[by={Argema}]
 \beginverse
 \[G]Léta tam \[D]stál \[C]stojí tam \[G]dál
-pivovar u \[D]cesty \[C]každý ho znal\[D]
-\[G]Léta tam s\[D]tál \[C]stát bude dál\[G]
-ten kdo zná \[D]Jarošov \[C]zná pi\[D]vovar\[G]
+pivovar \[D]u cesty \[C]každý ho \[D]znal
+\[G]Léta tam s\[D]tál \[C]stát bude \[G]dál
+ten kdo zná \[D]Jarošov \[C]zná pivo\[G]var
 \endverse
 \beginchorus
-\[C]Bíla pě\[D]na\[G]láhev orosená\[Emi]
-\[C]chmelo\[D]vý nektar já znám\[G]
-\[C]jen jsem to \[D]zkusil a \[G]jednou se napil\[Emi]
+\[C]Bíla \[D]pěna lá\[G]hev oro\[Emi]sená
+\[C]chmelový \[D]nektar já \[G]znám
+\[C]jen jsem to \[D]zkusil a \[G]jednou se \[Emi]napil
 \[C]od těch dob \[D]žízeň mám\[G]
 \endchorus
 \beginverse

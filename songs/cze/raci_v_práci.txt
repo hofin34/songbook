@@ -36,4 +36,6 @@ Raci v práci rokujou na hřbetech plotic vyplujou,
    Ří\[A]tí se střemhlav nahoru, kou\[A7]kněte na tu potvoru,
    mám \[D]dojem, že to \[E]dobře neskon\[A]čí.
 \endverse
+
+\rf
 \endsong

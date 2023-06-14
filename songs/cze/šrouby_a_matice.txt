@@ -1,19 +1,19 @@
 \beginsong{Šrouby a matice}[by={Mandrage}]
 \beginverse
-Mezi zemí a \[D] nebem
-A širým \[A] světem
-Je jeden \[Emi] náš
-Tak dobře ho \[G] znáš \[A]
-Mezi nebem a \[D] zemí
-Jsou věci \[A] který
-Moje milá \[Emi]
-Můžu jen \[G] já \[A]
+Mezi zemí a \[A] nebem
+A širým \[E] světem
+Je jeden \[Hmi] náš
+Tak dobře ho \[D] znáš \[E]
+Mezi nebem a \[A] zemí
+Jsou věci \[E] který
+Moje milá \[Hmi]
+Můžu jen \[D] já \[E]
 \endverse
 \beginchorus
-Tahat tě \[D] za vlasy, dýchat ti \[A] do tváře,
-Dělat si \[Emi] nároky na tvoje \[G] polštáře
-Sahat ti \[D] pod sukni, kousat tě \[A] na ruce
-Dělat ti \[Emi] snídani, říkat ti \[G] opice.
+Tahat tě \[A] za vlasy, dýchat ti \[E] do tváře,
+Dělat si \[Hmi] nároky na tvoje \[D] polštáře
+Sahat ti \[A] pod sukni, kousat tě \[E] na ruce
+Dělat ti \[Hmi] snídani, říkat ti \[D] opice.
 \endchorus
 \beginverse
 Mezi světlem a nocí
@@ -36,12 +36,12 @@ Jsme časem kalený šrouby a matice
 \endchorus
 \beginverse* 2x \endverse
 \beginverse
-Vysoko \[D] nad zemí,
-životem \[A] kalený,
-navěky \[Emi] spojení.
-Šrouby a \[G] matice
+Vysoko \[A] nad zemí,
+životem \[E] kalený,
+navěky \[Hmi] spojení.
+Šrouby a \[D] matice
 
-Šrouby a \[D]matice
+Šrouby a \[A]matice
 
 Šrouby a matice
 

@@ -1,30 +1,29 @@
 \beginsong{Pohoda}[by={Kabát}]
 \beginverse
-{\nolyrics Předehra: \[F C G Dmi]}
-\[Ami] Vezmu tě má milá rovnou \[Emi] k nám,
-\[Ami] kolem louky lesy \[Emi] hejna vran,
-\[Ami] všude samá \[G] kráva samej vůl,\[D]
-\[Ami] máme kino, máme \[Emi] hospodu,
-\[Ami] v obci všeobecnou \[Emi] pohodu,
-\[Ami] máme hujer, \[G] žito, chléb i sůl,\[D]
+\[F#mi] Vezmu tě má milá rovnou \[C#mi] k nám,
+\[F#mi] kolem louky lesy \[C#mi] hejna vran,
+\[F#mi] všude samá \[E] kráva samej vůl,\[Hmi]
+\[F#mi] máme kino, máme \[C#mi] hospodu,
+\[F#mi] v obci všeobecnou \[C#mi] pohodu,
+\[F#mi] máme hujer, \[E] žito, chléb i sůl,\[Hmi]
 \endverse
 \beginchorus
-\[F] Když se u nás chlapi \[C] poperou,
-\[G] tak jenom nožem, a nebo \[Dmi] sekerou,
-\[F] V zimě tam dlouhý noci \[C] jsou,
-a tuhej \[Dmi]mráz
-\[F] Jak jsou naše cesty \[C] zavátý,
-tak vezmem \[G] vidle, a nebo \[Dmi] lopaty,
-když něco \[F] nejde, co na tom \[C] sejde,
-my máme \[Dmi]čas
+\[D] Když se u nás chlapi \[A] poperou,
+\[E] tak jenom nožem, a nebo \[Hmi] sekerou,
+\[D] V zimě tam dlouhý noci \[A] jsou,
+a tuhej \[Hmi]mráz
+\[D] Jak jsou naše cesty \[A] zavátý,
+tak vezmem \[E] vidle, a nebo \[Hmi] lopaty,
+když něco \[D] nejde, co na tom \[A] sejde,
+my máme \[Hmi]čas
 \endchorus
 \beginverse
-\[Ami] Chlapi někdy trochu \[Emi] prudký jsou,
-\[Ami]holky s motykama \[Emi] tancujou,
-\[Ami] s ranní rosou \[G] táhnou do polí, \[D]
-\[Ami] nikdo se tam nikam \[Emi] nežene,
-\[Ami] máme traktory a \[Emi]né že né,
-\[Ami] až to spatříš \[G] ledy povolí \[D]
+\[F#mi] Chlapi někdy trochu \[C#mi] prudký jsou,
+\[F#mi]holky s motykama \[C#mi] tancujou,
+\[F#mi] s ranní rosou \[E] táhnou do polí, \[Hmi]
+\[F#mi] nikdo se tam nikam \[C#mi] nežene,
+\[F#mi] máme traktory a \[C#mi]né že né,
+\[F#mi] až to spatříš \[E] ledy povolí \[Hmi]
 \endverse
 \rf
 \beginverse

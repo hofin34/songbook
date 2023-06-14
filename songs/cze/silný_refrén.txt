@@ -1,26 +1,25 @@
  \beginsong{Silný refrén}[by={Horkýže Slíže}]
 \beginverse*
-\textbf{Capo 3}
 \endverse
 \beginverse
-\[A]Máme blbý štart, to neva\[D]dí, 
-   to vôbec neva\[A]dí, to vôbec neva\[D]dí   
-   \[A]na refrén sa čakať opla\[D]tí, 
-   čakať sa opla\[A]tí, čakať sa opla\[D]tí. 
+\[H]Máme blbý štart, to neva\[E]dí, 
+   to vôbec neva\[H]dí, to vôbec neva\[E]dí   
+   \[H]na refrén sa čakať opla\[E]tí, 
+   čakať sa opla\[H]tí, čakať sa opla\[E]tí. 
 \endverse
 \beginverse
-\[A]Ak je refrén zlý, tak treba \[D]si,
-   ho pustiť päť ra\[A]zy, ho pustiť päť ra\[D]zy, 
-   \[A]ja som si ho stokrát už a\[D]si,
-   tak stokrát už a\[A]si,tak stokrát už a\[D]si. 
+\[H]Ak je refrén zlý, tak treba \[E]si,
+   ho pustiť päť ra\[H]zy, ho pustiť päť ra\[E]zy, 
+   \[H]ja som si ho stokrát už a\[E]si,
+   tak stokrát už a\[H]si,tak stokrát už a\[E]si. 
     \endverse
 
 \beginchorus
 
-   /: My máme \[F]silný refrén jak \[Ami]hovädo, 
-      každý ho \[D]hmmká celý deň od rána, 
-      a potom \[F]všetci zblbnutí \[Ami]rad radom, 
-      do kola \[D]naj, naj, na na naj, na na na na na :/
+   /: My máme \[G]silný refrén jak \[Hmi]hovädo, 
+      každý ho \[E]hmmká celý deň od rána, 
+      a potom \[G]všetci zblbnutí \[Hmi]rad radom, 
+      do kola \[E]naj, naj, na na naj, na na na na na :/
   \endchorus
 \beginverse
 Máme slávu, máme vavríny, 
@@ -36,8 +35,7 @@ Máme hity, máme predaje
     \endverse
 \rf
 \beginverse
-{\nolyrics Mezihra:    \[F  Ami  D] 2x}
-/: \[F]uuuuuuuuuu\[Ami]a ou \[D]jeeee :/
+/: \[G]uuuuuuuuuu\[Hmi]a ou \[E]jeeee :/
 \endverse
 \rf
 \endsong

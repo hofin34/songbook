@@ -15,7 +15,6 @@ no jasně že \[F#mi]bolí to, ale \[A]za chvíli \[E]snést se to \[H]dá.
 \rf[2]
 \beginverse*
 Na bo\[Hmi]lest.
-{\nolyrics \[E] \[H] \[F#mi] \[A] \[E] \[H]}
 \endverse
 
 \beginverse

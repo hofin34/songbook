@@ -1,17 +1,17 @@
 \beginsong{Jožin z bažin}[by={Ivan Mládek a Banjo Band}]
 \beginverse
-\[Dmi]Jedu takhle tábořit \[A]Škodou 100 na \[Dmi]Oravu,
-spěchám proto, riskuji, pro\[A]jíždím přes Mo\[Dmi]ravu.
-\[C7]Řádí tam to \[F]strašidlo, \[C7]vystupuje z \[F]ba\[A]žin,
-\[Dmi]žere hlavně Pražáky a \[A]jmenuje se \[Dmi]Jožin.\[C7]
+\[Emi]Jedu takhle tábořit \[H7]Škodou 100 na \[Emi]Oravu,
+spěchám proto, riskuji, pro\[H7]jíždím přes Mo\[Emi]ravu.
+\[D7]Řádí tam to \[G]strašidlo, \[D7]vystupuje z \[G]ba\[H7]žin,
+\[Emi]žere hlavně Pražáky a \[H7]jmenuje se \[Emi]Jožin.\[D7]
 \endverse
 \beginchorus
-\[F]Jožin z bažin močálem se \[C7]plíží,
-Jožin z bažin k vesnici se \[F]blíží,
-Jožin z bažin už si zuby \[C7]brousí,
-Jožin z bažin kouše, saje, \[F]rdousí.
-\[B]Na Jožina z \[F]bažin, \[C]koho by to napa\[F]dlo,
-\[B]platí jen a \[F]pouze \[C]práškovací letadlo.\[F A]
+\[G]Jožin z bažin močálem se \[D7]plíží,
+Jožin z bažin k vesnici se \[G]blíží,
+Jožin z bažin už si zuby \[D7]brousí,
+Jožin z bažin kouše, saje, \[G]rdousí.
+\[C]Na Jožina z \[G]bažin, \[D7]koho by to napa\[G]dlo,
+\[C]platí jen a \[G]pouze \[D7]práškovací letadlo.\[G H7]
 \endchorus
 \beginverse
 Projížděl jsem Moravou směrem na Vizovice,

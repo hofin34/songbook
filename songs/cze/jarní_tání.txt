@@ -8,8 +8,8 @@ Voňavá zem se \[Dmi]sněhem tiše \[C]plíží
 \beginchorus
 Přišel čas \[F]slunce, zrození a \[C]tratí
 na kterejch \[F]potkáš kluky ze všech \[C]stran \[E]
-/:Hubenej \[Ami]Joe, Čára, Ušoun se ti \[Dmi]vrátí
-oživne \[F]kemp, \[E]jaro vítej k \[Ami]nám. \[E]:/
+/: Hubenej \[Ami]Joe, Čára, Ušoun se ti \[Dmi]vrátí
+oživne \[F]kemp, \[E]jaro vítej k \[Ami]nám. :/
 \endchorus
 \beginverse
 Kdo ví jak voní země, když se budí

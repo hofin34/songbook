@@ -1,9 +1,9 @@
 \beginsong{Sáro!}[by={Traband}]
 \beginchorus
-\[Hmi]Sáro,\[F#mi] Sáro, \[G]v noci se mi \[D]zdálo,
-že \[G]tři andělé \[D]Boží k nám \[G]přišli na o\[A]běd.
-\[Hmi]Sáro, \[F#mi]Sáro, \[G]jak moc a nebo \[D]málo
-mi \[G]chybí abych \[D]tvojí duši \[G]mohl rozum\[A]ět.
+\[Ami]Sáro,\[Emi] Sáro, \[F]v noci se mi \[C]zdálo,
+že \[F]tři andělé \[C]Boží k nám \[F]přišli na o\[A]běd.
+\[Ami]Sáro, \[Emi]Sáro, \[F]jak moc a nebo \[C]málo
+mi \[F]chybí abych \[C]tvojí duši \[F]mohl rozum\[A]ět.
 \endchorus
 \beginverse
 Sbor kajícných mnichů jde krajinou v tichu
@@ -40,7 +40,7 @@ a v poledne už možná bude jiný svět
 \endchorus
 \beginchorus
 Sáro, Sáro, vstávej milá Sáro
-andělé k nám přišli \[A]na \[D]oběd
+andělé k nám přišli \[A]na \[C]oběd
 \endchorus
 
 
