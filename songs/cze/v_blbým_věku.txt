@@ -24,52 +24,18 @@ vždyť všechny \[G]mosty vedou \[F]beztak po stý\[G] přes tu stejnou\[Ami] �
 \beginchorus
 Včera mi\[Ami] bylo málo,\[F] dneska je mi\[C] moc,jak se to\[G] stalo, nevím.
 \[Ami]Každopádně\[F] jsem zas v blbým\[G] věku
-a pluju \[Ami]proti proudu \[F]vstříc poslednímu \[C]soudu
-a jsem radši\[G] vám všem\[F] pro smích než a\[G]bych byl sobě\[Ami] k breku.
+a pluju proti \[Ami]proudu vstříc \[F]poslednímu \[C]soudu
+a jsem \[G]radši vám všem\[F] pro smích než a\[G]bych byl sobě\[Ami] k breku.
 \endchorus
-\beginverse*
-\[F]\[G]\[Ami]
-Na na na…
+
+\beginchorus
+\[F]Nana \[G] nana \[Ami]
 Včera mi\[F] bylo málo,\[G] dneska je mi\[Ami] moc. (2x)
-\endverse
+\endchorus
 \beginverse
 Ujel mi vlak před rokem v dubnu, ještě jsem nezmoudřel a už zas blbnu.
 Jak dopustil jsem to, že život protek mi mezi prsty?
 Nevím, věřím, že až se prospím, pochopím, co s tím.
 \endverse
-\beginchorus
-Jó, stále mě to baví, sázet se s osudem, teď mám v kapse jen poslední kilo.
-Stále věřím, že ze mě ještě něco bude, no jo, ale co když už bylo?
-
-Včera mi bylo málo, dneska je mi moc, jak se to stalo, nevím,
-každopádně jsem zas v blbým věku
-a jedu mimo trať a říkám si tak ať,
-vždyť všechny mosty vedou beztak po stý přes tu stejnou řeku.
-
-Včera mi bylo málo, dneska je mi moc,jak se to stalo, nevím.
-Každopádně jsem zas v blbým věku
-a pluju proti proudu vstříc poslednímu soudu
-a jsem radši vám všem pro smích než abych byl sobě k breku.
-\endchorus
-\beginverse*
-\[F]\[G]\[Ami]
-Na na na…
-Včera mi\[F] bylo málo,\[G] dneska je mi\[Ami] moc. (2x)
-\endverse
-\beginchorus
-Včera mi\[Ami] bylo málo,\[F] dneska je mi\[C] moc, jak se to\[G] stalo, nevím,
-\[Ami]každopádně\[F] jsem zas v blbým\[G] věku
-a jedu \[Ami]mimo trať a \[F]říkám si tak \[C]ať,
-vždyť všechny \[G]mosty vedou \[F]beztak po stý\[G] přes tu stejnou\[Ami] řeku.
-
-Včera mi\[Ami] bylo málo,\[F] dneska je mi\[C] moc,jak se to\[G] stalo, nevím.
-\[Ami]Každopádně\[F] jsem zas v blbým\[G] věku
-a pluju \[Ami]proti proudu \[F]vstříc poslednímu \[C]soudu
-a jsem radši\[G] vám všem\[F] pro smích než a\[G]bych byl sobě\[Ami] k breku.
-\endchorus
-\beginverse*
-\[F]\[G]\[Ami]
-Na na na…
-Včera mi\[F] bylo málo,\[G] dneska je mi\[Ami] moc. (2x)
-\endverse
+\rf 2x
 \endsong

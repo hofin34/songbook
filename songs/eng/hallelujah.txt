@@ -1,15 +1,15 @@
 \beginsong{Hallelujah}[by={Leonard Cohen}]
 \beginverse
-I've \[A]heard there was a \[F#mi]secret chord
-That \[A]David played and it \[F#mi]pleased the Lord
-But \[D]you don't really \[E]care for music, do \[A]you? \[E]
-Well, it \[A]goes like this
-The \[D]fourth, the \[E]fifth, the \[F#mi]minor fall, the \[D]major lift
-The \[E]baffled king com\[C#]posing Halle\[F#mi]lujah
+I've \[C]heard there was a \[Ami]secret chord
+That \[C]David played and it \[Ami]pleased the Lord
+But \[F]you don't really \[G]care for music, do \[C]you? \[G]
+Well, it \[C]goes like this
+The \[F]fourth, the \[G]fifth, the \[Ami]minor fall, the \[F]major lift
+The \[G]baffled king com\[E7]posing Halle\[Ami]lujah
 \endverse
 \beginchorus
-Halle\[D]lujah, Halle\[F#mi]lujah
-Halle\[D]lujah, Halle\[A]luuu\[E]uu\[A]jah
+Halle\[F]lujah, Halle\[Ami]lujah
+Halle\[F]lujah, Halle\[C]luuu\[G]uu\[C]jah
 \endchorus
 \beginverse
 Well, your faith was strong but you needed proof

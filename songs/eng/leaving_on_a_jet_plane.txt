@@ -1,19 +1,19 @@
 \beginsong{Leaving On A Jet Plane}[by={Frank Sinatra}]
 \beginverse
-All my \[E]bags are packed, I'm \[A]ready to go
-I'm \[E]standing here out\[A]side the door
-I \[E]hate to wake you \[F#mi]up to say good\[B7]bye
-But the \[E]dawn is breakin', it's \[A]early morn'
-The \[E]taxi's waiting, and he's \[A]blowin' his horn
-\[E]Already I'm so \[F#mi]lonesome, I could \[B7]cry
+All my \[G]bags are packed, I'm \[C]ready to go
+I'm \[G]standing here out\[C]side the door
+I \[G]hate to wake you \[Ami]up to say good\[D7]bye
+But the \[G]dawn is breakin', it's \[C]early morn'
+The \[G]taxi's waiting, and he's \[C]blowin' his horn
+\[G]Already I'm so \[Ami]lonesome, I could \[D7]cry
 \endverse
 \beginchorus
-So \[E]kiss me and \[A]smile for me
-\[E]Tell me that you'll \[A]wait for me
-\[E]Hold me like you'll \[F#mi]never let me \[B7]go
-'Cause \[E]I'm leavin' \[A]on a jet plane
-\[E]I don't know when \[A]I'll be back again
-\[E]Oh, babe, \[F#mi]I hate to \[B7]go.
+So \[G]kiss me and \[C]smile for me
+\[G]Tell me that you'll \[C]wait for me
+\[G]Hold me like you'll \[Ami]never let me \[D7]go
+'Cause \[G]I'm leavin' \[C]on a jet plane
+\[G]I don't know when \[C]I'll be back again
+\[G]Oh, babe, \[Ami]I hate to \[D7]go.
 \endchorus
 \beginverse
 There's so many times I've let you down

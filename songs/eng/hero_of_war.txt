@@ -1,115 +1,115 @@
 \beginsong{Hero Of War}[by={Rise Against}]
 \beginverse
-He said, \[G]“Son,
-Have you see the \[Hmi]world?
-Well, what would you\[C]say
-If I said that you\[G] could?
-Just carry this \[C]gun and you’ll even get\[G]paid.”
-I said, “That sounds pretty \[D]good.”
+He said, \[E]“Son,
+Have you see the \[G#mi]world?
+Well, what would you\[A]say
+If I said that you\[E] could?
+Just carry this \[A]gun and you’ll even get\[E]paid.”
+I said, “That sounds pretty \[H]good.”
 \endverse
 \beginverse
-Black leather \[G]boots
-Spit-shined so \[Hmi]bright
-They cut off my \[C]hair but it looked \[G]alright
-We marched and we \[C]sang
-We all became \[G]friends
-As we learned \[D]how to fight
+Black leather \[E]boots
+Spit-shined so \[G#mi]bright
+They cut off my \[A]hair but it looked \[E]alright
+We marched and we \[A]sang
+We all became \[E]friends
+As we learned \[H]how to fight
 \endverse
 \beginchorus
 
-A hero of \[Em]war
+A hero of \[C#mi]war
 
-Yeah that’s what I’ll \[C]be
+Yeah that’s what I’ll \[A]be
 
-And when I come \[G]home
+And when I come \[E]home
 
-They’ll be damn proud of \[D]me
+They’ll be damn proud of \[H]me
 
-I’ll carry this \[Em]flag
+I’ll carry this \[C#mi]flag
 
-To the grave if I \[C]must
+To the grave if I \[A]must
 
-Because it’s flag that I \[G]love
+Because it’s flag that I \[E]love
 
-And a flag that I \[D]trust
+And a flag that I \[H]trust
 \endchorus
 \beginverse
 
-I kicked in the \[G]door
+I kicked in the \[E]door
 
-I yelled my \[Hmi]commands
+I yelled my \[G#mi]commands
 
-The children, they \[C]cried
+The children, they \[A]cried
 
-But I got my \[G]man
+But I got my \[E]man
 
-We took him \[C]away
+We took him \[A]away
 
-A bag over his \[G]face
+A bag over his \[E]face
 
-From his family and his \[D]friends
+From his family and his \[H]friends
 \endverse
 \beginverse
-They took off his \[G]clothes
+They took off his \[E]clothes
 
-They pissed in his \[Hmi]hands
+They pissed in his \[G#mi]hands
 
-I told them to \[C]stop
+I told them to \[A]stop
 
-But then I joi\[G]ned in
+But then I joi\[E]ned in
 
-We beat him with g\[C]uns
+We beat him with g\[A]uns
 
-And batons not just on\[G]ce
+And batons not just on\[E]ce
 
-But again and ag\[D]ain
+But again and ag\[H]ain
 \endverse
 \rf
 \beginverse
 
-She wal\[G]ked through bullets and h\[Hmi]aze
+She wal\[E]ked through bullets and h\[G#mi]aze
 
-I asked her to s\[C]top
+I asked her to s\[A]top
 
-I begged her to s\[G]tay
+I begged her to s\[E]tay
 
-But she pressed \[C] on
+But she pressed \[A] on
 
-So I lifted my \[G]gun
+So I lifted my \[E]gun
 
-And I fired a\[D]way
+And I fired a\[H]way
 \endverse
 \beginverse
-And the sh\[G]ells jumped through the\[Hmi] smoke
+And the sh\[E]ells jumped through the\[G#mi] smoke
 
-And into the sa\[C]nd
+And into the sa\[A]nd
 
-That the blood now had s\[G]oaked
+That the blood now had s\[E]oaked
 A
-She collapsed with a flag in her \[G]hand
+She collapsed with a flag in her \[E]hand
 
-A flag white as\[D] snow
+A flag white as\[H] snow
 \endverse
 \beginchorus
-A hero of w\[Em]ar
+A hero of w\[C#mi]ar
 
-Is that what they \[C]see
+Is that what they \[A]see
 
-Just medals and sca\[G]rs
+Just medals and sca\[E]rs
 
-So damn proud of\[D] me
+So damn proud of\[H] me
 
 And I brought home that flag
 
-Now it gathers du\[C]st
+Now it gathers du\[A]st
 
-But it’s a flag that I \[G]love
+But it’s a flag that I \[E]love
 
-It’s the only flag I t\[D]rust
+It’s the only flag I t\[H]rust
 \endchorus
 \beginverse*
-\[G]He said, Son, have you seen the \[Hmi]world?
+\[E]He said, Son, have you seen the \[G#mi]world?
 
-Well what would you \[C]say, if I said that you \[G]could?
+Well what would you \[A]say, if I said that you \[E]could?
 \endverse
 \endsong

@@ -1,21 +1,21 @@
 \beginsong{21 Guns}[by={Green Day}]
 \beginverse
-\[Am]Do you \[F]know what's \[C]worth fighting \[G]for,
-\[Am]When it's \[F]not worth \[C]dying for?\[G]
-\[Am]Does it \[F]take your \[C]breath a\[G]way
-And you \[F]feel yourself suffo\[G]cating?
-\[Am]Does the \[F]pain weigh \[C]out the \[G]pride?
-\[Am]And you \[F]look for a \[C]place to \[G]hide?
-\[Am]Did someone \[F]break your \[C]heart in\[G]side?
-You're in \[F]ruins
+\[Dm]Do you \[B]know what's \[F]worth fighting \[C]for,
+\[Dm]When it's \[B]not worth \[F]dying for?\[C]
+\[Dm]Does it \[B]take your \[F]breath a\[C]way
+And you \[B]feel yourself suffo\[C]cating?
+\[Dm]Does the \[B]pain weigh \[F]out the \[C]pride?
+\[Dm]And you \[B]look for a \[F]place to \[C]hide?
+\[Dm]Did someone \[B]break your \[F]heart in\[C]side?
+You're in \[B]ruins
 \endverse
 \beginchorus
-\[C]One, \[G]twenty-one \[Am]guns
-\[G]Lay down your \[F]arms
-\[C]Give up the \[G]fight
-\[C]One, \[G]twenty-one \[Am]guns
-\[G]Throw up your \[F]arms \[C]into the \[G]sky,
-You and \[F]I\[C]\[G]
+\[F]One, \[C]twenty-one \[Dm]guns
+\[C]Lay down your \[B]arms
+\[F]Give up the \[C]fight
+\[F]One, \[C]twenty-one \[Dm]guns
+\[C]Throw up your \[B]arms \[F]into the \[C]sky,
+You and \[B]I\[F]\[C]
 \endchorus
 \beginverse
 When you're at the end of the road
@@ -29,12 +29,12 @@ You're in ruins
 \endverse
 \rf
 \beginverse
-\[Am]Did you \[F]try to \[C]live on your own\[G]
-\[Am]When you \[F]burned down the \[C]house and \[E]home?
-\[Am]Did you \[F]stand too \[C]close to the \[E]fire?
-Like a \[F]liar looking for for\[G]giveness from a \[C]stone
-{\nolyrics Mezihra: \[C]\[G]\[Am]\[G]\[F]\[C]\[G]
-\[F]\[C]\[E]}
+\[Dm]Did you \[B]try to \[F]live on your own\[C]
+\[Dm]When you \[B]burned down the \[F]house and \[A]home?
+\[Dm]Did you \[B]stand too \[F]close to the \[A]fire?
+Like a \[B]liar looking for for\[C]giveness from a \[F]stone
+{\nolyrics Mezihra: \[F]\[C]\[Dm]\[C]\[B]\[F]\[C]
+\[B]\[F]\[A]}
 \endverse
 
 \beginverse

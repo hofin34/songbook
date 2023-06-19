@@ -1,21 +1,21 @@
 \beginsong{Veď mě dál, cesto má}[by={Pavel Bobek}]
 \beginverse
-\[C]Někde v dálce \[Ami]cesty končí,
+\[G]Někde v dálce \[Emi]cesty končí,
 
-\[G]každá prý však \[F]cíl svůj \[C]skrývá
+\[D]každá prý však \[C]cíl svůj \[G]skrývá
 
-Někde v dálce \[Ami]každá má svůj cíl
+Někde v dálce \[Emi]každá má svůj cíl
 
-\[G]ať je pár chvil dlouhá \[F]nebo tisic \[C]mil
+\[D]ať je pár chvil dlouhá \[C]nebo tisic \[G]mil
 \endverse
 \beginchorus
-Veď mě \[C]dál, cesto \[G]má,
+Veď mě \[G]dál, cesto \[D]má,
 
-veď mě \[Ami]dál, vždyť i \[F]já
+veď mě \[Emi]dál, vždyť i \[C]já
 
-Tam kde \[C]končíš, chtěl bych \[G]dojít
+Tam kde \[G]končíš, chtěl bych \[D]dojít
 
-Veď mě \[F]dál, cesto \[C]má
+Veď mě \[C]dál, cesto \[G]má
 \endchorus
 \beginverse
 
@@ -29,17 +29,17 @@ Plná žáru bývá, hned zas samý chlad
 \endverse
 \rf
 \beginverse
-\[Ami]Pak na \[G]patník \[C]poslední
+\[Emi]Pak na \[D]patník \[G]poslední
 
-napíšu křídou \[F]jméno své
+napíšu křídou \[C]jméno své
 
-A pod \[C]něj, že jsem \[G]žil \[C]hrozně \[G]rád
+A pod \[G]něj, že jsem \[D]žil \[G]hrozně \[D]rád
 
-\[Ami]Písně své, co mi \[B]v kapsách zbydou
+\[Emi]Písně své, co mi \[F]v kapsách zbydou
 
-\[F]Dám si bandou \[C]cvrčků hrát
+\[C]Dám si bandou \[G]cvrčků hrát
 
-A \[G]půjdu spát, půjdu \[G7]spát
+A \[D]půjdu spát, půjdu \[D7]spát
 \endverse
 \rf
 \endsong

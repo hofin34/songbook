@@ -1,0 +1,35 @@
+\beginsong{Budu ti vyprávět (Evo...)}[by={Michal Hrůza}]
+\gtab{Gmaj7}{320002}
+\beginverse
+Náš \[D]svět promění se \[F#mi]hned,
+když zavřeš oči budu \[Hmi]vyprávět,
+o tom jak nekonečné \[D7]jsou,
+hvězdy co lidem plují \[G]nad hlavou.
+\endverse
+\beginverse*
+Co \[D]teď možná jsme spolu napo\[F#mi]sled.
+Sladká jsou slova jako \[Hmi]med...
+O tom že spolu budem \[D7]dál,
+to bych si vlastně hrozně \[G]přál,
+......\[Gmaj7]to bych si vlastně hrozně \[Em]přál.\[A7]....
+\endverse
+\beginchorus
+Óóóó \[D]Evo..\[F#]..
+nebudu ti \[Hmi]lhát,\[G]
+můžeš se mi \[D]smát o-o-\[F#]o-óu..
+asi Tě mám \[H]rááááá\[A]ád
+\endchorus
+\beginverse
+A hned na všechno najdem odpověď
+co bude zítra za pár let
+za obzor slunce zapadá
+na dobrou noc svým věrným zamává 
+\endverse
+\beginverse*
+Co teď Tvůj úsměv znám už nazpaměť
+vstupenka pro nebeský let
+o tom že spolu budem dál
+to bych si vlastně hrozně přál
+to bych si vlastně hrozně přál
+\endverse
+\endsong

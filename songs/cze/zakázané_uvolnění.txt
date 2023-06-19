@@ -1,15 +1,12 @@
 \beginsong{Zakázané uvolnění}[by={Michal Hrůza}]
-\beginverse*
-e-----------------------------------------------
-H--7--5-7-----7--5-7-----7--5-7--8--------5--7--
-G----------6----------7-------------4--7--------
-\endverse
 
 \beginverse
 \[D]Někdy je to \[F#]tak a nezmůžeš s tím \[Hmi]nic,
 můžeš se jen \[G]smát ze svých plných \[D]plic.
 Chceš to přivolat a chceš to čím dál víc,
 stačí poslouchat, co se snažím říct.
+\endverse
+\beginverse*
 Můžeš tady stát, všemu vzdorovat,
 udělat to pak,tak jak to máš rád.
 Nebudem se prát, nemusíš mít strach,

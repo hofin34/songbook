@@ -1,18 +1,18 @@
 \beginsong{I'm a Believer}[by={The Monkees}]
 \beginverse
-\[D]I thought love was \[A]only true in \[D]fairy tales
-\[D]Meant for someone \[A]else but not for \[D]me
-Ah, \[C]love was out to \[D]get to me
-\[C]That's the way it \[D]seemed
-\[C]Disappointment \[D]haunted all my \[A]dreams
+\[G]I thought love was \[D]only true in \[G]fairy tales
+\[G]Meant for someone \[D]else but not for \[G]me
+Ah, \[C]love was out to \[G]get to me
+\[C]That's the way it \[G]seemed
+\[C]Disappointment \[G]haunted all my \[D]dreams
 \endverse
 \beginchorus
-Then I saw her \[D]fac\[G, D]e
-Now I'm a be\[D]liever\[G, D]
-Not a tr\[D]ace\[G, D]
-Of doubt in my \[D]mind\[G D]
-I'm in l\[D]ove \[G]ooh
-I'm a be\[D]liever I couldn't \[C]leave her if I \[A]tried
+Then I saw her \[G]fac\[C, G]e
+Now I'm a be\[G]liever\[C, G]
+Not a tr\[G]ace\[C, G]
+Of doubt in my \[G]mind\[C G]
+I'm in l\[G]ove \[C]ooh
+I'm a be\[G]liever I couldn't \[F]leave her if I \[D]tried
 \endchorus
 \beginverse
 I thought love was more or less a givin' thing
@@ -23,9 +23,9 @@ When I needed sunshine I got rain
 \endverse
 \rf
 \beginverse
-\[G]Love was out to \[D]get to me
-\[G]Now, that's the way it \[D]seemed
-\[G]Disappointment \[D]haunted all my \[A]dreams
+\[C]Love was out to \[G]get to me
+\[C]Now, that's the way it \[G]seemed
+\[C]Disappointment \[G]haunted all my \[D]dreams
 \endverse
 \rf
 
