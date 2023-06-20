@@ -159,95 +159,6 @@ nového z mojí helmy..
 
 %{\nolyrics \[C[ \[F] \[C] \[Ami] \[F] \[G] \[C]}
 \endsong
-\beginsong{Babička Mary}[by={Ježek, Voskovec, Werich}]
-\beginverse
-\[Dmi]Štěchovická laguna když dřímá
-v zadumaném stínu Kordylér,
-\[Gmi]pirát zkrva\[Dmi]venou šerpu ždímá,
-\[E7]kapitán pucuje re\[A]volver.
-
-\[Dmi]Pikovická rýžoviště zlata
-čeří se v příboji Sázavy,
-\[Gmi]ale za to \[Dmi]krčmářova chata
-\[Gmi]křepčí rykem \[A7]chlapské zá\[Dmi]bavy.
-\endverse
-\beginverse
-\[C]Když tu náhle, co se \[F]děje,
-\[C]divný šelest houštím \[F]spěje,
-\[C]plch, skunk, \[F]vše utíká
-\[Bb]po stráni od Medni\[E]ka.
-\[Dmi]Krčmář zhasne, kovbojové ztichnou,
-zděšen pirát tvář si zakryje.
-\[Gmi]Rudé squaw se \[Dmi]chvějí a pak vzdychnou,
-\[E7]blíží se k nám postrach préri\[A7]e.
-A kdo to \[C7]je?
-\endverse
-\beginchorus
-\[F]Mary, babička \[G7]Mary,
-dva \[C7]kolťáky za pasem,
-nad hlavou \[F]točí lasem.
-Stoletá Mary, babička \[G7]Mary,
-ta zkrotí \[C7]křepce hřebce,
-ať chce, či ne\[F]chce.\[A7]
-\endchorus
-\beginverse
-Žádné zuby, z jelenice sukně,
-ale za to tvrdé bicepsy,
-Mary má vždy slivovici v putně,
-Toma Mixe strčí do kapsy.
-
-Klika cvakla, v krčmě dveře letí
-a babička vchází do dveří,
-"Pintu ginu, lumpové prokletí!"
-bezzubou dásní zaláteří.
-\endverse
-\beginverse
-Vypiju to jen ve stoje,
-jdu do volebního boje,
-zřím zas město drahý,
-jedu volit do Prahy.
-
-Dopila a aby se neřeklo,
-putykáře změní v mrtvolu,
-za zády má štěchovické peklo
-s šlajsnou svatojánských atolů.
-\endverse
-\beginchorus
-Mary, babička Mary,
-pádluje bez námahy
-po proudu až do Prahy.
-Stoletá Mary, babička Mary
-jde do volebního boje za kovboje.
-\endchorus
-\beginverse
-Ledva v Praze kotvu vyhodila,
-pro babičku nastal hrozný čas,
-neboť hned každá strana tvrdila,
-že jí náleží babiččin hlas.
-Malá stejně jako velká strana
-psala, že bude mít o hlas víc,
-že ta druhá strana je nahraná,
-oni že maj hlas ze Štěchovic.
-\endverse
-\beginverse
-Stoletý věk prý nevadí,
-na předáka je to mládí,
-ze všech nejvíce,
-volala ji Polnice.
-
-Tak babičku, pro kterou vždy byla
-válka s lidojedy legrace,
-tu babičku za pár dní zabila
-volébní agitace.
-\endverse
-\beginchorus
-Mary, bojovná Mary,
-už nesedává v sedle,
-ve volbách byla vedle.
-Stoletou Mary, babičku Mary
-volbama zabitou vzal k sobě Manitou.
-\endchorus
-\endsong
  \beginsong{Bára}[by={Kabát}]
 
 \beginverse*
@@ -689,7 +600,52 @@ Tak se mi \[B]zdá…
 na lodě \[Es]za tebou.
 \endverse
 \endsong
-\beginsong{Černý brejle}[by={Ready Kirken}]
+\beginsong{Buvol}[by={Vypsaná Fixa}]
+\beginverse
+\[Ami]Holky maj kalhoty a \[Emi]kluci šaty,
+\[G]je jarní \[D]den.
+Do školy jdou a mají na paměti,
+že se rozhlídnem.
+Na přechodu anebo jen tak kolem
+dychtivě víš,
+jen náhlý výbuch bomby atomový
+tě může zastavit.
+\endverse
+
+\beginchorus
+A to je \[Ami]důvod velkej jak \[Emi]buvol,
+\[G]všichni prahnem \[D]po naději.
+A to je \[C]důvod velkej jak \[G]buvol
+na Highway to \[D]Hell.
+\endchorus
+\beginverse
+Holky maj kapuci a kluci rtěnky,
+parfém i fén,
+a žlutej pyl dopadá na kapoty
+aut v zácpě jen.
+A všichni řidiči, kteří v nich sedí,
+slyší ten smích,
+jen náhlá změna světel
+za displejem
+to může zastavit.
+\endverse
+
+\rf[2]
+
+\beginverse
+\[Ami]Cesta vede z jihu na \[Emi]sever
+a vyslanci z \[G]nebe
+nade mnou \[D]stále bdí.
+\[C]Nakonec přiletíme, \[G]říka\[D]jí
+\[Ami]Cesta vede z jihu na \[Emi]sever
+a vyslanci z \[G]nebe
+nade mnou \[D]stále bdí.
+\[C]Nakonec přiletíme, \[G]říka\[D]jí
+\endverse
+
+\rf
+
+\endsong\beginsong{Černý brejle}[by={Ready Kirken}]
 \beginverse
 Nosím černý \[D]brejle,
 protože mi \[F#mi]nejde
@@ -796,7 +752,57 @@ A vlastně už ze zvyku
 \endchorus
 
 \endsong
-\beginsong{Co bylo dál?}[by={Jelen, Jana Kirschner}]
+\beginsong{Čmelák}[by={Divokej Bill}]
+
+\beginverse
+\[D]Žiju si jako v pohád\[A]ce
+\[G]když nechci nejdu do prá\[D]ce
+venku se pasou ov\[A]ce
+\[G]dělá si každá co \[D]chce
+Pošeptáš mi co Tě lá\[A]ká
+\[G]a to je pro čmelá\[D]ka
+co broukal si v klidu svůj \[A]part
+najednou \[G]malá louka a\[D]
+Start  \[A]  \[G]  \[D]
+\endverse
+
+\beginverse
+Tak žijem jako v pohádce
+když nechcem nejdem do práce, a to nechcem nikdy
+venku se pasou krávy
+šeptáš co Tě láká
+a to je pro čmeláka
+co broukal v klidu svůj part
+ malá louka a
+
+\[D]Start,\[A] 
+\endverse
+
+\beginchorus
+\[G]pro všechny první tří\[D]du START \[A]
+\[G]pro všechny první tří\[D]du
+Ať se \[G]propadnu \[A]jestli, \[D]
+\[Hm]nemám prav\[G]du tak dám \[A]fant,
+\[D]slunce Ti \[Hm]pihy na\[G] tváře \[A]kreslí a co \[D]já ?
+\[Hm]Já nic, \[G]já muzi\[A]kant.
+\endchorus
+
+\beginverse
+
+Poslední dobou v lese,
+nikdo neví kde jsem,
+venku se pasou kozy,
+dělá si taky každá co chce.
+Pošeptáš mi co Tě láká,
+a to je pro čmeláka,
+co broukal si v klidu svůj part,
+najednou malá louka a start,
+
+\endverse
+
+\rf
+
+\endsong\beginsong{Co bylo dál?}[by={Jelen, Jana Kirschner}]
 \beginverse
 Někdy si \[Am]říkám, jestli ještě znáš mý \[Dm]jméno,
 a jak \[G]často na mě myslíš, když jdeš \[C]spát.
@@ -901,7 +907,73 @@ Takhle \[G7]Goliáš ho \[E7]provokuje, \[Dmi7]David slušně \[G7]salutuje.
 \[C]A jakej byl \[D7]Go - \[G7]li - \[C]áš.
 \endverse
 \endsong
-\beginsong{Dezolát}[by={Vypsaná Fixa}]
+\beginsong{Detaily}[by={Vypsaná Fixa}]
+\beginverse
+\[Hmi]Město je horký, srpnový,
+\[G]že v srdci taje to takový
+\[D]nejvíc a nejhůř studený \[A]místo.
+\[Hmi]Spící sopky se probudí,
+\[G]byl dlouho pryč, kolem a v okolí.
+\[D]Teď toužil a chtěl cítit \[A]blízkost.
+\endverse
+
+\beginverse*
+Čau, mami! Tak jsem tady zas.
+Jsem agent Cooper – dám si koláč.
+Hážu kříž na zem – hlavu mám nízko.
+\endverse
+
+\beginchorus
+Mezi ním mezi ní byly detaily
+a kusy rodiny, který se rozpadly.
+Byl to šílenej horor – řev a taky vřískot.
+Mezi ním mezi ní byly detaily
+a kusy koláče, který dopadly
+na ubrus a na zem, ale na stole bylo čisto.
+\endchorus
+
+\beginverse
+Noci jsou vlahý a takový,
+že srdce buší hladový,
+cítíš to v sobě a víš to.
+Hrdinové nekecaj a jdou
+tam, kam nechce vůbec nikdo –
+na nejvíc a nejhůř studený místo.
+\endverse
+
+\beginverse*
+Čau, lidi! Tak jsem tady zas.
+Jsem agent Cooper a jdu po vás.
+Prostě to najdu – už jsem blízko.
+\endverse
+
+\beginchorus
+Mezi ním mezi ní byly detaily
+a kusy líčidel, který dopadly
+na ubrus a na zem, ale po pláči bylo čisto.
+\endchorus
+
+\beginverse*
+\[Hmi]Bo\[G]lí to \[D]dlouho\[A],
+bolí to dál.
+Bolí to dlouho.
+\[Hmi]Vzal \[G]za tu \[D]zata\[A]ženou \[Hmi]role\[G]tu
+a \[Hmi]vstal. 
+\endverse
+
+
+\rf
+
+
+\beginverse*
+Hrdinové nekecaj a jdou do tmy.
+Hrdinové nekecaj a jdou tam, kam nechce nikdo.
+\endverse
+
+\rf
+
+
+\endsong\beginsong{Dezolát}[by={Vypsaná Fixa}]
 \beginverse
 \[Emi] Ty jsi pěkný \[C] dezolát
 \[D] řekla ''Halí \[A] belí'' a byla to \[Emi] pohoda
@@ -1568,6 +1640,66 @@ a pro ty co kolem chodí na tu větev zavěsí.
 \endverse
 \rf
 \endsong
+\beginsong{Hvězdář}[by={UDG}]
+
+
+\beginverse
+Ztrácíš se \[D]před očima, rosteš jen \[A]ve vlastním stínu.
+Každá \[G]další vina, odkrývá mojí vinu.
+Ztrácíš se před očima, rosteš jen ve vlastním stínu.
+Každá další vina odkrývá mojí vinu.
+\endverse
+
+\beginverse*
+Ve vínu \[D]dávno nic nehle\[A]dám, (dávno nic) nehle\[G]dám.
+Ve vínu dávno nic nehledám, (dávno nic) nehledám.
+\endverse
+
+\beginchorus
+Jak luna \[D]mizí s nocí v bělostných \[A]šatech pro nemocné,
+prosit je \[G]zvláštní pocit, jen ať je den noc ne.
+Jak luna mizí s nocí v milostných šatech pro nemocné,
+prosit je zvláštní pocit, jen ať je den noc ne.
+\endchorus
+
+\beginverse*
+
+Od proseb dávno nic nečekám (dávno nic) nečekám.
+Od proseb dávno nic nečekám (dávno nic) nečekám.
+
+\endverse
+
+
+\beginverse
+Na chodbách v bludných kruzích zářivka vyhasíná,
+já ti do infuzí chci přilít trochu vína.
+Na nebi jiných sluncí, jak se tam asi cítíš,
+s nebeskou interpunkcí, jiným tulákům svítíš.
+\endverse
+
+\beginverse*
+Ve vínu dávno nic nehledám (dávno nic) nehledám.
+Ve vínu dávno nic nehledám (dávno nic) nehledám.
+\endverse
+
+\rf
+
+\beginchorus
+Obzor ne klesne níž, je ráno a ty spíš.
+Od vlků odraná hvězdáře Jordána.
+Obzor ne klesne níž, je ráno a ty spíš.
+Od vlků odraná hvězdáře Jordána.
+Obzor ne klesne níž, je ráno a ty spíš.
+Od vlků odraná hvězdáře Giordána.
+\endchorus
+
+\endsong
+
+
+
+
+
+
 \beginsong{Jahody mražený}[by={Jiří Schelinger}]
 \beginverse
 \[A]Poslala mě moje dívka \[D]pro jahody červe\[A]ný,
@@ -2335,6 +2467,60 @@ s \[G] nakloněnou \[Ami]hlavou
 \[F]prsa nebo \[C]znak
 \[G]ano je to \[Ami]tak
 \endchorus
+\endsong
+\beginsong{Kurtizána}[by={UDG}]
+
+\beginverse
+\[Em]Jsi jenom člověk,
+co se naro\[C]dí
+v těle, kde tě\[D]lo duši ruší.
+Něco si vezme, něco zahodí
+jen tak jak jeho srdce buší.
+\endverse
+
+\beginverse*
+\[Em]Nemám tě \[C]znát,
+nemám mít \[D]rád,
+nehledat v kapce vína.
+Nemám tě znát,
+nemám mít rád
+barbína, balerína.
+\endverse
+
+\beginverse
+Za oknem prší, běží Magion,
+oči jsou pusté kurty z rána.
+Lampa je nejkrásnější lampion
+a ty jsi bílá, černá vrána.
+\endverse
+
+\beginchorus
+Říkaj, že neni žádná Marion,
+že není ctnostná kurtizána,
+že jsou jen stíny, ona a on,
+že jsou jen noci a rána.
+\endchorus
+
+\beginverse
+Jsem jenom člověk, co se narodí
+v těle kde tělo duši ruší.
+A každá rána ta se zahojí
+a každé ráno ti to sluší
+\endverse
+
+\beginverse
+
+Nemám tě znát
+nemám mít rád,
+až město pozhasíná.
+Nemám tě znát,
+nemám mít rád
+sejdem se u kasína.
+\endverse
+
+\rf
+
+
 \endsong
  \beginsong{Láďa}[by={Kabát}]
 \beginverse
@@ -3212,7 +3398,71 @@ je zlej co když se \[Ami]nevrátí
 :/ (2x)
 \endverse
 \endsong
-\beginsong{Pohoda}[by={Kabát}]
+\beginsong{Pocity}[by={Tomáš Klus}]
+\beginverse
+\[G]Z posledních pocitů\[D]
+\[Emi]poskládám ještě jednou \[C]úžasnou chvíli
+\[G]Je to tím, že jsi \[D]tu,
+\[Emi]možná tím, že \[C]kdysi jsme byly Ty a \[G]já,
+my dva, dvě \[D]nahý těla,
+\[Emi]Tak neříkej, že \[C]jinak si to chtěla,
+\[G]tak neříkej
+\[D]Neříkej, \[Emi]neříkej mi \[C]nic
+
+\endverse
+
+\beginverse*
+Stala ses do noci
+z ničeho nic moje platonická láska
+unaven, bezmocný,
+usínám vedle Tebe, něco ve mně praská
+
+A ranní probuzení
+a slova o štěstí, neboj se to nic není
+Pohled na okouzlení,
+a prázdný náměstí na znamení,
+
+\endverse
+
+\beginchorus
+
+\[G]Jenže Ty neslyšíš\[D],
+jenže Ty \[Emi]neposloucháš,\[C]
+snad ani \[G]nevidíš,
+\[D]nebo spíš \[Emi]nechceš vidět\[C]
+a druhejm \[G]závidíš
+\[D]a v očích \[Emi]kapky slaný vody \[C]
+zkus změnu, \[G]uvidíš \[D]
+a \[Emi]vítej do \[C]svobody
+
+\endchorus
+
+\beginverse
+Jsi anděl, netušíš,
+Anděl co ze strachu mu utrhly křídla
+A až to ucítíš, zkus kašlat na pravidla
+
+Říkej si vo mě co chceš,
+já jsem byl vodjakživa blázen
+Nevim co nechápeš,
+ale vrať se na zem
+
+\endverse
+
+\rf
+
+\beginverse
+Jsi anděl, netušíš,
+Anděl co ze strachu mu utrhly křídla
+A až to ucítíš, zkus kašlat na pravidla
+\endverse
+
+\rf
+
+
+
+
+\endsong\beginsong{Pohoda}[by={Kabát}]
 \beginverse
 \[F#mi] Vezmu tě má milá rovnou \[C#mi] k nám,
 \[F#mi] kolem louky lesy \[C#mi] hejna vran,

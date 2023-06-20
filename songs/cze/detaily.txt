@@ -1,0 +1,67 @@
+\beginsong{Detaily}[by={Vypsaná Fixa}]
+\beginverse
+\[Hmi]Město je horký, srpnový,
+\[G]že v srdci taje to takový
+\[D]nejvíc a nejhůř studený \[A]místo.
+\[Hmi]Spící sopky se probudí,
+\[G]byl dlouho pryč, kolem a v okolí.
+\[D]Teď toužil a chtěl cítit \[A]blízkost.
+\endverse
+
+\beginverse*
+Čau, mami! Tak jsem tady zas.
+Jsem agent Cooper – dám si koláč.
+Hážu kříž na zem – hlavu mám nízko.
+\endverse
+
+\beginchorus
+Mezi ním mezi ní byly detaily
+a kusy rodiny, který se rozpadly.
+Byl to šílenej horor – řev a taky vřískot.
+Mezi ním mezi ní byly detaily
+a kusy koláče, který dopadly
+na ubrus a na zem, ale na stole bylo čisto.
+\endchorus
+
+\beginverse
+Noci jsou vlahý a takový,
+že srdce buší hladový,
+cítíš to v sobě a víš to.
+Hrdinové nekecaj a jdou
+tam, kam nechce vůbec nikdo –
+na nejvíc a nejhůř studený místo.
+\endverse
+
+\beginverse*
+Čau, lidi! Tak jsem tady zas.
+Jsem agent Cooper a jdu po vás.
+Prostě to najdu – už jsem blízko.
+\endverse
+
+\beginchorus
+Mezi ním mezi ní byly detaily
+a kusy líčidel, který dopadly
+na ubrus a na zem, ale po pláči bylo čisto.
+\endchorus
+
+\beginverse*
+\[Hmi]Bo\[G]lí to \[D]dlouho\[A],
+bolí to dál.
+Bolí to dlouho.
+\[Hmi]Vzal \[G]za tu \[D]zata\[A]ženou \[Hmi]role\[G]tu
+a \[Hmi]vstal. 
+\endverse
+
+
+\rf
+
+
+\beginverse*
+Hrdinové nekecaj a jdou do tmy.
+Hrdinové nekecaj a jdou tam, kam nechce nikdo.
+\endverse
+
+\rf
+
+
+\endsong

@@ -1,0 +1,46 @@
+\beginsong{Buvol}[by={Vypsaná Fixa}]
+\beginverse
+\[Ami]Holky maj kalhoty a \[Emi]kluci šaty,
+\[G]je jarní \[D]den.
+Do školy jdou a mají na paměti,
+že se rozhlídnem.
+Na přechodu anebo jen tak kolem
+dychtivě víš,
+jen náhlý výbuch bomby atomový
+tě může zastavit.
+\endverse
+
+\beginchorus
+A to je \[Ami]důvod velkej jak \[Emi]buvol,
+\[G]všichni prahnem \[D]po naději.
+A to je \[C]důvod velkej jak \[G]buvol
+na Highway to \[D]Hell.
+\endchorus
+\beginverse
+Holky maj kapuci a kluci rtěnky,
+parfém i fén,
+a žlutej pyl dopadá na kapoty
+aut v zácpě jen.
+A všichni řidiči, kteří v nich sedí,
+slyší ten smích,
+jen náhlá změna světel
+za displejem
+to může zastavit.
+\endverse
+
+\rf[2]
+
+\beginverse
+\[Ami]Cesta vede z jihu na \[Emi]sever
+a vyslanci z \[G]nebe
+nade mnou \[D]stále bdí.
+\[C]Nakonec přiletíme, \[G]říka\[D]jí
+\[Ami]Cesta vede z jihu na \[Emi]sever
+a vyslanci z \[G]nebe
+nade mnou \[D]stále bdí.
+\[C]Nakonec přiletíme, \[G]říka\[D]jí
+\endverse
+
+\rf
+
+\endsong

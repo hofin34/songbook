@@ -1,0 +1,51 @@
+\beginsong{Čmelák}[by={Divokej Bill}]
+
+\beginverse
+\[D]Žiju si jako v pohád\[A]ce
+\[G]když nechci nejdu do prá\[D]ce
+venku se pasou ov\[A]ce
+\[G]dělá si každá co \[D]chce
+Pošeptáš mi co Tě lá\[A]ká
+\[G]a to je pro čmelá\[D]ka
+co broukal si v klidu svůj \[A]part
+najednou \[G]malá louka a\[D]
+Start  \[A]  \[G]  \[D]
+\endverse
+
+\beginverse
+Tak žijem jako v pohádce
+když nechcem nejdem do práce, a to nechcem nikdy
+venku se pasou krávy
+šeptáš co Tě láká
+a to je pro čmeláka
+co broukal v klidu svůj part
+ malá louka a
+
+\[D]Start,\[A] 
+\endverse
+
+\beginchorus
+\[G]pro všechny první tří\[D]du START \[A]
+\[G]pro všechny první tří\[D]du
+Ať se \[G]propadnu \[A]jestli, \[D]
+\[Hm]nemám prav\[G]du tak dám \[A]fant,
+\[D]slunce Ti \[Hm]pihy na\[G] tváře \[A]kreslí a co \[D]já ?
+\[Hm]Já nic, \[G]já muzi\[A]kant.
+\endchorus
+
+\beginverse
+
+Poslední dobou v lese,
+nikdo neví kde jsem,
+venku se pasou kozy,
+dělá si taky každá co chce.
+Pošeptáš mi co Tě láká,
+a to je pro čmeláka,
+co broukal si v klidu svůj part,
+najednou malá louka a start,
+
+\endverse
+
+\rf
+
+\endsong

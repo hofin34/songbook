@@ -1,10 +1,10 @@
 \beginsong{The Sound of Silence}[by={Simon and Garfunkel}]
 \beginverse
 H\[Ami]ello darkness my old fri\[G]end, I've come to talk with you ag\[Ami]ain.
-Because a vi\[C]sion softl\[F]y creep\[C]ing left it's seed while I w\[F]as
+Because a \[C]vision softly \[F]creep\[C]ing left it's seed while I w\[F]as
 sleep\[C]ing,
-And the vis\[F]ion that was planted in my br\[C]ain still rem\[Ami]ains
-Wit\[C]hin the s\[G]ounds of si\[Ami]lence.
+And the \[F]vision that was planted in my br\[C]ain still rem\[Ami]ains
+\[C]Within the s\[G]ounds of si\[Ami]lence.
 \endverse
 \beginverse
 \[Ami]In restless dreams I walked al\[G]one, narrow streets of cobble st\[Ami]one.

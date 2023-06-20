@@ -1,0 +1,60 @@
+\beginsong{Hvězdář}[by={UDG}]
+
+
+\beginverse
+Ztrácíš se \[D]před očima, rosteš jen \[A]ve vlastním stínu.
+Každá \[G]další vina, odkrývá mojí vinu.
+Ztrácíš se před očima, rosteš jen ve vlastním stínu.
+Každá další vina odkrývá mojí vinu.
+\endverse
+
+\beginverse*
+Ve vínu \[D]dávno nic nehle\[A]dám, (dávno nic) nehle\[G]dám.
+Ve vínu dávno nic nehledám, (dávno nic) nehledám.
+\endverse
+
+\beginchorus
+Jak luna \[D]mizí s nocí v bělostných \[A]šatech pro nemocné,
+prosit je \[G]zvláštní pocit, jen ať je den noc ne.
+Jak luna mizí s nocí v milostných šatech pro nemocné,
+prosit je zvláštní pocit, jen ať je den noc ne.
+\endchorus
+
+\beginverse*
+
+Od proseb dávno nic nečekám (dávno nic) nečekám.
+Od proseb dávno nic nečekám (dávno nic) nečekám.
+
+\endverse
+
+
+\beginverse
+Na chodbách v bludných kruzích zářivka vyhasíná,
+já ti do infuzí chci přilít trochu vína.
+Na nebi jiných sluncí, jak se tam asi cítíš,
+s nebeskou interpunkcí, jiným tulákům svítíš.
+\endverse
+
+\beginverse*
+Ve vínu dávno nic nehledám (dávno nic) nehledám.
+Ve vínu dávno nic nehledám (dávno nic) nehledám.
+\endverse
+
+\rf
+
+\beginchorus
+Obzor ne klesne níž, je ráno a ty spíš.
+Od vlků odraná hvězdáře Jordána.
+Obzor ne klesne níž, je ráno a ty spíš.
+Od vlků odraná hvězdáře Jordána.
+Obzor ne klesne níž, je ráno a ty spíš.
+Od vlků odraná hvězdáře Giordána.
+\endchorus
+
+\endsong
+
+
+
+
+
+

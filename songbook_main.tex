@@ -1,20 +1,23 @@
 \documentclass[letterpaper]{article}
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage[unicode]{hyperref} % na začátku bylo místo unicode bookmark
+\usepackage[unicode]{hyperref} 
 \usepackage[chorded]{songs}
 \usepackage{geometry}
 \usepackage{float}
 
 
 
-% Pokud je \rf[čislo], tak se opakuje číslokrát, jinak jednou.
+% If there is \rf[number], then is repeated number times.
 \newcommand\rf[1][\relax]{\ifx\relax#1 
 	\beginverse* \textbf{Ref.}\\ \endverse 
 	\else 
 		\beginverse* \textbf{Ref.} \rep{#1}\\ \endverse 
 \fi}
 
+
+\renewcommand{\lyricfont}{\sffamily\LARGE}
+\renewcommand{\printchord}[1]{\rmfamily\Large#1}
 
 % \includeonlysongs{2}
 \setlength\baselineadj{-\baselineskip}
@@ -35,7 +38,7 @@
 \indexsongsas{entitleidx}{\thepage}
 
 \nosongnumbers
-%\songcolumns{3}
+\songcolumns{2}
 
 % START HEADER SECTION
 \usepackage{fancyhdr}
