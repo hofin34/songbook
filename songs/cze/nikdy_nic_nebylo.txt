@@ -31,7 +31,7 @@ jen jsme šli na biják - co nikdo nenatočil
 \endverse
 \rf
 \beginverse*
-\[Gmi], \[Es], \[C], \[F]
+{\nolyrics \[Gmi] \[Es] \[C] \[F]}
 \endverse
 \beginverse
 Nikdy jsi nebyla - a naše seznámení

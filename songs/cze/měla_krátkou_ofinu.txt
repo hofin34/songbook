@@ -1,0 +1,73 @@
+\beginsong{Měla krátkou ofinu}[by={Vypsaná Fixa}]
+\beginverse
+
+\[G]Měla krátkou ofinu
+\[D]a hledala wifinu.
+\[Ami]Nemohla ji najít – a pak\[C]
+\[G]vymazala z mobilu
+\[D]dalšího krále debilů,
+\[Ami]kterýmu před tím napsala fuck.\[C]
+\endverse
+\beginverse*
+Slunce svítilo do dubna,
+ji bolela kedlubna,
+srdce, to ji bolelo fakt.
+Černý řasy se lepily
+a jiný barvy nebyly
+nežli ty černý, bylo to tak.
+\endverse
+
+\beginchorus
+\[G]A ví to máma,\[D] že zamilovat\[Ami]\[C]
+– a ví to \[G]táta,\[D] to není jen \[Ami]tak.\[C]
+\endchorus
+
+\beginverse
+Měla krátkou ofinu
+a ubalila bylinu,
+plavala tam na louce znak.
+Slunce pořád svítilo
+a už to černý nebylo,
+jen na nehtech
+byl ten černej lak.
+\endverse
+\beginverse*
+Vzpomněla si na mámu
+a taky na dalajlámu,
+to je ten nejlepší chlap.
+Pak zavolala tátovi
+a ten to taky dobře ví
+–\[Ami] jaký to je, \[C]jaký to je
+se zamilovat.
+\endverse
+
+\beginchorus
+\[G]Jaký\[D] to \[Ami]je?\[C]
+A ví to \[G]máma,\[D] že zamilovat\[Ami]\[C]
+– a ví to táta, to není jen tak.
+A ví to máma, že zamilovat
+– a ví to táta, to není jen tak.
+\endchorus
+
+\beginverse*
+A měla krátkou ofinu
+měla krátkou, měla, měla.
+//A pod ní měla čelo a mozek.
+Měla krátkou ofinu
+a stejně přes ni neviděla
+//tu kouli připoutanou k noze.
+Měla krátkou ofinu,
+měla krátkou, měla, měla.
+//A večer možná pod ní bude klozet.
+A měla krátkou ofinu
+a stejně přes ni neviděla
+//ty mraky, který pluly.
+Měla krátkou ofinu
+měla krátkou, měla, měla.
+\endverse
+
+
+
+
+
+\endsong

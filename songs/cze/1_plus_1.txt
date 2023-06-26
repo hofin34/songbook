@@ -14,10 +14,10 @@ Stačí tak strašně málo, aby se ukázalo
 
 
 \beginchorus
-\[G]Někde si najdu malej \[D/F#]byt
+\[G]Někde si najdu malej \[D]byt
 A tam si budu jen tak \[Ami]žít
 A \[C]snít
-\[G]To je můj utajený \[D/F#]svět
+\[G]To je můj utajený \[D]svět
 1+1 tam a \[Ami]zpět
 A \[C]zpět
 \endchorus

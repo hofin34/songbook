@@ -1,0 +1,49 @@
+\beginsong{O lítání}[by={David Stypka}]
+
+
+
+\beginverse*
+{\nolyrics \[A] \[Em7] \[Hmi] \[F#m] \[G]}
+\endverse
+
+\beginverse
+\[A]Letím teplou nocí
+vlastně \[Emi7]lítám pro ten pocit
+že \[Hmi]duše může \[F#m]sama bez \[G]těla
+\[A]zas jsem do sna procit
+zase\[Emi7]vládnu zvláštní mocí
+\[Hmi]ptáš se, jak to \[F#m]dělám, no \[G]nedělám
+\endverse
+
+\beginverse*
+\[A]Možná teď nad hlavou nám \[Emi7]poletují davy
+a \[Hmi]mávaním vás \[F#m]nelétavé \[G]zdraví
+\endverse
+
+\beginchorus
+Ti, co \[E]ví kudy jít, když se \[G#m]stmí\[F#]vá
+co se \[E]pít nebo jí, když prší \[C#]voda živá
+tak kdo \[E]sní tvé \[H]sny
+ostat\[C#m]ní nebo ty
+složi\[F#]tý se to \[H]může \[E]zdát
+složi\[F#]tý se to \[H]může \[E]zdát
+\endchorus
+
+\beginverse
+\[A]Mé duši se to líbí
+já jen \[Emi7]plním, co jsem slíbil
+vždyť \[Hmi]která by to \[F#m]duše nechtě\[G]la
+a \[A]víte moji milí
+třeba \[Emi7]právě v tuhle chvíli
+\[Hmi]kam by vaše \[F#m]duše letě\[G]la
+\endverse
+
+\beginverse*
+\[A]Možná teď nad hlavou nám \[Emi7]poletují davy
+a \[Hmi]mávaním vás \[F#m]nelétavé \[G]zdraví
+\endverse
+
+\rf[2]
+
+
+\endsong

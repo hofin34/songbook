@@ -1,4 +1,44 @@
-\beginsong{1+1}[by={Ready Kirken}]
+\beginsong{1982}[by={Vypsaná Fixa}]
+
+\beginverse*
+{\nolyrics
+    \[E]\[C]\[E]\[C#]
+\[E]\[A]\[F#]\[H]}
+\endverse
+
+\beginverse
+\[E]Chlapeček \[C]brečí \[E]nesmíš ho \[C#]hladit
+\[E]Když ho budeš \[A]hladit \[F#]tak ho můžeš \[H]zabít
+\[E]Seš víla \[C]lipís \[E]máš bílý \[C#]auto
+\[E]Všechny nás \[A]vozíš a \[F#]to máme \[H]za to
+\[E]Že známe \[C]heslo \[E] \[C#]
+\[E]Že známe \[A]heslo \[H] \[F#]
+\[E] \[F]Lipís mi kája \[E] \[F]
+\endverse
+
+\beginchorus
+\[E]devatenáctset\[D]osumdesát dva\[G] sem malej ýmo a \[A]ty si princezna
+\[E]devatenáctset\[D]osumdesát dva\[G] nejlepší pop art led\[A]ňáček kofola
+\[E]devatenáctset\[D]osumdesát dva\[G] brutální všechno nej\[A]lepší vzpomínky
+\[E]devatenáctset\[D]osumdesát\[G] nejhezčí nohy ma\[A]minky maminky
+
+\[E]devatenáctset\[D]osumdesát\[G]\[A]
+\[E]devatenáctset\[D]osumdesát\[G]\[A]
+\endchorus
+
+\beginverse
+ = 1.
+\endverse
+
+\rf
+
+
+
+
+
+
+
+\endsong\beginsong{1+1}[by={Ready Kirken}]
 \beginverse
 \[Emi]Už ani nedivím se, \[Hmi]jak věci otáčí se
 \[Emi]Z radosti splín si klidně \[Hm]vrhá stín
@@ -14,10 +54,10 @@ Stačí tak strašně málo, aby se ukázalo
 
 
 \beginchorus
-\[G]Někde si najdu malej \[D/F#]byt
+\[G]Někde si najdu malej \[D]byt
 A tam si budu jen tak \[Ami]žít
 A \[C]snít
-\[G]To je můj utajený \[D/F#]svět
+\[G]To je můj utajený \[D]svět
 1+1 tam a \[Ami]zpět
 A \[C]zpět
 \endchorus
@@ -2913,7 +2953,79 @@ Maxipes \[G]Herodes vánoční \[A]slib dal dnes.
 \rf
 
 \endsong
-\beginsong{Mezi Horami}[by={Čechomor}]
+\beginsong{Měla krátkou ofinu}[by={Vypsaná Fixa}]
+\beginverse
+
+\[G]Měla krátkou ofinu
+\[D]a hledala wifinu.
+\[Ami]Nemohla ji najít – a pak\[C]
+\[G]vymazala z mobilu
+\[D]dalšího krále debilů,
+\[Ami]kterýmu před tím napsala fuck.\[C]
+\endverse
+\beginverse*
+Slunce svítilo do dubna,
+ji bolela kedlubna,
+srdce, to ji bolelo fakt.
+Černý řasy se lepily
+a jiný barvy nebyly
+nežli ty černý, bylo to tak.
+\endverse
+
+\beginchorus
+\[G]A ví to máma,\[D] že zamilovat\[Ami]\[C]
+– a ví to \[G]táta,\[D] to není jen \[Ami]tak.\[C]
+\endchorus
+
+\beginverse
+Měla krátkou ofinu
+a ubalila bylinu,
+plavala tam na louce znak.
+Slunce pořád svítilo
+a už to černý nebylo,
+jen na nehtech
+byl ten černej lak.
+\endverse
+\beginverse*
+Vzpomněla si na mámu
+a taky na dalajlámu,
+to je ten nejlepší chlap.
+Pak zavolala tátovi
+a ten to taky dobře ví
+–\[Ami] jaký to je, \[C]jaký to je
+se zamilovat.
+\endverse
+
+\beginchorus
+\[G]Jaký\[D] to \[Ami]je?\[C]
+A ví to \[G]máma,\[D] že zamilovat\[Ami]\[C]
+– a ví to táta, to není jen tak.
+A ví to máma, že zamilovat
+– a ví to táta, to není jen tak.
+\endchorus
+
+\beginverse*
+A měla krátkou ofinu
+měla krátkou, měla, měla.
+//A pod ní měla čelo a mozek.
+Měla krátkou ofinu
+a stejně přes ni neviděla
+//tu kouli připoutanou k noze.
+Měla krátkou ofinu,
+měla krátkou, měla, měla.
+//A večer možná pod ní bude klozet.
+A měla krátkou ofinu
+a stejně přes ni neviděla
+//ty mraky, který pluly.
+Měla krátkou ofinu
+měla krátkou, měla, měla.
+\endverse
+
+
+
+
+
+\endsong\beginsong{Mezi Horami}[by={Čechomor}]
 \beginverse
 \[Ami]/:Mezi \[G]horami\[Ami]
 
@@ -3293,7 +3405,7 @@ jen jsme šli na biják - co nikdo nenatočil
 \endverse
 \rf
 \beginverse*
-\[Gmi], \[Es], \[C], \[F]
+{\nolyrics \[Gmi] \[Es] \[C] \[F]}
 \endverse
 \beginverse
 Nikdy jsi nebyla - a naše seznámení
@@ -3303,7 +3415,113 @@ Nic není ani já - ani tvý zlatý oči
 \endverse
 \rf
 \endsong
-\beginsong{Písnička}[by={Pokáč, Pavel Callta}]
+\beginsong{Nina}[by={Tomáš Klus}]
+
+\beginverse
+Dnes \[D]v noci jsem ze spaní křičela tvoje jméno,
+já \[Hmi]vím, že nejsi rád, ale nejde zapomenout,
+jak \[G]při každém slově přivíráš víčka,
+prosím \[A]vyslyš moji zpověď, už jsme starý na psaníčka.
+\endverse
+
+\beginverse
+Jsem bytost z vodních par, živa jenom z tvého dechu,
+já vím, že nejsi rád a že je ti to k vzteku,
+chci ti všechno říct a pak se někam schovat,
+třeba pochopíš, jak je těžké nemilovat.
+\endverse
+
+\beginverse
+Zase zrychlil se mi dech, jak maratónským běžcům,
+co je to za příběh, bez lásky, bez milenců,
+nemáš slov, patrně všechna patří jiným,
+prosím proměň mě s nimi, ve sny, v gesta i činy.
+\endverse
+
+\beginverse
+A já tu zůstanu, ztracené malířské plátno,
+třeba se vrátíš a já zas nechám se napnout,
+prosím maluj mě, tvoř, k obrazu svému,
+nech mě shořet, už nikdy o nás nemluv.
+\endverse
+
+\beginchorus
+Jsi mé \[D]úzko, jsi krev z řezných ran,
+jsi \[Hmi]ten kdo vchází nepozván,
+jsi \[G]zvuk když padnou mi na rety slzy \[A]múz. 
+
+Jsi mé úzko, jsi krev z řezných ran,
+ačkoliv nechci, jsi ve mě uschován,
+jsi zvuk když padnou mi na rety slzy múz. 
+\endchorus
+
+\beginverse
+Až splynu se vzduchem, nechám rozplakat nebe,
+budu vším, tím, co lidi k propasti svede,
+budu Krysařovou flétnou a ozvěna v tvé duši,
+pak ptáci tiše vzlétnou, by nedali tušit.
+\endverse
+
+\beginverse
+Že se nebe nakloní a zapře se světem,
+tvé černé svědomí poprvé promluví k obětem,
+nerovných bojů tvé sebestředné války,
+srdečních nepokojů cos pozoroval z dálky.
+\endverse
+
+\rf[4]
+
+
+
+\endsong\beginsong{O lítání}[by={David Stypka}]
+
+
+
+\beginverse*
+{\nolyrics \[A] \[Em7] \[Hmi] \[F#m] \[G]}
+\endverse
+
+\beginverse
+\[A]Letím teplou nocí
+vlastně \[Emi7]lítám pro ten pocit
+že \[Hmi]duše může \[F#m]sama bez \[G]těla
+\[A]zas jsem do sna procit
+zase\[Emi7]vládnu zvláštní mocí
+\[Hmi]ptáš se, jak to \[F#m]dělám, no \[G]nedělám
+\endverse
+
+\beginverse*
+\[A]Možná teď nad hlavou nám \[Emi7]poletují davy
+a \[Hmi]mávaním vás \[F#m]nelétavé \[G]zdraví
+\endverse
+
+\beginchorus
+Ti, co \[E]ví kudy jít, když se \[G#m]stmí\[F#]vá
+co se \[E]pít nebo jí, když prší \[C#]voda živá
+tak kdo \[E]sní tvé \[H]sny
+ostat\[C#m]ní nebo ty
+složi\[F#]tý se to \[H]může \[E]zdát
+složi\[F#]tý se to \[H]může \[E]zdát
+\endchorus
+
+\beginverse
+\[A]Mé duši se to líbí
+já jen \[Emi7]plním, co jsem slíbil
+vždyť \[Hmi]která by to \[F#m]duše nechtě\[G]la
+a \[A]víte moji milí
+třeba \[Emi7]právě v tuhle chvíli
+\[Hmi]kam by vaše \[F#m]duše letě\[G]la
+\endverse
+
+\beginverse*
+\[A]Možná teď nad hlavou nám \[Emi7]poletují davy
+a \[Hmi]mávaním vás \[F#m]nelétavé \[G]zdraví
+\endverse
+
+\rf[2]
+
+
+\endsong\beginsong{Písnička}[by={Pokáč, Pavel Callta}]
 \beginverse
 \[Emi]Návrat do rodné země, starší žena vedle mě,
 \[D]já sedím, dáma stojí \[Hmi7]v šalině kouká chladně.
@@ -3624,7 +3842,62 @@ jinak budu radši sám
 
 
 \endsong
-\beginsong{První signální}[by={Chinaski}]
+\beginsong{Prodavač}[by={Michal Tučný}]
+
+\beginverse*
+ \[C]Pojďte všichni dovnitř, pozvěte si všechny známé,
+     my vám dobrou radu dáme, neboť právě otvíráme,
+     prodáváme, vyděláme, co kdo chcete, tak to máme,
+     co nemáme, objednáme, všechno máme, všechno víme,
+     poradíme, posloužíme.
+\endverse
+\beginverse
+   Stál \[C]krámek v naší ulici, v něm \[F]párky, buřty s hořčicí
+   a \[G]bonbóny a sýr a sladký \[C]mák\[G7]
+   tam \[C]chodíval jsem \[C7]potají, tak \[F]jak to kluci dělají,
+   a \[G]ochutnával od okurek \[C]lák\[C7]
+   a \[F]pro mou duši nevinnou pan \[C]vedoucí byl hrdinou,
+   když \[D7]po obědě začal prodá\[G]vat\[G7]
+   měl \[C]jazyk mrštný \[C7]jako bič a \[F]já byl z něho celý pryč
+   a \[G]toužil jsem se prodavačem \[C]stát.
+\endverse
+
+\beginchorus
+   \[C]Pět deka, deset deka, dvacet deka, třicet deka,
+   \[F]kilo chleba, kilo cukru, jeden rohlík, jedna veka,
+   \[G]všechno máme, co kdo chcete, obchod kvete, jen si \[C]račte \[G7]říct,
+   \[C]čtyři kila, deset kilo, dvacet kilo, třicet kilo,
+   \[F]navážíme, zabalíme, klaníme se, to by bylo,
+   \[G]prosím pěkně, mohu nechat o jedenáct deka \[C]víc?
+\endchorus
+
+\beginverse
+   Já nezapomněl na svůj cíl a záhy jsem se vyučil
+   a moh' být ze mě prodavačů král,
+   jenomže, jak běžel čas, náhle zaslechl jsem hudby hlas
+   a znenadání na jevišti stál,
+   i když nejsem králem zpěváků, teď zpívám s partou Fešáků
+   a nikdo vlastně neví, co jsem zač,
+   mě potlesk hřeje do uší a mnohý divák netuší,
+   že mu vlastně zpívá prodavač.
+\endverse
+
+\rf
+
+\beginverse
+   
+    Dnes nemá nikdo ponětí, co bude koncem století,
+   už v duchou vidím, jak tu vládne shon,
+   a dětem líčí babička, jak vypadala elpíčka
+   a co byl vlastně starý gramofon,
+   i kdyby v roce dva tisíce byla veta po muzice,
+   obchod je věc stále kvetoucí,
+   už se vidím, je to krása, ve výloze nápis hlásá:
+   Michal Tučný, odpovědný vedoucí.
+\endverse
+
+
+\endsong\beginsong{První signální}[by={Chinaski}]
 \gtab{G#}{4:(133211)}
 \gtab{Es}{3:XX3(121)}
 \beginverse

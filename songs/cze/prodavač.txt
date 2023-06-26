@@ -1,0 +1,56 @@
+\beginsong{Prodavač}[by={Michal Tučný}]
+
+\beginverse*
+ \[C]Pojďte všichni dovnitř, pozvěte si všechny známé,
+     my vám dobrou radu dáme, neboť právě otvíráme,
+     prodáváme, vyděláme, co kdo chcete, tak to máme,
+     co nemáme, objednáme, všechno máme, všechno víme,
+     poradíme, posloužíme.
+\endverse
+\beginverse
+   Stál \[C]krámek v naší ulici, v něm \[F]párky, buřty s hořčicí
+   a \[G]bonbóny a sýr a sladký \[C]mák\[G7]
+   tam \[C]chodíval jsem \[C7]potají, tak \[F]jak to kluci dělají,
+   a \[G]ochutnával od okurek \[C]lák\[C7]
+   a \[F]pro mou duši nevinnou pan \[C]vedoucí byl hrdinou,
+   když \[D7]po obědě začal prodá\[G]vat\[G7]
+   měl \[C]jazyk mrštný \[C7]jako bič a \[F]já byl z něho celý pryč
+   a \[G]toužil jsem se prodavačem \[C]stát.
+\endverse
+
+\beginchorus
+   \[C]Pět deka, deset deka, dvacet deka, třicet deka,
+   \[F]kilo chleba, kilo cukru, jeden rohlík, jedna veka,
+   \[G]všechno máme, co kdo chcete, obchod kvete, jen si \[C]račte \[G7]říct,
+   \[C]čtyři kila, deset kilo, dvacet kilo, třicet kilo,
+   \[F]navážíme, zabalíme, klaníme se, to by bylo,
+   \[G]prosím pěkně, mohu nechat o jedenáct deka \[C]víc?
+\endchorus
+
+\beginverse
+   Já nezapomněl na svůj cíl a záhy jsem se vyučil
+   a moh' být ze mě prodavačů král,
+   jenomže, jak běžel čas, náhle zaslechl jsem hudby hlas
+   a znenadání na jevišti stál,
+   i když nejsem králem zpěváků, teď zpívám s partou Fešáků
+   a nikdo vlastně neví, co jsem zač,
+   mě potlesk hřeje do uší a mnohý divák netuší,
+   že mu vlastně zpívá prodavač.
+\endverse
+
+\rf
+
+\beginverse
+   
+    Dnes nemá nikdo ponětí, co bude koncem století,
+   už v duchou vidím, jak tu vládne shon,
+   a dětem líčí babička, jak vypadala elpíčka
+   a co byl vlastně starý gramofon,
+   i kdyby v roce dva tisíce byla veta po muzice,
+   obchod je věc stále kvetoucí,
+   už se vidím, je to krása, ve výloze nápis hlásá:
+   Michal Tučný, odpovědný vedoucí.
+\endverse
+
+
+\endsong
