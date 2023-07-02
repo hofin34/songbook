@@ -1,0 +1,34 @@
+\beginsong{Dva roky prázdnin}[by={Karel Černoch}]
+
+
+\beginverse
+\[Ami]Vzhůru na palubu \[G]dálky \[Ami] volají
+Vítr už příhodný \[G]vane \[Ami]nám
+Tajemné příběhy \[G]nás teď \[Ami]čekají
+tvým domovem bude \[G]oce\[Ami]án
+\[F]V ráhnoví plachty \[Ami]vítr nadouvá
+\[F]žene loď v širou \[Ami]dál
+\[Dmi]kolébá boky \[Ami]plachetnice, \[Dmi]jak by si s ní jenom \[E]hrál.
+\[F]Posádku ani \[Ami]škuner neleká
+\[F]Bouře ni \[Ami]uragán
+\[F]přítomnost země \[Ami]oznámí nám \[Dmi]příletem \[E]kormo\[Ami]rán.
+\endverse
+
+\beginverse
+\[Ami]Náš ostrov vzdálený z \[G]vln se \[Ami]vynoří,
+z příboje snů našich \[G]pustý \[Ami]kraj,
+zátoku písčitou \[G]úsvit \[Ami]odhalí,
+háj palem útesy \[G]bílých \[Ami]skal.
+\[F]Příď krájí vlny i \[Ami]tvůj čas,
+\[F]srdce tvé bije \[Ami]rázně,
+\[Dmi]nástrahy moře \[Ami]nebezpečí s \[Dmi]přátely zvládneš vždy \[E]snáz.
+\[F]V přátelství najdeš \[Ami]pevnou hráz,
+\[F]zbaví tě smutku \[Ami]bázně,
+\[F]zítra až naše \[Ami]cesta skončí \[Dmi]staneš se \[E]jedním z \[Ami]nás
+\endverse
+
+
+
+
+
+\endsong

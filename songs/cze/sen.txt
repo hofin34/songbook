@@ -1,0 +1,45 @@
+\beginsong{Sen}[by={Lucie}]
+
+\beginverse
+Stíny \[E]dnů a snů se k obratníku \[A]stáčí
+Ruce \[E]snů černejch se snaží zakrýt \[A]oči
+Světlo \[F#mi]tvý prozradí proč já \[E]vím
+S novým \[F#mi]dnem že se \[A]zas navrá\[H]tí
+\endverse
+\beginverse
+Mraky se plazí, vítr je láme
+Stíny tvý duše rozplynou se v šeru
+Ve vlnách opouští po hodinách mizí
+A měsíc nový stíny vyplaší
+\endverse
+\beginchorus
+Proud motý\[E]lů unáší strach
+Na listy \[A]sedá hvěznej prach
+Proletí \[C#mi]ohněm a mizí stále \[H]dál
+Neslišný \[E]kroky stepujou
+V nebeským \[A]rytmu swingujou
+Že se \[C#mi]ráno, že se ráno vytra\[H]tí
+\endchorus
+
+\beginverse
+Stíny dnů vyrostou a zmizí
+Nebeský znamení, rosvěcujou hvězdy
+Všechno ví z povzdálí vedou naše kroky
+A měsíc nový stíny vyplaší.
+\endverse
+
+\rf
+
+\beginchorus
+
+Proud motý\[E]lů unáší strach
+Na listy \[A]sedá hvěznej prach
+a nový \[C#mi]stíny vypla\[H]ší
+\endchorus
+
+
+
+
+
+
+\endsong

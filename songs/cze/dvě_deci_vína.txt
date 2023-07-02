@@ -1,0 +1,47 @@
+\beginsong{Dvě deci vína}[by={Rybičky 48}]
+\beginverse
+Dáš si \[A]sklenku,\[C#mi]
+\[F#mi]pojď dál, nezou\[D]vej se, přece nebudeš\[A] stát venku. \[C#mi]\[F#mi]\[D]
+Sundám ti \[A]rukáv prvý a \[C#mi]druhý,
+\[F#mi]ještě jsme nevymřeli, \[D]ale už jsme ohrožený \[A]druhy.  \[C#mi]\[F#mi]\[D]
+\endverse
+
+\beginverse*
+ 
+Dáš si kávu .. hmmm
+horkou jak sopečnou lávu .. úuů.
+Měsíc pomalu se kývá,
+kdo ví, kolik času nám zbývá .. hmmm hmmm hmmm hmmm.
+\endverse
+
+\beginchorus
+ 
+Ref.:
+A když se stmí\[A]vá,
+ruce jsou proplete\[C#mi]ný.
+Naleju dvě deci \[D]vína áa,
+na to se nezapo\[Dmi]míná.
+A za sví\[A]tání,
+těla jsou proplete\[C#mi]ný,
+hlavy popletený,
+Načnem další láhev \[D]vína áa,
+co hoří se nezha\[Dmi]síná.
+\endchorus
+
+\beginverse
+Píšu si denník,
+abych zaznamenal realitu a zároveň jí unik.
+Básně skládám,
+rád se směju, málo se hádám.
+\endverse
+\beginverse* 
+Maluju obrazy .. hmmm,
+kde jsou lautr všichni bozi nazí.
+Jó to je krása
+a měsíc pomalu se kývá.
+Kdo ví, kolik času nám zbývá .. hmmmm.
+\endverse
+\rf
+ 
+
+\endsong

@@ -1,0 +1,61 @@
+\beginsong{Popelka}[by={Xindl X}]
+
+\beginverse
+Už zase \[C]skončil flám,
+do vodky \[Am]džus ti dám
+a pak ti \[F]spočítám nový \[C]ztráty.\[G]
+Úsměv si \[Dm]namaluj, i kdyby \[F]nebyl tvůj,
+vždyť co ti \[C]zbejvá, než se mi \[G]smát.
+\endverse
+\beginverse*
+Popelko mejdanů, co snídá v županu
+a nechce tancovat podle táty.
+Víš dobře kudy jde, tak ať tě nemine,
+víš, že zázrak prej se smí stát.
+\endverse
+
+
+\beginchorus
+\[Am]Popel a \[F]hrách,
+a \[C]hry, \[G]co se nedají vy\[Am]hrát \[F]
+než \[C]s velkejma ztráta\[G]ma.
+\[Am]Popel a \[F]hrách,
+kdo \[C]ví,
+\[G]s kým Popelko půjdeš \[Am]spát. \[F]
+Holubi \[G]odlítli, přeber si to sama,\[Am]\[F]\[C]
+\[G]přeber si to sama.. \[Am]\[F]\[G]
+\endchorus
+
+\beginverse
+Žiješ na kolejích,
+všichni tě milují,
+krom toho, kdo chybí ti teď nejvíc.
+Ten, co mu utíkáš,
+neboť mu zazlíváš,
+že tě měl tak trochu moc rád.
+\endverse
+\beginverse*
+Jsi místní Popelkou, hraješ si na velkou,
+každou noc vyzkoušíš novej střevíc.
+Než ze sna procitáš, půlnoc je odbitá,
+kočár dávno ztratil se v tmách.
+\endverse
+\rf
+
+\beginverse
+Žiješ na kolejích,
+vlaky už vodjely
+a město polyká dětský stíny.
+Pod vokny napad sníh
+a lidi v ulicích,
+jsou tak prázdný, až se chce řvát.
+\endverse
+
+\beginverse*
+Si diva z divano, sedáš si na vanu
+a smejváš z pod vočí černý splíny.
+Víš dobře kudy ne, nebe tě nemine,
+tak proč bejváš tak nejistá.
+\endverse
+
+\endsong

@@ -6,10 +6,10 @@ Pověste ho \[Dmi]vejš, ať se \[Ami]houpá,
 že tu \[G]byl nezvanej \[Ami]host.
 Pověste ho, že byl jinej,
 že tu s námi dejchal stejnej vzduch.
-\endverse
-\beginverse
 Pověste ho, ze byl línej
 a tak trochu dobrodruh.
+\endverse
+\beginverse
 Pověste ho za El Passo,
 za snídani v trávě a lodní zvon.
 Za to že neoplýval krásou,

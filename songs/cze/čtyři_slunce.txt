@@ -1,0 +1,35 @@
+\beginsong{Čtyři slunce}[by={Vypsaná Fixa}]
+
+
+\beginverse
+\[Emi]Čtyři \[C]slunce \[G]svítěj p\[D]ro radost, \[Emi] \[C] \[G] \[D]
+\[Emi]vlnovk\[C]a se z\[G]vedne, \[D]když má dost. \[Emi] \[C] \[G] \[D]
+\endverse
+\beginverse*
+A \[Emi]čtyři slunce s\[C]vítěj,
+li\[Ami]dem pod nima \[D]není zima.
+Si \[Emi]jako malý \[C]dítě
+a \[Ami]můžes začít \[D]zase znova.
+\endverse
+\beginchorus
+Já \[Emi]vím,\[C] někdy to \[Ami]nejde.\[D]
+Já \[Emi]vím,\[C] všechno to \[Ami]přejde.\[D]
+\endchorus
+
+\beginverse
+Čtyři slunce svítěj pro radost,
+přejdu řeku, vede přes ní most.
+\endverse
+\beginverse*
+Čtyři slunce svítěj,
+lidem pod nima není zima.
+Si jako malý dítě
+a můžes začít zase znova.
+\endverse
+\rf
+\beginverse
+ = 1.
+\endverse
+
+\rf
+\endsong

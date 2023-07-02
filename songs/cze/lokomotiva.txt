@@ -1,0 +1,36 @@
+\beginsong{Lokomotiva}[by={Poletíme}]
+
+\beginverse
+\[G]Pokaždé když tě vidím, \[D]vím, že by to šlo
+a když \[Emi]jsem přemejšlel, co cítím, \[C]tak mě napadlo
+jestli \[G]nechceš svýho osla vedle \[D]mýho osla hnát,
+jestli \[Emi]nechceš se mnou tahat \[C]ze země rezavej drát
+\endverse
+\beginchorus
+\[G]Jsi loko\[D]motiva, která \[Emi]se řítí \[C]tmou,
+\[G]jsi indi\[D]áni, kteří \[Emi]prérií \[C]jedou,
+\[G]jsi kulka \[D]vystřelená \[Emi]do mojí \[C]hlavy,
+\[G]jsi prezident \[D]a já tvé \[Emi]spojené \[C]státy
+\endchorus
+\beginverse
+Přines jsem ti kytku, no co koukáš, to se má
+je to koruna žvejkačkou ke špejli přilepená,
+a dva kelímky vod jogurtu, co je mezi nima niť,
+můžeme si takhle volat, když budeme chtít
+\endverse
+\rf
+\beginverse
+Každej příběh má svůj konec, ale né ten náš,
+nám to bude navždy dojit, všude kam se podíváš,
+naše kachny budou zlato nosit a krmit se popcornem,
+já to každej večer spláchnu půlnočním expresem
+\endverse
+\rf
+\beginverse
+Dětem dáme jména Jessie, Jeddej, Jad a John,
+ve stopadesáti letech ho budu mít stále jako slon,
+a ty neztratíš svoji krásu, stále štíhlá kolem pasu,
+stále dokážeš mě chytit lasem a přitáhnout na terasu
+\endverse
+\rf
+\endsong
