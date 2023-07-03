@@ -1,4 +1,16 @@
-\beginsong{1982}[by={Vypsaná Fixa}]
+% There was a problem, that when was environment defined in songbook_main.tex, songs couldn't see it, because it was included via input
+% This file is prepended via Makefile
+
+
+\renewcommand{\lyricfont}{\sffamily\LARGE}
+\renewcommand{\printchord}[1]{\rmfamily\Large\textbf{#1}}
+
+% Define a custom environment for long songs (with small font)
+\newenvironment{smallfont}{
+  \renewcommand{\lyricfont}{\sffamily\large}
+}{
+    \renewcommand{\lyricfont}{\sffamily\LARGE}
+}\beginsong{1982}[by={Vypsaná Fixa}]
 
 \beginverse*
 {\nolyrics
@@ -327,6 +339,7 @@ za královský hermelín padne každý rád
 \endverse
 \rf
 \endsong
+\begin{smallfont}
 \beginsong{Bedna od whisky}[by={-}]
 \beginverse
 \[Ami]Dneska už mě \[C]fóry ňák \[Ami]nejdou přes \[E]pysky,
@@ -362,7 +375,8 @@ za královský hermelín padne každý rád
 \endverse
 \rf
 \endsong
-\beginsong{Blátivá cesta}[by={Pacifik}]
+
+\end{smallfont}\beginsong{Blátivá cesta}[by={Pacifik}]
 \beginchorus
 \[C]Blátivou blativou, blátiv\[Emi]ou blátivou. Cestou \[F]dál nechceš \[C]jít kde jen \[F]máš touhu blaz\[C]niv\[Emi]ou kde jen \[Dmi]máš,co chtěl jsi \[G]mít? Chtěl jsi \[C]mít. !
 \endchorus
@@ -580,6 +594,7 @@ Když zeptají se: "Hrdino, cos' dělal za války?"
 
 
 \endsong
+ \begin{smallfont}
  \beginsong{Burlaci}[by={Kabát}]
 \beginverse
 \[Emi]Konopný lana, tak ty už něco vydr\[Hmi]ží,
@@ -640,7 +655,8 @@ Tak se mi \[B]zdá…
 na lodě \[Es]za tebou.
 \endverse
 \endsong
-\beginsong{Buvol}[by={Vypsaná Fixa}]
+
+ \end{smallfont}\beginsong{Buvol}[by={Vypsaná Fixa}]
 \beginverse
 \[Ami]Holky maj kalhoty a \[Emi]kluci šaty,
 \[G]je jarní \[D]den.
@@ -685,7 +701,8 @@ nade mnou \[D]stále bdí.
 
 \rf
 
-\endsong\beginsong{Čarodějnice z Amesbury}[by={Asonance}]
+\endsong\begin{smallfont}
+\beginsong{Čarodějnice z Amesbury}[by={Asonance}]
 \beginverse
 Zuzana \[Dmi]byla dívka, \[C]která žila v \[Dmi]Amesbury
 s jasnýma \[F]očima a \[C]řečmi pánům \[Dmi]navzdory.
@@ -736,7 +753,8 @@ A ona stála bezbraná, však s hlavou vztyčenou.
 Zemřela tiše samotná, pod letní oblohou. 
 \endverse
 
-\endsong\beginsong{Černý brejle}[by={Ready Kirken}]
+\endsong
+\end{smallfont}\beginsong{Černý brejle}[by={Ready Kirken}]
 \beginverse
 Nosím černý \[D]brejle,
 protože mi \[F#mi]nejde
@@ -779,6 +797,7 @@ má skrytej význam \[E]asi.
 \rf[2]
 
 \endsong
+\begin{smallfont}
 \beginsong{Cesta}[by={Kryštof}]
 \beginverse
 Tou \[C] cestou
@@ -821,7 +840,8 @@ A vlastně už ze zvyku
 \endverse
 \rf[2]
 \endsong
-\beginsong{Cikánská}[by={-}]
+
+\end{smallfont}\beginsong{Cikánská}[by={-}]
 \beginverse
 \[Ami]Táto, táto, \[G]já už \[C]vím, \[F]kde můj milý \[C]přespá\[Ami]vá,
 \[Dmi]hned se za ním \[Ami]vypravím, \[E]je to duše \[Ami]tou\[E]la\[Ami]vá.
@@ -842,8 +862,7 @@ A vlastně už ze zvyku
 /: Naj, na, na, na, ná ... :/
 \endchorus
 
-\endsong
-\beginsong{Čmelák}[by={Divokej Bill}]
+\endsong\beginsong{Čmelák}[by={Divokej Bill}]
 
 \beginverse
 \[D]Žiju si jako v pohád\[A]ce
@@ -908,7 +927,7 @@ když má svět otevřenou náruč dokořán.
 \endverse
 \beginchorus
 \[C]A co bylo dál, jenom \[Am]vítr,
-\[F]po nebi se \[G]mraky honi\[c]ly.
+\[F]po nebi se \[G]mraky honi\[C]ly.
 \[C]A co bylo dál, jenom \[Am]vítr,
 \[F]a stromy se až k \[G]zemi skloni\[Am]ly.
 \endchorus
@@ -918,12 +937,7 @@ a do vlasů ti sedal bílej sníh,
 z oblohy černý jak díra mezi světy,
 se na mě snášel a studil na dlaních.
 \endverse
-\beginverse
-A co bylo dál, jenom vítr,
-po nebi se mraky honily.
-A co bylo dál, jenom vítr,
-a stromy se až k zemi sklonily.
-\endverse
+\rf
 \beginverse
 V tom baru nevěděli, že je venku krize,
 z rádia zpíval Cohen "Lásko, jsem tvůj muž",
@@ -1010,7 +1024,71 @@ a můžes začít zase znova.
 \endverse
 
 \rf
-\endsong\beginsong{David a Goliáš}[by={Ježek, Voskovec, Werich}]
+\endsong   \beginsong{Darling}[by={Vypsaná Fixa}]
+\beginverse
+ \[D]V bodu, kdy ti zmizí \[A]úplně všechno
+   si \[Emi]já vymyslim nejsladší \[G]pointy
+   někdo to neřeší, někdo pije drinky
+   někdo v tom bodu vykouří jointy
+   já mám rád hrdiny, kteří lezou po dně
+   a v poslední chvíli se zvednou
+   někdy taky dělám, že jsem vyřízenej
+   a je mi to úplně jedno.
+
+\endverse
+
+\beginverse*
+
+*: Tak jsem řek
+   dno je dobrý na to aby sis ho prohlíd
+   dno je dobrý na to aby sis ho prohlíd
+   \endverse
+   
+\beginchorus
+Tak jsem řek hej máš drobný darling
+   a ona řekla že nějaký má
+   a já jsem řek fajn, tak na dvě kávy
+   z automatu on nám je dá
+   a pak jsem šli ven a tam jsme stáli
+   tři hodiny a dvacet minut
+   a kolem byl svět, který byl správný
+   a s kelímkama z automatu
+\endchorus
+\beginverse   
+V bodu kdy ti zmizí uplně všechno
+   jsem byl, tam to znám velmi
+   v podstatě to tam má svojí poetiku
+   a originální genius loci
+   lítají tam pořad ty samý bumerangy, který se pokaždý vrátěj
+   uprostřed toho všeho mezi strážnou věží
+   a pornografickým stánkem
+\endverse
+\beginverse*
+   jsem řek
+   dno je dobrý na to aby sis ho prohlíd
+   dno je dobrý na to aby sis ho prohlíd
+\endverse
+   
+\beginchorus
+Tak jsem řek hej smím prosit darling
+   a ona řekla, že jsem to já
+   a já sem řek fajn tak je to správný
+   dr. Jekyll zvítězí rád
+   a pak jsem řek hey, chtěl bych tě darling
+   a ona řekla co bude dál
+   hráli jsem squash a taky carling
+   uklízet a zaparkovat   
+\endchorus
+
+
+   \beginverse*
+*: A tak jsem řek hej - to bude dál
+   a pak jsem řek hej - ale je tu i Hyde
+   a tak jsem řek hej - to bude dál
+   a pak jsem řek hej - ale je tu i Hyde
+   \endverse
+
+   \endsong\beginsong{David a Goliáš}[by={Ježek, Voskovec, Werich}]
 \gtab{Dmi7}{X002(11)}
 \gtab{Ab7}{XX(1112)}
 \beginverse*
@@ -1102,53 +1180,50 @@ Hrdinové nekecaj a jdou tam, kam nechce nikdo.
 \beginverse
 \[Emi] Ty jsi pěkný \[C] dezolát
 \[D] řekla ''Halí \[A] belí'' a byla to \[Emi] pohoda
-\[Emi] třeba se to \[C] povede
-\[D] vytáhnem tvý \[A] múzy a hodíme je \[Emi] za tebe
-\[Emi] kdo ty múzy \[C] zachytí
-\[D] ten bude mít \[A] záruku opravdový \[Emi] kvality
-\[Emi] Ty jsi pěkný \[C] dezolát
-\[D] tohle řekla \[A] ona musíme tě \[C] sledovat.
+třeba se to povede
+ vytáhnem tvý múzy a hodíme je za tebe
+kdo ty múzy zachytí
+ ten bude mít  záruku opravdový  kvality
+ Ty jsi pěkný  dezolát
+tohle řekla  ona musíme tě  \[C]sledovat.
 \endverse
 \beginchorus
-A celý \[Emi] prostor je sledova\[C]ný
+\[C]A celý \[Emi] prostor je sledova\[C]ný
 příjemnými \[Emi] lidmi, kteří olizu\[C]jí
 šťávu \[Emi] tekoucí z konečků \[D]prstů.
 \endchorus
 \beginverse
-\[Emi] Ty jsi pěkný \[C] dezolát
-\[D] ve sprchovým \[A] koutě teče voda \[Emi] ledová
-\[Emi] třeba se to \[C] povede
-\[D] opláchnu svý \[A] múzy a vypustím je \[Emi] pod sebe
-\[Emi] kdo ty múzy \[C] zachytí
-\[D] ten bude mít \[A] záruku opravdový \[Emi] kvality
-\[Emi] Ty jsi pěkný \[C] dezolát
-\[D] tohle řekla \[A] ona…
+ Ty jsi pěkný  dezolát
+ ve sprchovým  koutě teče voda  ledová
+ třeba se to  povede
+ opláchnu svý  múzy a vypustím je  pod sebe
+ kdo ty múzy  zachytí
+ ten bude mít  záruku opravdový  kvality
+ Ty jsi pěkný  dezolát
+ tohle řekla  ona…
 \endverse
 \rf
 \beginverse
-\[Emi] Pustíme si \[C] starý gramo\[D]fon
-budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] viny loví \[C] bůh - je šampi\[D]on
-proležíme v \[A] posteli celou neděli \[Emi]
+Pustíme si starý gramofon
+budeme mít světy, který nás zajímají 
+ viny loví bůh - je šampion
+proležíme v  posteli celou neděli 
 \endverse
 \beginverse
-\[Emi] Pustíme si \[C] starý gramo\[D]fon
-budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] viny loví \[C] bůh – je šampi\[D]on
-venku ten náš \[A] svět sledují kamery \[Emi]
+ Pustíme si starý gramofon
+budeme mít světy, který nás zajímají 
+ viny loví bůh – je šampion
+venku ten náš svět sledují kamery 
 \endverse
 \beginverse
-\[C] A hudba hraje dál. \[D], \[A]
-Sledují kamery \[Emi], \[C] a hudba hraje dál \[D], \[A]
+ A hudba hraje dál. 
+Sledují kamery, a hudba hraje dál 
 \endverse
 \beginverse
-\[Emi] Pustíme si \[C] starý gramo\[D]fon (3X)
-budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] viny loví \[C] bůh - je šampi\[D]on
-venku ten náš \[A] svět sledují kamery \[Emi]
-\endverse
-\beginverse*
-\[Emi] Jsem \[C] z toho celej \[A] žhavej…
+ Pustíme si  starý gramofon (3X)
+budeme mít světy, který nás zajímají 
+ viny loví bůh - je šampion
+venku ten náš  svět sledují kamery 
 \endverse
 \endsong
 \beginsong{Dívka s perlami ve vlasech}[by={Aleš Brichta}]
@@ -1324,7 +1399,7 @@ Jen jeho kůň a jeho milá."
 \endverse
 \beginverse
 "Jeho kůň dávno po lesích běhá
-a jeho milá uŽ jiného má,
+a jeho milá už jiného má,
 už pro nás bude dosti místa,
 hostina naše už se chystá.
 Hostina naše už se chystá."
@@ -1614,7 +1689,83 @@ ma goralka \[G]z przodu z tylu
 \[A]podzielita \[D]sie :/
 \endchorus
 \endsong
-\beginsong{Hlídač krav}[by={Jaromír Nohavica}]
+\beginsong{Hej teto!}[by={Michal Horák}]
+
+
+\beginverse
+Měl jsem \[Gmi] hlídat
+tetě \[B] křečka,
+\[F] dala mi ho se slovy, ať
+\[C] u mě chvíli přečká.
+Ale křečka
+uhlídati
+ nelze jen tak lehce, obzvlášť
+ když se vám moc nechce.
+\endverse
+\beginverse
+Po pokoji
+ať si běhá,
+ na gauč jsem si lehnul,
+ vzápětí se ani nehnul.
+
+Tlačilo mě
+do zad  kromě
+ polštářů i cosi,
+už se vidím tetu prosit:
+
+\endverse
+\beginchorus
+hej \[Es] teto,
+já ho \[B] zabil,
+\[D] už se to nestane, jo
+\[Gmi] ten už asi nevstane.
+
+Hej \[Es] teto,
+nekřič \[B] na mě,
+\[D] já ho prostě neviděl,
+\[Gmi] už dost jsem se nastyděl,
+hej \[Es] teto!
+\endchorus
+
+\beginverse*
+{\nolyrics \[B]\[D]\[D7]}
+\endverse
+
+\beginverse
+Tak jsem kouknul,
+co mě tlačí,
+seděl jsem jenom na televizním ovladači,
+
+ale křeččí
+švitoření
+slyšet není,
+jenom zvláštní smrad se line od topení.
+\endverse
+\beginverse
+Zase se mi
+dech zatajil,
+spečeného křečka bych před tetou neobhájil.
+
+A dřív než tam
+sebou seknu,
+měl bych asi vymyslet,
+jak tetě potom řeknu:
+\endverse
+\rf
+
+\beginverse
+Hej teto,
+já ho fakt zabil,
+ten bídák sežral magnet
+a k topení se přitavil.
+
+Hej teto,
+co na to říci?
+Můžeš si ho maximálně připnout na lednici.
+\endverse
+\rf[2]
+
+\endsong\beginsong{Hlídač krav}[by={Jaromír Nohavica}]
 \beginverse
 \[D]Když jsem byl malý, říkali mi naši:
 

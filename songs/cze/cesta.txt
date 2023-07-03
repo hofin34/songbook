@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Cesta}[by={Kryštof}]
 \beginverse
 Tou \[C] cestou
@@ -40,3 +41,5 @@ A vlastně už ze zvyku
 \endverse
 \rf[2]
 \endsong
+
+\end{smallfont}

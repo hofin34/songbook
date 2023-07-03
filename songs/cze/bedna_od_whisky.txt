@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Bedna od whisky}[by={-}]
 \beginverse
 \[Ami]Dneska už mě \[C]fóry ňák \[Ami]nejdou přes \[E]pysky,
@@ -33,3 +34,5 @@
 \endverse
 \rf
 \endsong
+
+\end{smallfont}

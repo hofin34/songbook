@@ -2,52 +2,49 @@
 \beginverse
 \[Emi] Ty jsi pěkný \[C] dezolát
 \[D] řekla ''Halí \[A] belí'' a byla to \[Emi] pohoda
-\[Emi] třeba se to \[C] povede
-\[D] vytáhnem tvý \[A] múzy a hodíme je \[Emi] za tebe
-\[Emi] kdo ty múzy \[C] zachytí
-\[D] ten bude mít \[A] záruku opravdový \[Emi] kvality
-\[Emi] Ty jsi pěkný \[C] dezolát
-\[D] tohle řekla \[A] ona musíme tě \[C] sledovat.
+třeba se to povede
+ vytáhnem tvý múzy a hodíme je za tebe
+kdo ty múzy zachytí
+ ten bude mít  záruku opravdový  kvality
+ Ty jsi pěkný  dezolát
+tohle řekla  ona musíme tě  \[C]sledovat.
 \endverse
 \beginchorus
-A celý \[Emi] prostor je sledova\[C]ný
+\[C]A celý \[Emi] prostor je sledova\[C]ný
 příjemnými \[Emi] lidmi, kteří olizu\[C]jí
 šťávu \[Emi] tekoucí z konečků \[D]prstů.
 \endchorus
 \beginverse
-\[Emi] Ty jsi pěkný \[C] dezolát
-\[D] ve sprchovým \[A] koutě teče voda \[Emi] ledová
-\[Emi] třeba se to \[C] povede
-\[D] opláchnu svý \[A] múzy a vypustím je \[Emi] pod sebe
-\[Emi] kdo ty múzy \[C] zachytí
-\[D] ten bude mít \[A] záruku opravdový \[Emi] kvality
-\[Emi] Ty jsi pěkný \[C] dezolát
-\[D] tohle řekla \[A] ona…
+ Ty jsi pěkný  dezolát
+ ve sprchovým  koutě teče voda  ledová
+ třeba se to  povede
+ opláchnu svý  múzy a vypustím je  pod sebe
+ kdo ty múzy  zachytí
+ ten bude mít  záruku opravdový  kvality
+ Ty jsi pěkný  dezolát
+ tohle řekla  ona…
 \endverse
 \rf
 \beginverse
-\[Emi] Pustíme si \[C] starý gramo\[D]fon
-budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] viny loví \[C] bůh - je šampi\[D]on
-proležíme v \[A] posteli celou neděli \[Emi]
+Pustíme si starý gramofon
+budeme mít světy, který nás zajímají 
+ viny loví bůh - je šampion
+proležíme v  posteli celou neděli 
 \endverse
 \beginverse
-\[Emi] Pustíme si \[C] starý gramo\[D]fon
-budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] viny loví \[C] bůh – je šampi\[D]on
-venku ten náš \[A] svět sledují kamery \[Emi]
+ Pustíme si starý gramofon
+budeme mít světy, který nás zajímají 
+ viny loví bůh – je šampion
+venku ten náš svět sledují kamery 
 \endverse
 \beginverse
-\[C] A hudba hraje dál. \[D], \[A]
-Sledují kamery \[Emi], \[C] a hudba hraje dál \[D], \[A]
+ A hudba hraje dál. 
+Sledují kamery, a hudba hraje dál 
 \endverse
 \beginverse
-\[Emi] Pustíme si \[C] starý gramo\[D]fon (3X)
-budeme mít \[A]světy, který nás zajímají \[Emi]
-\[Emi] viny loví \[C] bůh - je šampi\[D]on
-venku ten náš \[A] svět sledují kamery \[Emi]
-\endverse
-\beginverse*
-\[Emi] Jsem \[C] z toho celej \[A] žhavej…
+ Pustíme si  starý gramofon (3X)
+budeme mít světy, který nás zajímají 
+ viny loví bůh - je šampion
+venku ten náš  svět sledují kamery 
 \endverse
 \endsong

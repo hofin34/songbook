@@ -1,0 +1,13 @@
+% There was a problem, that when was environment defined in songbook_main.tex, songs couldn't see it, because it was included via input
+% This file is prepended via Makefile
+
+
+\renewcommand{\lyricfont}{\sffamily\LARGE}
+\renewcommand{\printchord}[1]{\rmfamily\Large\textbf{#1}}
+
+% Define a custom environment for long songs (with small font)
+\newenvironment{smallfont}{
+  \renewcommand{\lyricfont}{\sffamily\large}
+}{
+    \renewcommand{\lyricfont}{\sffamily\LARGE}
+}

@@ -1,0 +1,77 @@
+\beginsong{Hej teto!}[by={Michal Horák}]
+
+
+\beginverse
+Měl jsem \[Gmi] hlídat
+tetě \[B] křečka,
+\[F] dala mi ho se slovy, ať
+\[C] u mě chvíli přečká.
+Ale křečka
+uhlídati
+ nelze jen tak lehce, obzvlášť
+ když se vám moc nechce.
+\endverse
+\beginverse
+Po pokoji
+ať si běhá,
+ na gauč jsem si lehnul,
+ vzápětí se ani nehnul.
+
+Tlačilo mě
+do zad  kromě
+ polštářů i cosi,
+už se vidím tetu prosit:
+
+\endverse
+\beginchorus
+hej \[Es] teto,
+já ho \[B] zabil,
+\[D] už se to nestane, jo
+\[Gmi] ten už asi nevstane.
+
+Hej \[Es] teto,
+nekřič \[B] na mě,
+\[D] já ho prostě neviděl,
+\[Gmi] už dost jsem se nastyděl,
+hej \[Es] teto!
+\endchorus
+
+\beginverse*
+{\nolyrics \[B]\[D]\[D7]}
+\endverse
+
+\beginverse
+Tak jsem kouknul,
+co mě tlačí,
+seděl jsem jenom na televizním ovladači,
+
+ale křeččí
+švitoření
+slyšet není,
+jenom zvláštní smrad se line od topení.
+\endverse
+\beginverse
+Zase se mi
+dech zatajil,
+spečeného křečka bych před tetou neobhájil.
+
+A dřív než tam
+sebou seknu,
+měl bych asi vymyslet,
+jak tetě potom řeknu:
+\endverse
+\rf
+
+\beginverse
+Hej teto,
+já ho fakt zabil,
+ten bídák sežral magnet
+a k topení se přitavil.
+
+Hej teto,
+co na to říci?
+Můžeš si ho maximálně připnout na lednici.
+\endverse
+\rf[2]
+
+\endsong

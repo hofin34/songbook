@@ -1,3 +1,4 @@
+ \begin{smallfont}
  \beginsong{Burlaci}[by={Kabát}]
 \beginverse
 \[Emi]Konopný lana, tak ty už něco vydr\[Hmi]ží,
@@ -58,3 +59,5 @@ Tak se mi \[B]zdá…
 na lodě \[Es]za tebou.
 \endverse
 \endsong
+
+ \end{smallfont}

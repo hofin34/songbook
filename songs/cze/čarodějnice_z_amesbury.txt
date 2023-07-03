@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Čarodějnice z Amesbury}[by={Asonance}]
 \beginverse
 Zuzana \[Dmi]byla dívka, \[C]která žila v \[Dmi]Amesbury
@@ -50,3 +51,4 @@ Zemřela tiše samotná, pod letní oblohou.
 \endverse
 
 \endsong
+\end{smallfont}
