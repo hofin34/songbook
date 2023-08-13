@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Kdoví jestli}[by={Kabát}]
 \beginverse
 Kdoví \[H]jestli
@@ -62,3 +63,5 @@ a slzy na pavlači neroní.
 
 
 \endsong
+
+\end{smallfont}

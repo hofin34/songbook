@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Pohoda}[by={Kabát}]
 \beginverse
 \[F#mi] Vezmu tě má milá rovnou \[C#mi] k nám,
@@ -37,3 +38,5 @@ schovej sirky ať je neviděj.
 \rf
 
 \endsong
+
+\end{smallfont}

@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Prodavač}[by={Michal Tučný}]
 
 \beginverse*
@@ -54,3 +55,4 @@
 
 
 \endsong
+\end{smallfont}

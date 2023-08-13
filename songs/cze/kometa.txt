@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Kometa}[by={Jaromír Nohavica}]
 \beginverse
 \[Ami]Spatřil jsem kometu, oblohou letěla,
@@ -54,3 +55,5 @@ my už tu nebudem, ale jiný jí zazpívá.
 \endchorus
 \rf
 \endsong
+
+\end{smallfont}

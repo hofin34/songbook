@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Magdaléna}[by={Jelen}]
 
 \beginverse
@@ -47,3 +48,5 @@ když vycházíš ze dveří, tak sama tomu nevěříš,
 nenech se!
 \endchorus
 \endsong
+
+\end{smallfont}

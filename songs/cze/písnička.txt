@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Písnička}[by={Pokáč, Pavel Callta}]
 \beginverse
 \[Emi]Návrat do rodné země, starší žena vedle mě,
@@ -58,3 +59,5 @@ Liborek teď bručí v cele, tenkrát dělal učitele!
 \endverse
 \rf[2]
 \endsong
+
+\end{smallfont}

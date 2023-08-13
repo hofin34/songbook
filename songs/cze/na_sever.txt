@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Na sever}[by={Kabát}]
 \beginverse
 \[G]No tak mi \[Emi]zatancuj, ať \[D]náladu \[G]mám,
@@ -43,3 +44,5 @@ Cestu \[A]znám a \[D]neměním \[A]směr,
 \[F#mi]dojdu k řece \[D]plný ryb až \[E]tam na se\[A]ver.
 \endchorus
 \endsong
+
+\end{smallfont}

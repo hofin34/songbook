@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Jericho}[by={David Stypka}]
 \beginchorus
 Budu se \[D]dívat, jak vstáváš a \[F#mi]jdeš,
@@ -42,3 +43,5 @@ rovnáš si \[E]záda, čistí tě \[Hmi]déšť,
 za chvíli \[D]na mě zapome\[F#mi]neš a na strachy \[E]taky.\[Hmi]
 \endchorus
 \endsong
+
+\end{smallfont}

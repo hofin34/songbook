@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Malotraktorem}[by={Mig 21}]
 \beginverse
 \[D]Cestou necestou
@@ -68,3 +69,5 @@ a budeš \[D]mííííít \[G]ráda
 a budeš \[D]mííííít \[G]ráda
 \endverse
 \endsong
+
+\end{smallfont}

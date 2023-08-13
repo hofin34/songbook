@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Láska v housce}[by={Xindl X}]
 \beginverse*
 Um um um a á
@@ -69,3 +70,5 @@ objednávku
 \endchorus
 
 \endsong
+
+\end{smallfont}

@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Elektrický valčík}[by={Zdeněk Svěrák}]
 \beginverse
 \[Ami]Jednoho letního večera na návsi pod starou \[E7]lípou
@@ -48,3 +49,4 @@ jedna fáze, druhá fáze, třetí pěkně vedle ní.
 
 
 \endsong
+\end{smallfont}

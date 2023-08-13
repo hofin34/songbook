@@ -565,35 +565,6 @@ to bych si vlastně hrozně přál
 to bych si vlastně hrozně přál
 \endverse
 \endsong
-\beginsong{Buráky}[by={-}]
-\beginverse
-\[G]Když Sever válčí s Jihem a \[C]zem jde do vál\[G]ky
-a v polích místo bavlny teď \[A]rostou bodlá\[A]ky.
-\[G]A ve stínu u silnice vidíš \[C]z Jihu vojá\[G]ky,
-jak válejí se klidně \[D]louskaj' burá\[G]ky.
-\endverse
-\beginchorus
-\[G]Hej hou, hej hou, nač \[C]chodit do vál\[G]ky.
-Je lepší doma sedět a \[A]louskat burá\[D]ky.
-\[G]Hej hou, hej hou, \[C]nač chodit do vál\[G]ky.
-Je lepší doma sedět a \[D]louskat burá\[G]ky.
-\endchorus
-\beginverse
-Plukovník sedí v sedle, volá: "Yankeeové jdou!",
-ale mužstvo v trávě leží, prej už dál nemohou.
-Pan plukovník se otočí a koukne do dálky,
-vidí tu slavnou armádu, jak louská buráky.
-\endverse
-\rf
-\beginverse
-Až tahle válka skončí a jestli budem žít.
-Své milenky a ženy pak půjdem políbit.
-Když zeptají se: "Hrdino, cos' dělal za války?"
-"Jo, flákal jsem se s kvérem a louskal buráky."
-\endverse
-
-
-\endsong
  \begin{smallfont}
  \beginsong{Burlaci}[by={Kabát}]
 \beginverse
@@ -1480,7 +1451,7 @@ co hoří se nezha\[Dmi]síná.
 \endchorus
 
 \beginverse
-Píšu si denník,
+Píšu si deník,
 abych zaznamenal realitu a zároveň jí unik.
 Básně skládám,
 rád se směju, málo se hádám.
@@ -1495,7 +1466,8 @@ Kdo ví, kolik času nám zbývá .. hmmmm.
 \rf
  
 
-\endsong\beginsong{Elektrický valčík}[by={Zdeněk Svěrák}]
+\endsong\begin{smallfont}
+\beginsong{Elektrický valčík}[by={Zdeněk Svěrák}]
 \beginverse
 \[Ami]Jednoho letního večera na návsi pod starou \[E7]lípou
 hostinský Antonín Kučera vyvalil soudeček s \[Ami]pípou,
@@ -1545,7 +1517,7 @@ jedna fáze, druhá fáze, třetí pěkně vedle ní.
 
 
 \endsong
-\beginsong{Frankie Dlouhán}[by={Nedvědi}]
+\end{smallfont}\beginsong{Frankie Dlouhán}[by={Nedvědi}]
 \beginverse
 \[C]Kolik je smutného,
 když \[F]mraky černé \[C]jdou
@@ -2392,6 +2364,7 @@ HEJ!
 \rf
 
 \endsong
+\begin{smallfont}
 \beginsong{Jericho}[by={David Stypka}]
 \beginchorus
 Budu se \[D]dívat, jak vstáváš a \[F#mi]jdeš,
@@ -2436,7 +2409,8 @@ rovnáš si \[E]záda, čistí tě \[Hmi]déšť,
 za chvíli \[D]na mě zapome\[F#mi]neš a na strachy \[E]taky.\[Hmi]
 \endchorus
 \endsong
-\beginsong{Ježíš}[by={Mucha}]
+
+\end{smallfont}\beginsong{Ježíš}[by={Mucha}]
 \beginverse
 \[D] \[A]Není nic \[Hmi]skvělej\[G]šího
 \[D]než \[A]milovat tě, \[Hmi]než \[G]milovat tě
@@ -2491,6 +2465,7 @@ proč mi tak mrdá
 \endverse
 \rf
 \endsong
+\begin{smallfont}
 \beginsong{Jizva na rtu}[by={Jaromír Nohavica}]
 \beginverse
 \[C]Sem příliš starý na to abych věřil v revoluci
@@ -2541,7 +2516,8 @@ A kdyby se někdo z vás na anděla ptal,
 tak mám jizvu na rtu, když při mně stál.
 \endverse
 \endsong
-\beginsong{Jožin z bažin}[by={Ivan Mládek a Banjo Band}]
+
+\end{smallfont}\beginsong{Jožin z bažin}[by={Ivan Mládek a Banjo Band}]
 \beginverse
 \[Emi]Jedu takhle tábořit \[H7]Škodou 100 na \[Emi]Oravu,
 spěchám proto, riskuji, pro\[H7]jíždím přes Mo\[Emi]ravu.
@@ -2578,6 +2554,7 @@ Projížděl jsem Moravou směrem na Vizovice,
    dobré každé lóve, prodám já ho do ZOO.
 \endchorus
 \endsong
+\begin{smallfont}
 \beginsong{Kdoví jestli}[by={Kabát}]
 \beginverse
 Kdoví \[H]jestli
@@ -2642,7 +2619,8 @@ a slzy na pavlači neroní.
 
 
 \endsong
-\beginsong{Kdyby byl Bavorov}[by={Lidová}]
+
+\end{smallfont}\beginsong{Kdyby byl Bavorov}[by={Lidová}]
 
 
 \beginverse
@@ -2741,6 +2719,7 @@ spolu půjdem tou cestou, kudy ty musíš jít.
 \endverse
 \rf[2]
 \endsong
+\begin{smallfont}
 \beginsong{Kometa}[by={Jaromír Nohavica}]
 \beginverse
 \[Ami]Spatřil jsem kometu, oblohou letěla,
@@ -2797,7 +2776,8 @@ my už tu nebudem, ale jiný jí zazpívá.
 \endchorus
 \rf
 \endsong
-\beginsong{Kořenová zelenina}[by={Krausberry}]
+
+\end{smallfont}\beginsong{Kořenová zelenina}[by={Krausberry}]
 \beginverse
 \[C]Paní prodavačko \[E7]dobrý den
 \[F]neviděla jsem vás \[G#]nejmíň
@@ -3016,6 +2996,7 @@ Protože
 \endverse
 \rf[2]
 \endsong
+\begin{smallfont}
 \beginsong{Láska v housce}[by={Xindl X}]
 \beginverse*
 Um um um a á
@@ -3087,7 +3068,8 @@ objednávku
 \endchorus
 
 \endsong
-\beginsong{Lokomotiva}[by={Poletíme}]
+
+\end{smallfont}\beginsong{Lokomotiva}[by={Poletíme}]
 
 \beginverse
 \[G]Pokaždé když tě vidím, \[D]vím, že by to šlo
@@ -3122,7 +3104,8 @@ a ty neztratíš svoji krásu, stále štíhlá kolem pasu,
 stále dokážeš mě chytit lasem a přitáhnout na terasu
 \endverse
 \rf
-\endsong\beginsong{Magdaléna}[by={Jelen}]
+\endsong\begin{smallfont}
+\beginsong{Magdaléna}[by={Jelen}]
 
 \beginverse
 \[A] Zapal ten oheň ve mně, \[D] čeho se bojíš,
@@ -3171,7 +3154,8 @@ když vycházíš ze dveří, tak sama tomu nevěříš,
 nenech se!
 \endchorus
 \endsong
- \beginsong{Malá dáma}[by={Kabát}]
+
+\end{smallfont} \beginsong{Malá dáma}[by={Kabát}]
 \beginverse
 \[Emi]Utrhla trávu a začla \[Ami]hrát 
    ta malá dáma z předměs\[C]tí 
@@ -3221,6 +3205,7 @@ nenech se!
 
 \rf
 \endsong
+\begin{smallfont}
 \beginsong{Malotraktorem}[by={Mig 21}]
 \beginverse
 \[D]Cestou necestou
@@ -3291,7 +3276,8 @@ a budeš \[D]mííííít \[G]ráda
 a budeš \[D]mííííít \[G]ráda
 \endverse
 \endsong
-\beginsong{Malování}[by={Divokej Bill}]
+
+\end{smallfont}\beginsong{Malování}[by={Divokej Bill}]
 \beginverse*
 {\nolyrics Intro: ( \[Dmi B C] ) 3x \[Dmi B Gmi Ami]}
 \endverse
@@ -3777,7 +3763,8 @@ Příští pátek v Kroměříži.
 
 
 
-\endsong\beginsong{Na sever}[by={Kabát}]
+\endsong\begin{smallfont}
+\beginsong{Na sever}[by={Kabát}]
 \beginverse
 \[G]No tak mi \[Emi]zatancuj, ať \[D]náladu \[G]mám,
 a dej mi \[Emi]celou noc já \[D]nechci bejt \[G]sám,
@@ -3822,7 +3809,8 @@ Cestu \[A]znám a \[D]neměním \[A]směr,
 \[F#mi]dojdu k řece \[D]plný ryb až \[E]tam na se\[A]ver.
 \endchorus
 \endsong
-\beginsong{Nebude to ľahké}[by={Richard Müller}]
+
+\end{smallfont}\beginsong{Nebude to ľahké}[by={Richard Müller}]
 \beginverse
 \[Ami]Vraj zmenila si \[G]číslo
 \[Ami]A do zámku \[G]nepasuje viac môj \[F]kľúč
@@ -4018,7 +4006,8 @@ a \[Hmi]mávaním vás \[F#m]nelétavé \[G]zdraví
 \rf[2]
 
 
-\endsong\beginsong{Písnička}[by={Pokáč, Pavel Callta}]
+\endsong\begin{smallfont}
+\beginsong{Písnička}[by={Pokáč, Pavel Callta}]
 \beginverse
 \[Emi]Návrat do rodné země, starší žena vedle mě,
 \[D]já sedím, dáma stojí \[Hmi7]v šalině kouká chladně.
@@ -4078,7 +4067,8 @@ Liborek teď bručí v cele, tenkrát dělal učitele!
 \endverse
 \rf[2]
 \endsong
-\beginsong{Plakala}[by={Divokej Bill}]
+
+\end{smallfont}\beginsong{Plakala}[by={Divokej Bill}]
 \beginverse
 \[Ami]toužila kroužila kryla mi záda
 souložila kouřila mě měla mě ráda
@@ -4177,7 +4167,8 @@ A až to ucítíš, zkus kašlat na pravidla
 
 
 
-\endsong\beginsong{Pohoda}[by={Kabát}]
+\endsong\begin{smallfont}
+\beginsong{Pohoda}[by={Kabát}]
 \beginverse
 \[F#mi] Vezmu tě má milá rovnou \[C#mi] k nám,
 \[F#mi] kolem louky lesy \[C#mi] hejna vran,
@@ -4216,7 +4207,8 @@ schovej sirky ať je neviděj.
 \rf
 
 \endsong
-\beginsong{Popelka}[by={Xindl X}]
+
+\end{smallfont}\beginsong{Popelka}[by={Xindl X}]
 
 \beginverse
 Už zase \[C]skončil flám,
@@ -4399,6 +4391,7 @@ jinak budu radši sám
 
 
 \endsong
+\begin{smallfont}
 \beginsong{Prodavač}[by={Michal Tučný}]
 
 \beginverse*
@@ -4454,7 +4447,8 @@ jinak budu radši sám
 \endverse
 
 
-\endsong\beginsong{První signální}[by={Chinaski}]
+\endsong
+\end{smallfont}\beginsong{První signální}[by={Chinaski}]
 \gtab{G#}{4:(133211)}
 \gtab{Es}{3:XX3(121)}
 \beginverse

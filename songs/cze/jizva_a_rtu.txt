@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Jizva na rtu}[by={Jaromír Nohavica}]
 \beginverse
 \[C]Sem příliš starý na to abych věřil v revoluci
@@ -48,3 +49,5 @@ A kdyby se někdo z vás na anděla ptal,
 tak mám jizvu na rtu, když při mně stál.
 \endverse
 \endsong
+
+\end{smallfont}
