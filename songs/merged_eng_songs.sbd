@@ -9,7 +9,7 @@
 \newenvironment{smallfont}{
   \renewcommand{\lyricfont}{\sffamily\large}
 }{
-    \renewcommand{\lyricfont}{\sffamily\LARGE}
+  \renewcommand{\lyricfont}{\sffamily\LARGE}
 }\beginsong{21 Guns}[by={Green Day}]
 \beginverse
 \[Dm]Do you \[B]know what's \[F]worth fighting \[C]for,

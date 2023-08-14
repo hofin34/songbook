@@ -9,7 +9,7 @@
 \newenvironment{smallfont}{
   \renewcommand{\lyricfont}{\sffamily\large}
 }{
-    \renewcommand{\lyricfont}{\sffamily\LARGE}
+  \renewcommand{\lyricfont}{\sffamily\LARGE}
 }\beginsong{1982}[by={Vypsaná Fixa}]
 
 \beginverse*
