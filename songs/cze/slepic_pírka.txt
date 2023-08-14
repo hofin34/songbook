@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Slepic pírka}[by={Mig 21}]
 \beginverse
 \[F#mi]Vyplašený zajíc běhal
@@ -35,3 +36,5 @@ poslední
 \endverse
 \rf
 \endsong
+
+\end{smallfont}

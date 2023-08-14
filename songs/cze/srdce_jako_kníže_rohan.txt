@@ -1,3 +1,4 @@
+ \begin{smallfont}
  \beginsong{Srdce jako kníže Rohan}[by={Richard Müller}]
 \beginverse
 \[F]Měsíc je jak Zlatá bula \[C]Sicílska
@@ -59,3 +60,5 @@ Srdce jako kníže Rohan musíš mít
 \endchorus
 \endsong
 
+
+\end{smallfont}

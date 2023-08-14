@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{What Shalll We Do With a Drunken Sailor}[by={The Irish Rovers}]
 \beginverse
 \[Emi]What shall we do with a drunken sailor
@@ -66,8 +67,6 @@ early in the morning
 \endverse
 \rf
 
-
-
-
-
 \endsong
+
+\end{smallfont}

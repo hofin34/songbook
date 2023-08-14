@@ -10,6 +10,7 @@ all:
 	rm -f songs/$(MERGED_CZ_SONGS)
 	rm -f songs/$(MERGED_OTHER_SONGS)
 	cat ${STYLES} > songs/${MERGED_CZ_SONGS}
+	cat ${STYLES} > songs/${MERGED_OTHER_SONGS}
 	ls songs/cze/* | sort | xargs cat >> songs/$(MERGED_CZ_SONGS)
 	ls songs/eng/* | sort | xargs cat >> songs/$(MERGED_OTHER_SONGS)
 	pdflatex --jobname=$(TO_FILE) $(FROM_FILE)

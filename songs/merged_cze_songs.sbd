@@ -1177,13 +1177,13 @@ příjemnými \[Emi] lidmi, kteří olizu\[C]jí
 \beginverse
 Pustíme si starý gramofon
 budeme mít světy, který nás zajímají 
- viny loví bůh - je šampion
+ vinylový bůh - je šampion
 proležíme v  posteli celou neděli 
 \endverse
 \beginverse
  Pustíme si starý gramofon
 budeme mít světy, který nás zajímají 
- viny loví bůh – je šampion
+ vinylový bůh – je šampion
 venku ten náš svět sledují kamery 
 \endverse
 \beginverse
@@ -1193,7 +1193,7 @@ Sledují kamery, a hudba hraje dál
 \beginverse
  Pustíme si  starý gramofon (3X)
 budeme mít světy, který nás zajímají 
- viny loví bůh - je šampion
+ vinylový bůh - je šampion
 venku ten náš  svět sledují kamery 
 \endverse
 \endsong
@@ -4845,6 +4845,7 @@ Nad hrobem polární zář
 \rf
 
 \endsong
+\begin{smallfont}
 \beginsong{Síla starejch vín}[by={Škwor}]
 \beginverse
 \[C] Podle nepsanejch \[Ami]zákonů hledáme \[F] něco, co nám nejspíš \[G] schází
@@ -4869,7 +4870,8 @@ No a \[Ami]přiznej, taky jsme se \[G] báli, co bude \[C] dál
 \endverse
 \rf
 \endsong
- \beginsong{Silný refrén}[by={Horkýže Slíže}]
+
+\end{smallfont} \beginsong{Silný refrén}[by={Horkýže Slíže}]
 \beginverse*
 \endverse
 \beginverse
@@ -4977,6 +4979,7 @@ to slečna závist vstoupila zas do někoho z nás.
 \rf
 
 \endsong
+\begin{smallfont}
 \beginsong{Slepic pírka}[by={Mig 21}]
 \beginverse
 \[F#mi]Vyplašený zajíc běhal
@@ -5014,6 +5017,8 @@ poslední
 \endverse
 \rf
 \endsong
+
+\end{smallfont} \begin{smallfont}
  \beginsong{Srdce jako kníže Rohan}[by={Richard Müller}]
 \beginverse
 \[F]Měsíc je jak Zlatá bula \[C]Sicílska
@@ -5075,7 +5080,8 @@ Srdce jako kníže Rohan musíš mít
 \endchorus
 \endsong
 
-\beginsong{Šrouby a matice}[by={Mandrage}]
+
+\end{smallfont}\beginsong{Šrouby a matice}[by={Mandrage}]
 \beginverse
 Mezi zemí a \[A] nebem
 A širým \[E] světem
@@ -5331,6 +5337,7 @@ Lebo my \[E]máme ruky nad \[A]bibliou
 \rf
 \endsong
 
+\begin{smallfont}
 \beginsong{V blbým věku}[by={Xindl X}]
 \beginverse
 Ujel mi\[C] vlak i poslední\[G] metro,
@@ -5372,7 +5379,8 @@ Nevím, věřím, že až se prospím, pochopím, co s tím.
 \endverse
 \rf 2x
 \endsong
-\beginsong{Včelín}[by={Čechomor}]
+
+\end{smallfont}\beginsong{Včelín}[by={Čechomor}]
 \beginverse
 \[Dmi]Sousedovic Věra má
 Jako žádná jiná

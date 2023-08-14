@@ -1,4 +1,16 @@
-\beginsong{21 Guns}[by={Green Day}]
+% There was a problem, that when was environment defined in songbook_main.tex, songs couldn't see it, because it was included via input
+% This file is prepended via Makefile
+
+
+\renewcommand{\lyricfont}{\sffamily\LARGE}
+\renewcommand{\printchord}[1]{\rmfamily\Large\textbf{#1}}
+
+% Define a custom environment for long songs (with small font)
+\newenvironment{smallfont}{
+  \renewcommand{\lyricfont}{\sffamily\large}
+}{
+    \renewcommand{\lyricfont}{\sffamily\LARGE}
+}\beginsong{21 Guns}[by={Green Day}]
 \beginverse
 \[Dm]Do you \[B]know what's \[F]worth fighting \[C]for,
 \[Dm]When it's \[B]not worth \[F]dying for?\[C]
@@ -201,6 +213,8 @@ It's a cold and it's a broken Hallelujah
 \endverse
 \rf
 \endsong
+
+\begin{smallfont}
 \beginsong{Hero Of War}[by={Rise Against}]
 \beginverse
 He said, \[E]“Son,
@@ -238,60 +252,60 @@ And a flag that I \[H]trust
 \endchorus
 \beginverse
 
-I kicked in the \[E]door
+I kicked in the door
 
-I yelled my \[G#mi]commands
+I yelled my commands
 
-The children, they \[A]cried
+The children, they cried
 
-But I got my \[E]man
+But I got my man
 
-We took him \[A]away
+We took him away
 
-A bag over his \[E]face
+A bag over his face
 
-From his family and his \[H]friends
+From his family and his friends
 \endverse
 \beginverse
-They took off his \[E]clothes
+They took off his clothes
 
-They pissed in his \[G#mi]hands
+They pissed in his hands
 
-I told them to \[A]stop
+I told them to stop
 
-But then I joi\[E]ned in
+But then I joined in
 
-We beat him with g\[A]uns
+We beat him with guns
 
-And batons not just on\[E]ce
+And batons not just once
 
-But again and ag\[H]ain
+But again and again
 \endverse
 \rf
 \beginverse
 
-She wal\[E]ked through bullets and h\[G#mi]aze
+She walked through bullets and haze
 
-I asked her to s\[A]top
+I asked her to stop
 
-I begged her to s\[E]tay
+I begged her to stay
 
-But she pressed \[A] on
+But she pressed  on
 
-So I lifted my \[E]gun
+So I lifted my gun
 
-And I fired a\[H]way
+And I fired away
 \endverse
 \beginverse
-And the sh\[E]ells jumped through the\[G#mi] smoke
+And the shells jumped through the smoke
 
-And into the sa\[A]nd
+And into the sand
 
-That the blood now had s\[E]oaked
-A
-She collapsed with a flag in her \[E]hand
+That the blood now had soaked
 
-A flag white as\[H] snow
+She collapsed with a flag in her hand
+
+A flag white as snow
 \endverse
 \beginchorus
 A hero of w\[C#mi]ar
@@ -316,7 +330,8 @@ It’s the only flag I t\[H]rust
 Well what would you \[A]say, if I said that you \[E]could?
 \endverse
 \endsong
-\beginsong{I'm a Believer}[by={The Monkees}]
+
+\end{smallfont}\beginsong{I'm a Believer}[by={The Monkees}]
 \beginverse
 \[G]I thought love was \[D]only true in \[G]fairy tales
 \[G]Meant for someone \[D]else but not for \[G]me
@@ -452,6 +467,7 @@ Our house, in the middle of our street
 \endchorus
 
 \endsong
+\begin{smallfont}
 \beginsong{Radioactive}[by={Imagine Dragons}]
 \gtab{Dmaj7}{X00222}
 \beginverse
@@ -486,7 +502,8 @@ Who\[E]a
 \endverse
 \rf
 \endsong
-\beginsong{Room Of Ghosts}[by={ElevenHill}]
+
+\end{smallfont}\beginsong{Room Of Ghosts}[by={ElevenHill}]
 \beginverse*
 e|-------0----------------|
 
@@ -540,37 +557,7 @@ Now gone...
 /: In the room of ghosts :/ 5x
 \endverse
 \endsong
-\beginsong{Shadow of the day}[by={Linkin Park}]
-
-\beginverse
-\[G#mi]I close both \[F#]locks below the \[E]window
-I close both blinds and turn away
-
-Sometimes solutions aren't so simple
-Sometimes good bye's the only away
-\endverse
-
-\beginchorus
-And the \[B]sun \[F#]will set for \[G#mi]you \[E]
-The sun will set for you
-
-And the \[B]shadow of the \[F#]day
-Will \[G#mi]embrace the world in \[E]grey
-
-And the sun will set for you
-\endchorus
-
-\beginverse
-In cards and flowers on your window
-Your friends all plead for you to stay
-
-Sometimes beginnings aren't so simple
-Sometimes good bye's the only way
-\endverse
-
-\rf[2]
-
-\endsong
+\begin{smallfont}
 \beginsong{Should I Stay Or Should I Go}[by={The Clash}]
 \beginverse*
 \[D] \[G] \[D]
@@ -601,12 +588,12 @@ So come on and let me \[A]know \[A]
 \[D] \[G] \[D]
 \endchorus
 \beginverse
-This indecision’s bugging me \[D] \[G] \[D] / La indecisión me molesta
-If you don't want me, set me free \[D] \[G] \[D] / Si no me quieres, líbrame
-Exactly whom I'm supposed to be \[G] \[F] \[G] / Dígame, que debo ser
-Don't you know which clothes even fit me? \[D] \[G] \[D] / Sabes qué ropa me queda?
-Come on and let me know \[A] / Me tienes que decir
-Should I cool it or should I blow \[D] \[G] \[D] / Me debo ir o quedarme?
+This indecision’s bugging me  / La indecisión me molesta
+If you don't want me, set me free  Si no me quieres, líbrame
+Exactly whom I'm supposed to be  / Dígame, que debo ser
+Don't you know which clothes even fit me? / Sabes qué ropa me queda?
+Come on and let me know  / Me tienes que decir
+Should I cool it or should I blow  / Me debo ir o quedarme?
 \endverse
 \beginchorus
 Should I stay or should I \[D]go now? \[G] \[D] / Yo me frío o lo soplo?
@@ -624,6 +611,8 @@ So you gotta let me \[A]know \[A] / Me tienes que desir
 \[D]Should I \[G]stay or should I \[D]go?
 \endchorus
 \endsong
+
+\end{smallfont}\begin{smallfont}
 \beginsong{The Sound of Silence}[by={Simon and Garfunkel}]
 \beginverse
 H\[Ami]ello darkness my old fri\[G]end, I've come to talk with you ag\[Ami]ain.
@@ -665,6 +654,72 @@ And wh\[C]ispered in the \[G]sounds of si\[Ami]lence.
 
 
 \endsong
+
+\end{smallfont}\beginsong{Wellerman}[by={traditional}]
+
+\beginverse
+There \[Am]once was a ship that put to sea
+And the \[Dm]name of the ship was the \[Am]Billy o' Tea
+The \[Am]winds blew hard, her bow dipped down
+\[E]Blow, my bully boys, \[Am]blow (huh!)
+\endverse
+ 
+ \beginchorus
+\[F]Soon may the \[C]Wellerman come
+To \[Dm]bring us sugar and \[Am]tea and rum
+\[F]One day, when the \[C]tonguin’ is done,
+We’ll \[E]take our leave and \[Am]go
+\endchorus
+
+ 
+\beginverse
+She had not been two weeks from shore
+When down on her a right whale bore
+The captain called all hands and swore
+He'd take that whale in tow (huh!)
+\endverse
+
+\rf
+
+\beginverse
+Before the boat had hit the water
+The whale's tail came up and caught her
+All hands to the side, harpooned and fought her
+When she dived down below (huh!)
+\endverse
+ 
+ \rf
+
+
+\beginverse
+No line was cut, no whale was freed;
+The Captain's mind was not of greed
+But he belonged to the whaleman's creed;
+She took the ship in tow (huh!)
+\endverse
+ 
+ \rf
+
+\beginverse
+For forty days, or even more
+The line went slack, then tight once more
+All boats were lost (there were only four)
+But still that whale did go
+\endverse
+ 
+ \rf
+
+\beginverse
+As far as I've heard, the fight's still on;
+The line's not cut and the whale's not gone
+The Wellerman makes his regular call
+To encourage the Captain, crew, and all
+\endverse
+
+\rf
+
+
+\endsong\begin{smallfont}
 \beginsong{What Shalll We Do With a Drunken Sailor}[by={The Irish Rovers}]
 \beginverse
 \[Emi]What shall we do with a drunken sailor
@@ -733,11 +788,9 @@ early in the morning
 \endverse
 \rf
 
-
-
-
-
 \endsong
+
+\end{smallfont}\begin{smallfont}
 \beginsong{With Or Without You}[by={U2}]
 \beginverse
 \[D]See the st\[A]one set in your e\[Hmi]yes
@@ -794,3 +847,5 @@ With or without you
 With or without you
 \endchorus
 \endsong
+
+\end{smallfont}

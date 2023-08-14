@@ -1,3 +1,5 @@
+
+\begin{smallfont}
 \beginsong{Hero Of War}[by={Rise Against}]
 \beginverse
 He said, \[E]“Son,
@@ -35,60 +37,60 @@ And a flag that I \[H]trust
 \endchorus
 \beginverse
 
-I kicked in the \[E]door
+I kicked in the door
 
-I yelled my \[G#mi]commands
+I yelled my commands
 
-The children, they \[A]cried
+The children, they cried
 
-But I got my \[E]man
+But I got my man
 
-We took him \[A]away
+We took him away
 
-A bag over his \[E]face
+A bag over his face
 
-From his family and his \[H]friends
+From his family and his friends
 \endverse
 \beginverse
-They took off his \[E]clothes
+They took off his clothes
 
-They pissed in his \[G#mi]hands
+They pissed in his hands
 
-I told them to \[A]stop
+I told them to stop
 
-But then I joi\[E]ned in
+But then I joined in
 
-We beat him with g\[A]uns
+We beat him with guns
 
-And batons not just on\[E]ce
+And batons not just once
 
-But again and ag\[H]ain
+But again and again
 \endverse
 \rf
 \beginverse
 
-She wal\[E]ked through bullets and h\[G#mi]aze
+She walked through bullets and haze
 
-I asked her to s\[A]top
+I asked her to stop
 
-I begged her to s\[E]tay
+I begged her to stay
 
-But she pressed \[A] on
+But she pressed  on
 
-So I lifted my \[E]gun
+So I lifted my gun
 
-And I fired a\[H]way
+And I fired away
 \endverse
 \beginverse
-And the sh\[E]ells jumped through the\[G#mi] smoke
+And the shells jumped through the smoke
 
-And into the sa\[A]nd
+And into the sand
 
-That the blood now had s\[E]oaked
-A
-She collapsed with a flag in her \[E]hand
+That the blood now had soaked
 
-A flag white as\[H] snow
+She collapsed with a flag in her hand
+
+A flag white as snow
 \endverse
 \beginchorus
 A hero of w\[C#mi]ar
@@ -113,3 +115,5 @@ It’s the only flag I t\[H]rust
 Well what would you \[A]say, if I said that you \[E]could?
 \endverse
 \endsong
+
+\end{smallfont}

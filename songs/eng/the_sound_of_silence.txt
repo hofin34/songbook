@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{The Sound of Silence}[by={Simon and Garfunkel}]
 \beginverse
 H\[Ami]ello darkness my old fri\[G]end, I've come to talk with you ag\[Ami]ain.
@@ -39,3 +40,5 @@ And wh\[C]ispered in the \[G]sounds of si\[Ami]lence.
 
 
 \endsong
+
+\end{smallfont}

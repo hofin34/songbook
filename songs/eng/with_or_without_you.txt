@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{With Or Without You}[by={U2}]
 \beginverse
 \[D]See the st\[A]one set in your e\[Hmi]yes
@@ -54,3 +55,5 @@ With or without you
 With or without you
 \endchorus
 \endsong
+
+\end{smallfont}

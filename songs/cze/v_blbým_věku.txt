@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{V blbým věku}[by={Xindl X}]
 \beginverse
 Ujel mi\[C] vlak i poslední\[G] metro,
@@ -39,3 +40,5 @@ Nevím, věřím, že až se prospím, pochopím, co s tím.
 \endverse
 \rf 2x
 \endsong
+
+\end{smallfont}

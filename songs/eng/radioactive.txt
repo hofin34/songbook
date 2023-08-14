@@ -1,3 +1,4 @@
+\begin{smallfont}
 \beginsong{Radioactive}[by={Imagine Dragons}]
 \gtab{Dmaj7}{X00222}
 \beginverse
@@ -32,3 +33,5 @@ Who\[E]a
 \endverse
 \rf
 \endsong
+
+\end{smallfont}
